@@ -3,9 +3,6 @@
 ## VERY IMPORTANT first step, Setup! 
 0. Complete the setup.md install instructions from the Summer HW Phase 1 setup instructions here:  https://github.com/CUNYTechPrep/2024-python-summer-prep/blob/main/setup.md
 	* You should have already done this, however, if you did not do this yet, complete the guide above or else this will def fail. 
-## Authing Github
-* Follow instructions [provided here](https://github.com/CUNYTechPrep/2024-python-summer-prep/blob/main/setup-part-2-github.md) 
-* Stop before the 'Making Sure It Works - Create and Edit your own Repo' section.  We will be doing that part later today. 
 
 
 ## Forking The Repo
@@ -42,16 +39,19 @@
 
 
 #### Doing your HW. 
-0. Highly suggest spening your repo directory folder/file in VS Code.  You can easily run ipython notebooks in there, and even have git intergration. 
+0. MAKE A COPY OF THE EXERCISE FILE!!!!!!  
+	* Make a copy of `Exercise-DONT-EDIT-MAKE-COPY.ipynb`
+	* Name the new copy as `Exercise-[YOUR-INITIALS].ipynb`. Zack DeSario's would be `Exercise-ZD.ipynb`.
+	* DO NOT EDIT THE `Exercise-DONT-EDIT-MAKE-COPY.ipynb`
+	* Complete all the questions in YOUR COPY of the exercise file.
 
+0. OPEN YOUR REPO USING VS CODE.
+	* If you are not using VS Code then... 
+		* Open your termial, type into your terminal and run
+		* `jupyter notebook`
+		* If that doesn't work, run `jupyter lab`
 
-0. If you are not using VS Code then... Open your termial, type into your terminal and run
-	* `jupyter notebook`
-	* If that doesn't work, run `jupyter lab`
-
-0. This should have launched a web page.  In that page, navigate to Week-01/Exercise-[YOUR-INITIALS].ipynb notebook.
-
-0. In the first cell print your name
+0. In the first cell OF YOUR COPIED EXERCISE FILE print something nice about the TA. 
 	* `print('[SOMETHING NICE ABOUT YOUR TA]')`
 
 0. Save the file by clicking the disk icon in the top right or `Command+s`. Or clicking the floppy-disk icon in the top right. 
@@ -67,6 +67,9 @@
 	* `git commit -m '[YOUR COMMIT MESSAGE HERE]'`
 0. Push your changes
 	* `git push`
+0. SOME OF YOU WILL GET AN ERROR WHEN RUNNING GIT PUSH. 
+0. This is because you have not logged into github yet. 
+0. Its okay, see the AUTHING GITHUB section below for instructions on how to fix that error.
 
 ## Sanity check
 0. Go to YOUR FORKED github repo. 
@@ -74,17 +77,71 @@
 0. YOU SHOULD SEE YOUR `print('[SOMETHING NICE ABOUT YOUR TA]')` edits.
 0. Make sure you can see the changes you made. 
 0. Copy that exact URL, it should look something like this. https://github.com/zd123/my-fork-2023-fall-data-science-fridays/blob/main/Week-01-Pandas/Exercise-ZD.ipynb 
-0. Paste that URL next to your name in the HW Submission Sheet. 
-	* [ZD TO CREATE Tuesday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/1HJb_Hf0dVCOWhw-jimE-E9bnFCROZ1Hx_GLRlQhQ8lA/edit#gid=0)
-	* ZD CREATE WED. 
-	* [ZD TO CREATE  Friday's 12:30 HW Submission Sheet](https://docs.google.com/spreadsheets/d/1JjyMHmS0n8IuCcYihp5Z9YtTDwsE2ygwIPUqT0tEowE/edit#gid=0)
-	* [ZD TO CREATE Friday's 3:30 HW Submission Sheet](https://docs.google.com/spreadsheets/d/1PbQ1JI9cC9WZUnJoEgfoFWhXw7a5wx-53p7bmQmKhKI/edit#gid=0)
+0. Paste that URL next to your name in the HW Submission Sheet in the Exercise column. 
+	* [Tuesday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/150MVMGhClrJ7NFAoukEvbZoujM3a_-7v9r9q4QihiAc/edit?gid=0#gid=0)
+	* [Wed HW Submission Sheet](https://docs.google.com/spreadsheets/d/1h3TcC5mDSPhOuRIHJnq5qr-MHsEXfVdDxgx9s1YHWRM/edit?usp=sharing)
+	* [Friday's 12:30 HW Submission Sheet](https://docs.google.com/spreadsheets/d/1jws-NeM5Ww4m903Xa8Vgdzcqi1LO3r_zXNQkNxeBk34/edit?usp=sharing)
+	* [Friday's 6:30 HW Submission Sheet](https://docs.google.com/spreadsheets/d/1mIpyT3I08v-uU--gOqb0dVLy95jtnchKMAsAWXf_mus/edit?usp=sharing)
 
 
-## If youre having auth issues... 
-* See step 0.  
-* First try to update git: https://git-scm.com/downloads 
-* [Follow Guide This Setup Guide](https://github.com/CUNYTechPrep/2024-python-summer-prep/blob/main/setup-part-2-github.md)
+## Authing Github
+If you have already cloned and successfully pushed to a github repo you can skip this.  IF YOU ARE NEW TO GITHUB THIS STEP IS SUPER IMPORTANT. 
+
+### Authing for Mac users. 
+0. Install brew 
+	* `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`
+	* Make sure you follow the terminal output instructions to add brew to your path!!!
+0. Update git
+	* `brew install git`
+	* `brew upgrade git`
+0. Install github CLI
+	* `brew install gh`
+	* `brew update gh`
+0. Log into Github via command line. 
+	* `gh auth login`
+	* Complete the prompted questions, the will look something like this...
+		```
+		? What account do you want to log into? 
+			GitHub.com  <<-- YOUR ANSWER
+
+		? What is your preferred protocol for Git operations on this host? 
+			HTTPS <<-- YOUR ANSWER
+
+		? Authenticate Git with your GitHub credentials? 
+			Yes <<-- YOUR ANSWER
+
+		? How would you like to authenticate GitHub CLI? 
+			Login with a web browser. <<-- YOUR ANSWER
+		```
+
+### Authing for Windows
+
+0. None if this will work if you haven't installed [Anaconda](https://www.anaconda.com/download). You should have done this step already as you were required to do this in the Summer HW.
+0. Open up the Anaconda Powershell Terminal
+	* Instructions on how to find it here --> [link](https://saturncloud.io/blog/how-to-access-anaconda-command-prompt-in-windows-10-64bit/#method-1-through-the-start-menu)
+0. Download and install [git](https://git-scm.com/download/win).
+	* Use the Standalone Installer not the Portable ("thumbdrive edition") installer. 
+* Install Githubs CLI 
+	* `conda install gh --channel conda-forge`
+* Login to git by running this and following the prompts. 
+	* `gh auth login`
+	* Follow the on-screen prompts. GitHub CLI automatically stores your Git credentials for you when you choose HTTPS as your preferred protocol for Git operations and answer "yes" to the prompt asking if you would like to authenticate to Git with your GitHub credentials. This can be useful as it allows you to use Git commands like git push and git pull without needing to set up a separate credential manager or use SSH.
+		```
+		? What account do you want to log into? 
+			GitHub.com  <<-- YOUR ANSWER
+
+		? What is your preferred protocol for Git operations on this host? 
+			HTTPS <<-- YOUR ANSWER
+
+		? Authenticate Git with your GitHub credentials? 
+			Yes <<-- YOUR ANSWER
+
+		? How would you like to authenticate GitHub CLI? 
+			Login with a web browser. <<-- YOUR ANSWER
+		```
+
+* If that doesn't work, try folling these instructions [provided here](https://github.com/CUNYTechPrep/2024-python-summer-prep/blob/main/setup-part-2-github.md) 
+	* In the document above... Stop before the 'Making Sure It Works - Create and Edit your own Repo' section.  We will be doing that part later today. 
 
 
 If you're still having issues... Follow these instructions CAREFULLY.

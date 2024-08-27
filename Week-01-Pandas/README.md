@@ -19,29 +19,59 @@
 0. When there is 15min left in class.
 	* Close all breakout rooms and explain HW instructions and how to submit HW. 
 0. Repeat HW Process and exactly what is due when. 
-0. Weekly feedback form. INSERT LINK HERE. 
+0. MUST FILL OUT BEFORE LEAVING CLASS [Weekly feedback form](https://forms.gle/VnNrD7BokpUicFhv6).
 
 
-# What's Due Monday at 12:01pm (Noon)
-Due 1 day before class at 12:01pm (Noon).
-Submit HW in the [Tuesday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/150MVMGhClrJ7NFAoukEvbZoujM3a_-7v9r9q4QihiAc/edit?gid=0#gid=0).
+# Homework Due Monday [~2.5hrs to complete]
+**Tuesdays class:  HW is due 12:01pm on Mondays**
+How do you submit your HW?  
+[Tuesday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/150MVMGhClrJ7NFAoukEvbZoujM3a_-7v9r9q4QihiAc/edit?gid=0#gid=0).
+Super details are below on how to submit the assignments.
 
-Detailed instructions on how to complete each of the assignments below.
+## Pre-Class Videos [~1hr]
+**Submit by pasting the link to your message under the "Pre-Class Slack Link" column.** 
 
-## Pre-Class Videos [~30min]
-1. Watch this 
-2. Do this tutorial 
+0. [Watch "Top 25 Pandas Tricks"](https://youtu.be/RlIiVeig3hc?si=uowsrNJEI-bBHHU2) [~30min]
+* Here are the [data files](https://github.com/justmarkham/pandas-videos/tree/master/data) for that video if you want to follow along.
+2. Watch This Video: ["Best Places to Find Datasets for your Projects"](https://www.youtube.com/watch?v=PExdWWcxmro)
 
+Respond in-thread in the class slack channel with at __least one thing you learned__ from the videos/reading/or tutorial.  
 
-## Exercise [~1hr]
+It can be as short as one sentence, or as long as a book. 
+
+## Exercise [~1hr] 
+**Submit Exercise HW by pasting the link in the HW Submission sheet under the "Exercise.ipynb" column.**
+
 0. Make a copy of the exercise file (see instructions above).
-0. Complete the code in your new copy of the exercise file. 
+0. Complete all the questions in YOUR COPY of the exercise file.
 0. Push that file to your fork. 
 0. Copy that exact link, and paste it into the HW submission sheet. 
 
 
 ## LinkedIn Post [~10min]
-*zd to add instructions*
+__Submit by putting the link to your LI post under the "LinkedIn Post" column.__
+
+This week, your post can be about anything related to CTP or what your learned in class. Here are just some things you can post about (but not limited to)...
+* It can be about starting your CTP journey. 
+* Asking for advice on most important things to learn for entry level roles. 
+* Something you leanred in the pre-class videos. 
+* Why you love or hate pandas. 
+* Your favorite part about the class. 
+* A tip or trick that your learned in class. 
+* Anything related to data science or your journey. 
+
+ 
+
+## Update Slack Profile and install on phone
+1. Put your picture in your Slack Profile.
+1. Put your full name and preferred email
+1. Install slack on your phone.  
+Submit by putting any emoji under the "Slack Profile/Phone" column.
+
+<img src="images/image.png" width="33%" height="33%">
+
+<br>
+<br>
 
 # Lecture
 _Since we are setting up our github after lecture, you will not have the lecture files locally.  If you would like to code along, you can make a copy of this [Google Colab Notebook](https://colab.research.google.com/drive/1rujHx0nTq9HpkU50Lwyz2KI6uRzFIa0z?usp=sharing)._
@@ -65,17 +95,25 @@ __Launching a juputer notebook.__
 	* If it still does not work, ask for help in slack channel, or come to office hours. 
 
 
-# Homework
+# Homework Instructions
 __All HWs are due at 12:01pm (noon) the day before the next class__
 
-Tuesdays class:  HW due 12:01pm on Mon
-Wed: HW due 12:01pm on Tue
+Tue class:  HW due 12:01pm on Mon
+Wed class: HW due 12:01pm on Tue
 Fridays (both):  HW due 12:01pm on Thr
 
 ## There are 3 sections of HW every week.
 
 ### #1 Pre-Class HW [~less than 1hr]
-This covers the topic we are about to teach.  This is HW that will help you come to class better prepared to learn the material that week.  (Nothing to submit)
+This covers the topic we are about to teach.  This is HW that will help you come to class better prepared to learn the material that week. 
+* Watch / read / do the tutorial listed above. 
+* Go to your class slack channel.  
+* Find the usually most recent message from your TA instructor that says "Week X: Pre-Class learnings". 
+* Respond in-thread to that message with least one thing you learned from the videos/reading/or tutorial. 
+	* Your response can be It can be as short as one sentence, or as long as a book. 
+* Still in Slack, copy the link to your response. 
+* Pasted that to your response in HW Submission sheets Pre-Class column for that week.
+
 
 ### #2 Exercise HW [~1hr]
 This is a coding assignment that you usually start in class.  It is located in the `Exercise-DONT-EDIT-MAKE-COPY.ipynb` file.  See detaild instructions below. (Paste link in HW Submission sheet.)
@@ -83,7 +121,14 @@ This is a coding assignment that you usually start in class.  It is located in t
 ### #3 LinkedIn Post
 Every week you are expected to post on LinkeIn at least about thing you learned that week. (Paste link in HW Submission sheet.)
 
-## Instructions on Doing, Uploading/Pushing, and Submitting your HW
+# Instructions on Doing, Uploading/Pushing, and Submitting your HW
+**Tuesdays class:  HW is due 12:01pm on Mondays**
+You have 6 days to complete your HW. 
+HW is always due 1 day before class at 12:01pm (Noon).
+
+Submit HW in the [Tuesday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/150MVMGhClrJ7NFAoukEvbZoujM3a_-7v9r9q4QihiAc/edit?gid=0#gid=0).
+
+Detailed instructions on how to complete each of the assignments below.
 
 0. Make a copy of `Exercise-DONT-EDIT-MAKE-COPY.ipynb`
 0. Name the new copy as `Exercise-[YOUR-INITIALS].ipynb`. Zack DeSario's would be `Exercise-ZD.ipynb`.
