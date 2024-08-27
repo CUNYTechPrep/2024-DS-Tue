@@ -11,6 +11,10 @@
 [Links to Lecture Recordings Document](https://docs.google.com/document/d/1eGvM5QWsY7otTTgp6ADVyZg5jR-8DJAn2bpBmrs2KLw/edit?usp=sharing)
 **If you dont have permission to view doc you are using the wrong email**
 
+## Student Suggested Resources / Fav Sites
+Contribute and share [your favorite resources here](https://docs.google.com/document/d/1VdEt5eatJiXV-2OvJKsaeBENyU2sJsXM-KgLTUD5rdA/edit?usp=sharing).
+
+
 ## HW Submission Sheets
 __All HWs are due at 12:01pm (noon) the day before the next class__
 
