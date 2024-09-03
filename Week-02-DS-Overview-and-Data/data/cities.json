@@ -1,0 +1,20 @@
+[
+    {
+      "City": "Berlin",
+      "CompanyName": "Alfreds Futterkiste",
+      "ContactName": "Maria Anders",
+      "Relationship": "Customers"
+    },
+    {
+      "City": "México D.F.",
+      "CompanyName": "Ana Trujillo Emparedados y helados",
+      "ContactName": "Ana Trujillo",
+      "Relationship": "Customers"
+    },
+    {
+      "City": "México D.F.",
+      "CompanyName": "Antonio Moreno Taquería",
+      "ContactName": "Antonio Moreno",
+      "Relationship": "Customers"
+    }
+  ]

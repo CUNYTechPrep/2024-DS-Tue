@@ -1,0 +1,7 @@
+good_strings,just_ints,mixed_types,just_strings
+a,1, 1, one
+b,10, one hundred, one hundred
+c,20, NULL,None
+z,99, 99.0,N/A
+z,100,N/A,
+z,200,200,MISSING
