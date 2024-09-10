@@ -41,16 +41,51 @@
 ### LinkedIn Post [~10min]
 __Submit by putting the link to your LI post under the "LinkedIn Post" column.__
 
-This week, your post can be about anything related to CTP or what your learned in class. Here are just some things you can post about (but not limited to)...
-Remember, done is better than perfect. 
-Growing your network. 
+This week, your post can be about something you found and like that is related to your field of interest. 
 
 * Post a video, article, paper or another LinkedIn post you liked say/describe why you liked it. 
     * 'commenting' on another post does not count. 
     * you can repost instead. 
-    * Maybe ask a question and do a poll.
+    * Maybe do a poll.
 
-## Finding Data in the Wild
+
+# Updating your Fork
+Now that there are new files in the main fork, you will need to pull those files into your fork.
+
+
+#### Setting upstream
+0. Adding upstream.  Run this again just incase
+    * `git remote add upstream INSTRUCTOR-ADD-URL-TO-YOUR-REPO-HERE`
+	* If it says `fatal: remote upstream already exists.` That is GOOD and means you listened the first time and already added the upstream.
+
+#### Getting new files by pulling or fetching and merging. 
+0. Try doing `git pull` that works for 20% of students. 
+0. Else, if `git pull` doesn't work...
+0. Fetch the new files
+	* `git fetch upstream` 
+0. Merge/download the newly added files.
+	*  `git merge upstream/main`
+	* If a crazy screen comes up that looks like this, just type `:wq` then hit `enter` to close it and you should be fine.
+    
+    <img src="https://github.com/zd123/images-for-class/blob/main/forking-image-instructions/98-strange-screen.png?raw=true" width="55%">  
+    
+    Just type `:wq` then hit `enter` on your keyboard.  It should close that window. 
+0. Now check that the new files are in your repo.
+#### Adding the new files into your repo. 
+As of right now, the files are on your local machine, but not in your repo yet.  
+
+0. Run `git stuats` and you will see a bunch of new green files.
+0. Add all of the files from the new week. 
+    * `git add Week-02-DS-Overview-and-Data/*`
+    * `git commit -m 'adding week 2 files'`
+    * `git push`
+
+<br>
+<br>
+<br>
+<br>
+
+# Finding Data in the Wild
 
 #### Finding Data your project. 
 0. Here we are going to mock data for a project about dogs. 
