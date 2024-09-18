@@ -50,6 +50,7 @@
 
 ## Pre-Class for Next Week's Lecture [~1hr]
 Post in slack one thing you find interesting about unsupervised leanring. 
+
 0. Really good [all about clustering video](https://www.youtube.com/watch?v=vmIkSCiZpWY&ab_channel=Simplilearn) by SimplyLearn. [42min]
     * Video above is **VERY IMPORTANT TO WATCH** before class.
     * Pay close attention to chapters How Clusting works and Distance Measures
