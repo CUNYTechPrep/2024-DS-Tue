@@ -18,7 +18,7 @@
     * Overview of Job Searching
     * Effective Teamwork and Leadership Skills 
 0. BREAK
-0. [Match-Making Slides](https://ctp2024.slack.com/archives/C07J340UNHX/p1726621497461109) [30-40min max] [+1hr 15min of class left]
+0. [Match-Making Slides](LINK TO SLIDES) [30-40min max] [+1hr 15min of class left]
 0. Review Project Design Document [5min]
 0. IF TIME:  Breakout Rooms 4-6 ppl per room for 10mins. Can do it more than once if time. [20min]
 0. Review whats due for next week. [5min]
