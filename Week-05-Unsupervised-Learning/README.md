@@ -9,9 +9,9 @@ git push
 
 ## Agenda 
 0. Remind me to 
-	* Start recording
-	* Turn on CC's 
-	* Enable screen sharing for everyone (for breakout rooms)
+    * Start recording
+    * Turn on CC's 
+    * Enable screen sharing for everyone (for breakout rooms)
 0. **NO CLASS NEXT WEEK 🥳**
     * Week XX [Sept 30 - Oct 4] : NO CLASS THIS WEEK 
     * Week 06 [Oct 07 - 11]: Classifiers via Logistic Regression 
@@ -45,7 +45,11 @@ git push
 Post in slack one thing you find interesting about any of the vidoes below. 
 
 0. Watch this AMAZING video about how to [how to tell if your model is good or not](https://www.youtube.com/watch?v=Kdsp6soqA7o&ab_channel=StatQuestwithJoshStarmer).
-0. Watch this brief overview of [what IS machine learning](https://www.youtube.com/watch?v=ukzFI9rgwfU) (~8 mins)
+0. What Parts 1 and 2 on Logistic Regression
+    * [Part 0: Logisitic Regerssion](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=1&t=424s&ab_channel=StatQuestwithJoshStarmer) 
+    * [Part 1: Coefficients in Logistic Regression](https://www.youtube.com/watch?v=vN5cNN2-HWE&list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe&index=2&t=834s&ab_channel=StatQuestwithJoshStarmer)
+    * OPTIONAL:  [Watch all the parts](https://www.youtube.com/playlist?list=PLblh5JKOoLUKxzEP5HA2d-Li7IJkHfXSe)
+ 
 1. OPTIONAL: Watch this NOVA documentary [Building The World's Smartest Machine](https://youtu.be/4svcCJJ6ciw?si=ERSmoLJOEhIAKVqp) to play Jeopardy. [~1hr]
     * This documentary literally got me into data science. Super well made about building 'the worlds smartest machine' 
 * OPTIONAL:  Watch the movie [Moneyball](https://www.youtube.com/watch?v=D1R-LwHbld4&ab_channel=SonyPicturesEntertainment). The AMAZING story about beating baseball with data science called (starring Brad Pitt).  
@@ -67,7 +71,4 @@ Post in slack one thing you find interesting about any of the vidoes below.
 ## LinkedIn Post [~10min]
 __Submit by putting the link to your LI post under the "LinkedIn Post" column.__
 
-One thing that confuses about Linear Regression...  
-
-
-
+One thing that confuses about Logisitc Regression or how you could use it for your project...  
