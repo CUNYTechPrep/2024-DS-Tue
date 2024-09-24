@@ -1,0 +1,6561 @@
+transaction_number,amount,item
+6,1,Latte Hot
+6,1,Americano Hot
+6,1,V60
+6,1,Brownies
+7,1,V60
+7,1,Pain Au Chocolat
+8,1,V60
+9,1,Pistachio Croissant
+9,1,V60
+9,1,Carrot cake
+441,1,Latte Iced
+442,1,Latte Iced
+443,1,Latte Hot
+444,1,Latte Hot
+445,1,Latte Iced
+445,1,Latte Hot
+447,1,Latte Iced
+447,1,Americano Iced
+448,1,Cappucino Iced
+448,1,Americano Iced
+764,1,Cappucino Hot
+766,1,Latte Iced
+766,1,Cappucino Iced
+768,1,Latte Hot
+768,1,PiccoloHot
+772,1,Cappucino Iced
+774,1,V60
+775,1,Latte Iced
+777,1,Cappucino Hot
+777,1,Latte Hot
+777,1,Brownies
+779,1,Flat White Hot
+780,1,Americano Iced
+780,1,Brownies
+781,1,Pain Au Chocolat
+781,1,Flat White Hot
+781,1,Flat White Hot
+781,1,V60
+781,1,Flat White Hot
+781,1,PiccoloHot
+781,1,Plain Croisant
+782,1,Americano Iced
+784,1,Mochaccino Hot
+784,1,Pain Au Chocolat
+785,1,Tiramisu cake
+785,1,V60
+785,1,V60
+786,1,Cappucino Hot
+786,1,Pain Au Chocolat
+786,1,Cappucino Hot
+787,1,Cappucino Hot
+787,1,Plain Croisant
+788,2,Latte Iced
+790,1,V60
+790,1,Plain Croisant
+791,1,Latte Iced
+791,1,Americano Iced
+792,1,Cappucino Hot
+794,1,PiccoloHot
+795,1,Americano Iced
+795,1,Americano Iced
+795,1,Latte Iced
+795,1,Almond Croisant
+795,1,Plain Croisant
+798,1,Plain Croisant
+798,1,Latte Iced
+798,1,Latte Hot
+799,1,Latte Iced
+799,1,Latte Iced
+799,1,Americano Hot
+800,2,Cappucino Iced
+800,1,Almond Croisant
+801,1,Latte Iced
+802,1,Plain Croisant
+802,1,Flat White Hot
+803,1,Longblack Hot
+803,1,PiccoloHot
+804,1,Latte Iced
+805,1,Plain Croisant
+805,1,Latte Iced
+807,1,Latte Iced
+808,1,Cookies
+808,1,Americano Hot
+808,1,Latte Iced
+808,1,Decaf Coffee
+809,1,Brownies
+809,2,Cappucino Iced
+809,1,Latte Iced
+811,1,Latte Iced
+812,1,Americano Iced
+812,1,Latte Iced
+816,1,Americano Iced
+816,1,Latte Iced
+816,1,Longblack Iced
+817,1,Latte Hot
+817,1,V60
+817,1,Longblack Iced
+819,1,Americano Iced
+820,1,Brownies
+823,1,Latte Hot
+823,1,Latte Iced
+823,1,Latte Iced
+823,1,Cappucino Iced
+824,2,Latte Iced
+825,1,Latte Iced
+825,1,Longblack Hot
+828,1,Latte Iced
+828,1,Almond Croisant
+828,1,Pain Au Chocolat
+831,1,Latte Iced
+832,1,Americano Iced
+832,1,Latte Iced
+832,1,Latte Iced
+832,1,Americano Iced
+833,1,Latte Iced
+833,1,Latte Iced
+834,1,Latte Iced
+834,1,Latte Hot
+834,1,V60
+835,1,V60
+835,1,Americano Hot
+835,1,Americano Hot
+837,1,Latte Iced
+837,1,V60
+837,1,Americano Iced
+839,1,Pain Au Chocolat
+839,1,Latte Iced
+839,1,Cappucino Iced
+840,1,Latte Iced
+840,1,Latte Hot
+840,1,Brownies
+840,1,Latte Iced
+843,1,Latte Iced
+843,1,Plain Croisant
+845,1,Almond Croisant
+846,1,Americano Iced
+846,1,Flat White Hot
+846,1,Cappucino Hot
+847,1,Latte Iced
+847,1,Cappucino Hot
+848,1,Latte Hot
+850,3,Latte Iced
+850,1,V60
+851,1,Plain Croisant
+852,3,Cappucino Hot
+852,1,Latte Iced
+853,1,Mochaccino Iced
+853,1,Latte Hot
+856,1,Americano Iced
+857,1,Cappucino Hot
+858,1,V60
+858,1,LatteHot
+859,1,Cappucino Iced
+859,1,Cappucino Hot
+859,1,Latte Iced
+859,1,Plain Croisant
+859,2,Latte Iced
+859,1,Latte Iced
+861,1,Americano Iced
+861,2,Latte Iced
+861,1,Latte Hot
+863,1,V60
+863,1,Pain Au Chocolat
+864,1,Latte Hot
+864,1,Cappucino Hot
+864,1,Latte Iced
+865,1,Latte Iced
+866,1,Cappucino Iced
+866,1,Latte Iced
+867,1,V60
+867,1,Latte Iced
+867,1,Pain Au Chocolat
+867,1,Cappucino Hot
+868,1,Latte Hot
+868,1,Cappucino Hot
+868,1,Plain Croisant
+868,1,Pain Au Chocolat
+868,1,Plain Croisant
+868,1,Cake Of The Day
+871,1,V60
+871,1,Americano Hot
+871,1,Cake Of The Day
+873,1,Flat White Iced
+873,1,Cappucino Iced
+873,1,Cake Of The Day
+874,1,Latte Iced
+876,1,LatteHot
+876,1,Latte Iced
+876,1,Decaf Coffee
+876,1,Cappucino Hot
+876,2,Pain Au Chocolat
+876,1,Cappucino Hot
+876,1,Latte Hot
+878,1,Latte Iced
+878,1,Americano Iced
+880,1,Latte Iced
+880,1,Cappucino Iced
+881,1,Cappucino Iced
+881,1,Cake Of The Day
+882,1,Mochaccino Iced
+882,1,Mochaccino Iced
+882,1,Latte Iced
+882,1,Latte Iced
+883,1,Macchiato 4ozHot
+883,1,Latte Iced
+883,1,Latte Iced
+884,1,Latte Iced
+884,1,Latte Iced
+884,1,Americano Iced
+884,1,Cake Of The Day
+886,1,Cake Of The Day
+888,1,Americano Iced
+888,1,Almond Croisant
+888,1,V60
+888,1,Cake Of The Day
+889,1,Latte Iced
+889,1,Latte Iced
+889,1,PiccoloHot
+889,1,Americano Iced
+889,1,PiccoloHot
+889,1,Latte Iced
+889,1,Americano Iced
+889,1,PiccoloHot
+890,1,Magic Latte
+890,1,Latte Iced
+891,1,Americano Iced
+891,1,LatteHot
+891,1,Latte Iced
+891,1,V60
+892,1,Flat White Iced
+892,1,Cappucino Hot
+892,1,Cake Of The Day
+893,1,Almond Croisant
+893,1,V60
+893,1,Flat White Hot
+894,1,Latte Iced
+894,1,Latte Iced
+894,1,Cappucino Iced
+895,1,V60
+895,1,Cake Of The Day
+896,1,Cake Of The Day
+898,1,Cappucino Hot
+898,1,Latte Hot
+900,1,LatteHot
+901,1,Americano Hot
+901,1,Almond Croisant
+901,1,Latte Iced
+902,2,Latte Iced
+902,1,Mochaccino Iced
+904,1,Latte Iced
+904,1,Almond Croisant
+905,1,Almond Croisant
+906,1,Cappucino Iced
+906,1,Americano Iced
+906,1,Almond Croisant
+907,1,Latte Iced
+907,1,Almond Croisant
+907,1,LatteHot
+907,1,Cappucino Iced
+907,1,Latte Hot
+908,1,Longblack Hot
+908,1,Cappucino Hot
+909,1,Latte Iced
+909,1,Latte Iced
+910,1,V60
+910,1,Latte Iced
+910,1,Latte Iced
+910,1,Almond Croisant
+910,1,Almond Croisant
+911,1,V60
+911,1,Cappucino Iced
+912,1,Almond Croisant
+912,1,Cake Of The Day
+913,1,Latte Iced
+913,1,Latte Iced
+913,1,Cappucino Hot
+914,1,Almond Croisant
+914,2,Americano Iced
+915,1,Latte Iced
+915,1,Mochaccino Iced
+915,1,Americano Iced
+915,1,Latte Hot
+915,1,Cake Of The Day
+916,1,Cappucino Hot
+916,1,Latte Iced
+916,1,Almond Croisant
+917,1,Latte Iced
+917,1,Latte Iced
+917,1,Almond Croisant
+918,1,Cappucino Hot
+918,1,Cappucino Iced
+918,1,Americano Iced
+918,1,Cake Of The Day
+919,1,Flat White Iced
+919,1,Latte Iced
+923,1,Longblack Hot
+931,1,Latte Iced
+931,1,V60
+931,1,Pain Au Chocolat
+934,1,Cappucino Hot
+935,1,Cappucino Hot
+937,1,Cappucino Iced
+937,1,Almond Croisant
+937,1,Brownies
+938,1,Flat White Hot
+938,1,Plain Croisant
+939,1,V60
+940,1,Plain Croisant
+940,1,Cappucino Hot
+941,1,Latte Iced
+941,1,Americano Iced
+942,1,Cappucino Iced
+942,1,Latte Hot
+943,2,PiccoloHot
+943,1,Brownies
+943,1,Plain Croisant
+944,1,Cappucino Hot
+944,1,Cappucino Hot
+945,1,LatteHot
+946,1,Cappucino Hot
+947,1,Cappucino Hot
+947,1,Cappucino Iced
+949,2,Mochaccino Hot
+950,1,Flat White Hot
+950,1,Almond Croisant
+950,1,Pain Au Chocolat
+950,1,Americano Hot
+950,1,Decaf Coffee
+952,1,Cappucino Hot
+954,1,Plain Croisant
+954,1,Latte Hot
+955,1,Cappucino Hot
+955,1,PiccoloHot
+955,1,Almond Croisant
+956,1,Flat White Hot
+957,1,Latte Iced
+957,1,Cappucino Iced
+957,1,Latte Iced
+958,1,Cappucino Hot
+958,1,Latte Iced
+959,1,Americano Iced
+959,1,Latte Iced
+960,1,Americano Iced
+960,1,Flat White Hot
+961,1,Latte Iced
+961,1,Americano Iced
+962,1,Latte Iced
+963,1,Cappucino Hot
+963,1,Almond Croisant
+965,1,Plain Croisant
+965,2,Latte Iced
+966,1,Pain Au Chocolat
+967,1,Cappucino Iced
+967,1,Latte Iced
+967,1,Almond Croisant
+968,1,Almond Croisant
+968,1,Latte Iced
+969,1,Cappucino Hot
+971,1,Cappucino Hot
+972,1,Cappucino Hot
+973,1,Latte Iced
+973,1,Magic Latte
+975,1,EspressoHot
+975,1,V60
+976,1,Americano Iced
+976,1,Cappucino Iced
+976,1,Latte Iced
+978,1,Mochaccino Iced
+978,1,Latte Iced
+978,1,Americano Iced
+980,1,Flat White Iced
+980,1,Latte Hot
+982,1,Latte Iced
+985,1,Flat White Hot
+987,1,V60
+987,1,Latte Hot
+987,1,LatteHot
+987,1,Pain Au Chocolat
+990,1,Latte Iced
+991,1,V60
+992,1,LatteHot
+992,1,Latte Iced
+992,1,Americano Iced
+992,1,Latte Iced
+992,1,Decaf Coffee
+995,1,Cappucino Iced
+995,1,Mochaccino Iced
+996,1,Latte Iced
+996,1,Americano Iced
+996,1,Almond Croisant
+996,1,Mochaccino Hot
+997,1,V60
+997,1,Latte Hot
+998,1,Cappucino Hot
+1001,1,Magic Latte
+1001,1,Magic Latte
+1001,1,Cappucino Hot
+1002,1,Americano Iced
+1002,1,Latte Hot
+1002,1,Flat White Hot
+1004,1,Latte Iced
+1004,1,Latte Hot
+1005,1,Cappucino Iced
+1006,1,Flat White Iced
+1006,1,Longblack Hot
+1007,1,Latte Hot
+1007,1,Latte Hot
+1007,1,Longblack Hot
+1007,1,Cookies
+1007,1,Apple Turnover
+1008,1,Latte Iced
+1008,1,Apple Turnover
+1008,1,Apple Turnover
+1009,1,Latte Hot
+1010,1,Latte Hot
+1011,1,Americano Iced
+1011,1,Flat White Iced
+1014,1,PiccoloHot
+1015,1,Latte Iced
+1017,1,Cappucino Iced
+1020,1,Cappucino Iced
+1020,2,Latte Iced
+1020,1,Brownies
+1020,1,Cookies
+1023,1,Cappucino Hot
+1023,1,Flat White Hot
+1023,1,Americano Iced
+1025,1,PiccoloHot
+1025,1,Latte Iced
+1025,1,Pain Au Chocolat
+1026,1,Latte Hot
+1026,1,Pain Au Chocolat
+1026,1,Almond Croisant
+1027,1,Latte Iced
+1027,2,Latte Iced
+1027,1,Brownies
+1027,1,Apple Turnover
+1028,1,Latte Iced
+1028,1,Decaf Coffee
+1028,1,Latte Iced
+1028,1,Americano Iced
+1028,1,Americano Iced
+1029,1,Cappucino Hot
+1029,1,Cappucino Hot
+1031,2,Latte Iced
+1031,1,Latte Iced
+1031,1,Latte Iced
+1032,1,Almond Croisant
+1035,1,Latte Hot
+1035,1,Decaf Coffee
+1035,1,Apple Turnover
+1037,1,Cookies
+1037,1,Brownies
+1038,1,Almond Croisant
+1039,1,Cappucino Hot
+1041,1,Latte Iced
+1042,1,Latte Hot
+1045,1,Cappucino Iced
+1045,1,Mochaccino Iced
+1045,1,Almond Croisant
+1047,1,Cappucino Iced
+1047,1,V60
+1049,2,Latte Iced
+1049,1,Americano Hot
+1049,1,Brownies
+1049,1,Almond Croisant
+1049,1,Almond Croisant
+1049,1,Latte Hot
+1051,1,Americano Iced
+1054,3,Americano Iced
+1057,1,Latte Hot
+1057,1,Latte Iced
+1059,1,Americano Iced
+1059,1,Americano Hot
+1059,1,Almond Croisant
+1059,1,Pain Au Chocolat
+1059,1,Almond Croisant
+1060,1,Mochaccino Iced
+1061,1,Latte Iced
+1065,1,Latte Iced
+1068,2,Cappucino Hot
+1069,1,Latte Iced
+1069,1,Americano Hot
+1070,1,Mochaccino Iced
+1071,1,Cappucino Iced
+1071,1,V60
+1072,1,Latte Iced
+1073,1,Latte Iced
+1073,1,Cappucino Iced
+1074,1,Cappucino Hot
+1075,2,Americano Iced
+1076,1,Pistachio Croissant
+1076,1,Cappucino Iced
+1077,4,Latte Iced
+1077,1,Longblack Iced
+1077,1,Pain Au Chocolat
+1082,1,Latte Hot
+1082,1,Almond Croisant
+1082,1,Pain Au Chocolat
+1085,1,Americano Iced
+1085,1,Latte Hot
+1085,1,Decaf Coffee
+1087,1,Latte Iced
+1088,1,V60
+1089,1,Latte Hot
+1089,1,Flat White Iced
+1089,1,Americano Iced
+1090,1,Cappucino Iced
+1090,1,Latte Iced
+1090,1,Latte Iced
+1090,1,Cappucino Iced
+1090,1,Americano Iced
+1091,1,Pistachio Croissant
+1092,1,Latte Iced
+1092,1,Decaf Coffee
+1092,1,V60
+1092,1,Pistachio Croissant
+1093,1,Pistachio Croissant
+1093,1,Latte Iced
+1094,1,Americano Iced
+1095,1,Cappucino Hot
+1095,1,PiccoloHot
+1095,1,EspressoHot
+1096,1,Latte Iced
+1096,1,Latte Iced
+1096,1,Cappucino Hot
+1096,1,Americano Hot
+1096,1,Latte Iced
+1096,1,Latte Iced
+1096,2,Latte Iced
+1096,1,EspressoHot
+1096,1,Cappucino Hot
+1096,1,Americano Hot
+1098,1,Cappucino Iced
+1098,1,Macchiato Iced
+1098,1,Latte Hot
+1098,1,V60
+1098,1,V60
+1098,1,Almond Croisant
+1098,1,Almond Croisant
+1098,1,Decaf Coffee
+1099,1,Americano Iced
+1099,1,Americano Iced
+1099,1,Decaf Coffee
+1100,1,Americano Iced
+1100,1,Latte Iced
+1100,2,Latte Iced
+1102,1,Latte Iced
+1102,1,Pain Au Chocolat
+1102,1,Brownies
+1103,1,V60
+1103,1,V60
+1109,1,Latte Hot
+1109,1,Pistachio Croissant
+1110,1,Cappucino Hot
+1110,1,Pistachio Croissant
+1112,1,Cappucino Hot
+1113,1,V60
+1116,1,Americano Iced
+1116,1,Latte Iced
+1116,1,Pistachio Croissant
+1116,1,Americano Iced
+1117,1,Americano Hot
+1117,1,Americano Iced
+1119,1,Americano Iced
+1119,1,Plain Croisant
+1119,1,Almond Croisant
+1119,1,Americano Iced
+1120,1,Americano Iced
+1120,1,Cappucino Iced
+1120,1,Pistachio Croissant
+1120,1,Latte Iced
+1120,1,Americano Iced
+1121,1,Almond Croisant
+1121,1,Cappucino Iced
+1121,1,Pistachio Croissant
+1122,1,Pistachio Croissant
+1122,1,Almond Croisant
+1123,1,Americano Iced
+1123,1,Latte Iced
+1123,2,Latte Iced
+1124,1,V60
+1125,1,Cappucino Hot
+1125,1,Pistachio Croissant
+1125,1,Almond Croisant
+1126,1,Americano Hot
+1126,1,Longblack Iced
+1126,1,Cappucino Iced
+1126,1,Pain Au Chocolat
+1130,1,Flat White Hot
+1131,2,Latte Hot
+1131,1,Americano Hot
+1131,1,Pistachio Croissant
+1131,1,Almond Croisant
+1133,1,Magic Latte
+1133,1,Magic Latte
+1135,1,Latte Iced
+1135,1,Pain Au Chocolat
+1135,1,Pain Au Chocolat
+1136,1,Flat White Hot
+1138,1,Almond Croisant
+1139,1,Latte Iced
+1139,1,Pistachio Croissant
+1141,1,Pain Au Chocolat
+1141,1,Cappucino Hot
+1142,1,Mochaccino Hot
+1145,1,Latte Iced
+1146,1,Latte Iced
+1146,1,Latte Iced
+1146,1,Latte Iced
+1148,1,Latte Iced
+1148,1,Cappucino Iced
+1150,1,Cappucino Iced
+1150,1,Latte Iced
+1150,1,Almond Croisant
+1153,1,Latte Iced
+1153,1,Latte Iced
+1154,1,Americano Hot
+1155,1,Flat White Hot
+1155,1,Latte Hot
+1155,1,Decaf Coffee
+1156,1,Cappucino Hot
+1156,1,Pain Au Chocolat
+1157,1,V60
+1157,1,Cappucino Hot
+1160,5,Latte Hot
+1162,1,Latte Iced
+1162,1,Latte Iced
+1163,1,Latte Hot
+1163,1,Longblack Hot
+1165,1,Cappucino Hot
+1165,1,Cappucino Iced
+1165,1,Latte Iced
+1167,1,Cappucino Hot
+1167,2,V60
+1168,1,Latte Hot
+1168,1,Almond Croisant
+1168,1,Cappucino Hot
+1168,1,Latte Iced
+1170,1,Latte Iced
+1170,1,Flat White Hot
+1170,1,Magic Latte
+1170,1,Latte Hot
+1173,1,Latte Hot
+1174,2,Cappucino Iced
+1175,1,Latte Iced
+1176,1,Latte Iced
+1176,1,Latte Iced
+1176,1,Americano Hot
+1177,1,Latte Hot
+1177,2,Cappucino Hot
+1178,1,Americano Hot
+1178,1,Americano Hot
+1178,1,Plain Croisant
+1178,1,Pain Au Chocolat
+1178,1,Cappucino Iced
+1179,1,Latte Hot
+1180,1,Longblack Hot
+1180,1,Cappucino Iced
+1180,1,Cappucino Hot
+1182,1,Americano Iced
+1183,1,Latte Iced
+1184,1,Latte Hot
+1186,1,Latte Iced
+1188,1,Latte Iced
+1188,1,Americano Hot
+1188,1,Americano Iced
+1188,1,Americano Iced
+1189,1,Latte Iced
+1191,1,V60
+1193,1,Latte Iced
+1195,1,Latte Iced
+1195,1,Pain Au Chocolat
+1196,1,Latte Iced
+1196,1,Latte Hot
+1196,1,Pain Au Chocolat
+1197,1,Latte Hot
+1198,1,Plain Croisant
+1200,1,Cappucino Iced
+1200,1,Cappucino Iced
+1200,1,Brownies
+1200,1,Plain Croisant
+1205,1,Flat White Iced
+1205,1,Latte Iced
+1205,1,Latte Iced
+1205,1,Latte Iced
+1207,1,Americano Iced
+1208,1,Latte Iced
+1208,1,Mochaccino Iced
+1208,1,Americano Iced
+1209,1,Almond Croisant
+1209,1,Cappucino Iced
+1210,1,V60
+1211,1,Latte Hot
+1212,1,Brownies
+1213,1,Flat White Hot
+1213,1,Pistachio Croissant
+1217,1,Brownies
+1218,1,Longblack Hot
+1219,1,Flat White Hot
+1219,1,Flat White Hot
+1220,2,Flat White Iced
+1221,1,V60
+1222,1,Cappucino Iced
+1222,1,Americano Iced
+1224,1,Almond Croisant
+1224,1,Latte Iced
+1225,1,Americano Iced
+1226,1,Brownies
+1226,1,Cappucino Hot
+1228,1,Longblack Iced
+1228,1,Brownies
+1230,1,Americano Iced
+1231,1,Americano Iced
+1231,2,Almond Croisant
+1232,1,Cappucino Hot
+1232,1,Brownies
+1233,1,Cappucino Hot
+1233,1,Latte Iced
+1235,1,Pain Au Chocolat
+1236,1,Americano Iced
+1236,1,Americano Iced
+1236,1,Cappucino Hot
+1236,1,Almond Croisant
+1236,1,Latte Hot
+1236,1,Latte Iced
+1237,1,V60
+1239,1,V60
+1239,1,Brownies
+1240,1,Latte Iced
+1240,1,Cappucino Iced
+1241,1,Latte Iced
+1242,1,Latte Iced
+1242,1,Brownies
+1245,1,Cappucino Hot
+1245,1,Americano Hot
+1246,1,Cappucino Iced
+1246,1,Latte Iced
+1246,1,Cappucino Hot
+1246,1,Brownies
+1246,1,Latte Iced
+1247,1,V60
+1247,1,Latte Iced
+1247,1,Pain Au Chocolat
+1247,1,Latte Hot
+1247,1,Decaf Coffee
+1248,1,Cappucino Iced
+1249,1,Americano Iced
+1249,1,V60
+1249,1,Americano Hot
+1249,1,Brownies
+1249,1,Latte Iced
+1251,2,Latte Iced
+1251,1,Brownies
+1252,1,Latte Iced
+1255,1,Latte Iced
+1256,1,Latte Iced
+1257,1,Latte Hot
+1257,1,Decaf Coffee
+1260,3,Cappucino Hot
+1260,1,Brownies
+1260,1,Almond Croisant
+1261,1,Americano Iced
+1271,1,Cappucino Hot
+1272,1,Latte Hot
+1272,1,Almond Croisant
+1276,1,Cappucino Hot
+1276,1,Latte Iced
+1279,1,Latte Hot
+1279,1,Brownies
+1280,1,Latte Hot
+1280,1,Latte Hot
+1280,1,Americano Hot
+1280,1,Americano Hot
+1280,1,Flat White Hot
+1280,1,Cappucino Hot
+1281,1,Longblack Iced
+1281,1,Latte Hot
+1285,1,Latte Iced
+1286,1,Americano Hot
+1286,1,Cappucino Hot
+1287,1,Latte Hot
+1287,1,Americano Iced
+1289,1,Americano Iced
+1289,1,Brownies
+1290,1,Almond Croisant
+1290,1,Cappucino Hot
+1290,1,Cappucino Iced
+1290,1,Almond Croisant
+1290,1,Latte Iced
+1291,1,Cappucino Hot
+1293,1,Latte Iced
+1293,1,Americano Iced
+1293,1,Americano Iced
+1294,1,Cappucino Iced
+1294,1,Flat White Hot
+1296,1,EspressoHot
+1298,1,Cappucino Hot
+1298,2,Plain Croisant
+1298,1,Pain Au Chocolat
+1298,1,PiccoloHot
+1298,1,Almond Croisant
+1299,1,Latte Iced
+1299,1,V60
+1299,1,Americano Iced
+1302,1,Cappucino Hot
+1302,1,Cappucino Hot
+1303,1,Americano Iced
+1305,1,Flat White Hot
+1306,1,Latte Iced
+1306,1,Cappucino Iced
+1307,1,Cappucino Hot
+1307,1,Latte Iced
+1308,1,Latte Iced
+1308,1,Latte Iced
+1308,1,Flat White Hot
+1310,1,Latte Hot
+1310,1,Pain Au Chocolat
+1311,1,Latte Hot
+1311,1,Pain Au Chocolat
+1311,1,Latte Iced
+1311,1,Cappucino Hot
+1316,1,Almond Croisant
+1316,1,Almond Croisant
+1317,1,Cappucino Hot
+1317,1,Decaf Coffee
+1318,1,Latte Iced
+1321,1,Cappucino Hot
+1322,1,V60
+1322,1,V60
+1322,1,Latte Iced
+1322,1,Cappucino Iced
+1323,1,Mochaccino Iced
+1323,1,Cappucino Hot
+1324,1,V60
+1324,1,Macchiato Iced
+1324,1,Decaf Coffee
+1325,2,Americano Hot
+1326,2,Flat White Hot
+1326,2,Almond Croisant
+1326,1,Americano Iced
+1327,1,Latte Iced
+1328,1,Mochaccino Iced
+1328,1,Latte Iced
+1328,1,Almond Croisant
+1331,1,Almond Croisant
+1331,1,Latte Iced
+1332,2,Flat White Iced
+1333,1,Latte Hot
+1333,1,Latte Iced
+1336,1,LatteHot
+1336,1,Plain Croisant
+1336,1,Pain Au Chocolat
+1337,2,Latte Hot
+1337,1,Latte Hot
+1337,1,Americano Hot
+1337,1,Latte Hot
+1337,1,Latte Hot
+1337,1,Latte Hot
+1337,1,Pain Au Chocolat
+1337,1,Almond Croisant
+1338,1,Macchiato Iced
+1338,1,Decaf Coffee
+1339,1,V60
+1339,1,V60
+1341,1,Cappucino Hot
+1345,1,Americano Iced
+1345,1,Almond Croisant
+1345,1,Americano Hot
+1345,1,Americano Iced
+1347,1,Magic Latte
+1348,1,Cappucino Hot
+1350,1,Latte Iced
+1350,1,Cappucino Hot
+1351,1,LatteHot
+1351,2,Americano Iced
+1352,1,Latte Iced
+1352,1,Americano Iced
+1352,1,Americano Iced
+1352,1,Americano Iced
+1353,1,Latte Iced
+1357,1,Cappucino Iced
+1357,1,Cappucino Iced
+1357,1,Latte Iced
+1357,1,Americano Iced
+1357,1,Americano Iced
+1357,1,Almond Croisant
+1357,1,Cappucino Hot
+1357,1,Pain Au Chocolat
+1358,1,Magic Latte
+1358,1,Cappucino Hot
+1358,1,Almond Croisant
+1359,1,V60
+1359,1,Americano Iced
+1360,1,Latte Iced
+1360,1,Almond Croisant
+1362,1,Cappucino Hot
+1364,1,V60
+1364,1,V60
+1364,1,PiccoloHot
+1364,1,Cappucino Hot
+1364,1,Plain Croisant
+1364,1,Pain Au Chocolat
+1364,1,Pistachio Croissant
+1366,1,Latte Iced
+1366,1,Cappucino Hot
+1367,1,Latte Iced
+1367,1,Cappucino Hot
+1369,1,Americano Iced
+1369,1,Pistachio Croissant
+1370,1,Americano Iced
+1370,1,Pain Au Chocolat
+1372,1,V60
+1372,1,Latte Iced
+1373,1,Americano Iced
+1373,1,Cappucino Hot
+1373,1,Latte Iced
+1373,1,Cappucino Hot
+1375,1,Latte Iced
+1376,1,Latte Iced
+1376,1,Cappucino Iced
+1376,1,Cappucino Hot
+1379,1,Latte Iced
+1383,1,Americano Iced
+1383,1,Cappucino Iced
+1384,1,Latte Iced
+1384,1,Latte Iced
+1388,2,Americano Iced
+1389,1,Latte Iced
+1390,1,Cappucino Hot
+1390,1,Latte Iced
+1392,1,V60
+1393,1,LatteHot
+1393,1,Plain Croisant
+1394,1,Pistachio Croissant
+1395,1,Latte Iced
+1395,1,Longblack Hot
+1396,1,Almond Croisant
+1399,1,Latte Iced
+1401,1,V60
+1401,1,Brownies
+1401,1,Pain Au Chocolat
+1403,1,Flat White Iced
+1404,1,Latte Iced
+1404,1,V60
+1409,1,PiccoloHot
+1409,1,Latte Iced
+1410,1,Latte Iced
+1411,1,Latte Iced
+1411,1,Latte Iced
+1412,1,Cappucino Iced
+1413,1,Flat White Hot
+1413,1,Americano Hot
+1414,1,Americano Iced
+1414,1,Decaf Coffee
+1416,1,Cappucino Iced
+1416,1,Latte Iced
+1419,1,Mochaccino Iced
+1419,1,Flat White Iced
+1420,3,Latte Iced
+1420,1,Longblack Iced
+1421,1,Latte Iced
+1421,1,Americano Iced
+1421,1,Flat White Iced
+1421,1,Latte Iced
+1421,1,Latte Iced
+1421,1,Americano Hot
+1422,1,Decaf Coffee
+1422,1,Latte Iced
+1423,1,V60
+1425,1,Latte Hot
+1428,1,Americano Iced
+1433,1,Latte Hot
+1436,1,Flat White Hot
+1437,1,Latte Hot
+1438,1,Flat White Hot
+1438,1,Flat White Hot
+1439,1,Pistachio Croissant
+1439,1,Brownies
+1440,1,Americano Iced
+1440,1,Pain Au Chocolat
+1442,2,Americano Iced
+1442,1,Americano Hot
+1443,1,Cappucino Hot
+1443,1,Almond Croisant
+1445,1,Latte Iced
+1446,1,Almond Croisant
+1446,1,Pistachio Croissant
+1446,2,Latte Hot
+1446,1,Latte Iced
+1447,2,EspressoHot
+1447,1,Cappucino Hot
+1450,2,Americano Hot
+1450,1,Cappucino Hot
+1450,1,Latte Iced
+1452,1,Flat White Hot
+1452,1,Cappucino Hot
+1453,1,Cappucino Iced
+1453,1,Pistachio Croissant
+1454,1,Cappucino Iced
+1454,1,Almond Croisant
+1454,1,Cappucino Iced
+1454,1,Cappucino Iced
+1455,1,Latte Hot
+1455,1,Americano Iced
+1455,1,Latte Hot
+1456,1,Flat White Hot
+1456,1,Cappucino Hot
+1457,1,Latte Iced
+1457,2,Latte Hot
+1457,1,Americano Hot
+1457,1,Latte Iced
+1457,1,Decaf Coffee
+1458,1,Latte Hot
+1459,1,Pain Au Chocolat
+1459,1,Pistachio Croissant
+1459,1,Cold Brew
+1460,1,Latte Iced
+1460,1,Almond Croisant
+1462,1,Latte Hot
+1462,1,Cappucino Hot
+1462,1,Cappucino Hot
+1462,1,Latte Hot
+1463,1,Cappucino Iced
+1467,1,Americano Iced
+1467,1,Latte Hot
+1468,1,PiccoloHot
+1470,1,Latte Hot
+1470,1,Pistachio Croissant
+1471,1,Cappucino Hot
+1472,1,Cappucino Hot
+1472,1,Cappucino Hot
+1473,2,Latte Iced
+1474,1,Americano Hot
+1474,1,Latte Hot
+1476,2,Cappucino Iced
+1476,1,Pain Au Chocolat
+1476,1,Almond Croisant
+1480,1,Latte Iced
+1483,1,V60
+1484,1,Latte Iced
+1485,1,Latte Iced
+1487,1,Cappucino Hot
+1488,1,Latte Iced
+1488,1,Almond Croisant
+1489,1,Americano Iced
+1491,1,Americano Iced
+1494,1,Latte Iced
+1494,1,Pain Au Chocolat
+1495,1,Cake Of The Day
+1496,1,Americano Hot
+1496,1,Latte Iced
+1496,1,Cake Of The Day
+1497,1,Cake Of The Day
+1498,1,Latte Iced
+1498,1,Plain Croisant
+1498,1,Americano Hot
+1498,1,Americano Iced
+1498,1,Cake Of The Day
+1499,1,Cappucino Hot
+1500,1,PiccoloIced
+1500,1,V60
+1500,1,Pistachio Croissant
+1503,1,Cappucino Hot
+1503,1,V60
+1503,1,Cake Of The Day
+1505,1,Latte Iced
+1505,1,Cake Of The Day
+1506,2,Cappucino Iced
+1506,1,Cappucino Iced
+1506,2,Latte Iced
+1507,1,Latte Iced
+1507,1,Plain Croisant
+1507,1,Cake Of The Day
+1508,1,Americano Iced
+1508,1,Latte Iced
+1510,1,V60
+1513,1,Cake Of The Day
+1514,1,Cake Of The Day
+1516,1,Latte Hot
+1518,1,Latte Iced
+1518,1,Latte Iced
+1518,1,Cappucino Iced
+1519,1,Latte Iced
+1519,1,Latte Iced
+1520,1,Cappucino Iced
+1520,1,Almond Croisant
+1523,1,Latte Iced
+1523,1,Americano Iced
+1525,1,Cappucino Iced
+1525,1,Cappucino Iced
+1525,1,Plain Croisant
+1526,1,Latte Iced
+1532,1,LatteHot
+1532,1,Latte Iced
+1532,1,Cappucino Hot
+1535,1,Latte Iced
+1535,1,Americano Iced
+1537,1,Latte Iced
+1537,1,Decaf Coffee
+1537,1,Cappucino Iced
+1537,1,Pain Au Chocolat
+1538,1,Cappucino Hot
+1538,1,Longblack Hot
+1539,1,Latte Iced
+1539,1,Latte Hot
+1541,1,Magic Latte
+1541,1,Magic Latte
+1542,1,Americano Iced
+1542,1,PiccoloHot
+1543,1,LatteHot
+1543,1,Americano Iced
+1543,1,Latte Iced
+1544,1,Flat White Hot
+1544,1,Cappucino Hot
+1544,1,Latte Iced
+1545,1,Latte Iced
+1545,1,V60
+1546,1,Cappucino Iced
+1546,1,Flat White Iced
+1546,1,Cappucino Iced
+1546,1,Flat White Iced
+1547,1,Americano Iced
+1547,1,Americano Iced
+1549,1,Americano Iced
+1549,1,Latte Iced
+1549,1,Cappucino Iced
+1550,1,Cake Of The Day
+1550,1,Cappucino Hot
+1550,1,Cappucino Hot
+1551,1,Almond Croisant
+1554,1,LatteHot
+1554,1,LatteHot
+1554,1,Cappucino Hot
+1554,1,Plain Croisant
+1555,1,Latte Iced
+1555,1,Latte Iced
+1555,1,Brownies
+1555,1,Cake Of The Day
+1555,1,Brownies
+1556,1,Latte Iced
+1556,1,Decaf Coffee
+1558,1,Latte Iced
+1560,1,Latte Hot
+1560,1,PiccoloHot
+1560,1,Almond Croisant
+1561,1,Americano Iced
+1561,1,LatteHot
+1561,1,Cake Of The Day
+1562,1,Latte Iced
+1563,1,Cake Of The Day
+1563,1,Magic Latte
+1564,1,Latte Iced
+1565,1,Latte Iced
+1566,1,Cake Of The Day
+1567,1,Cake Of The Day
+1567,1,Latte Hot
+1568,1,V60
+1568,1,Flat White Iced
+1568,1,Cake Of The Day
+1569,1,Latte Hot
+1569,1,Cappucino Hot
+1569,1,Cake Of The Day
+1570,1,Americano Iced
+1572,1,Latte Iced
+1576,1,Flat White Iced
+1576,1,Cake Of The Day
+1577,1,Plain Croisant
+1577,1,Latte Iced
+1579,1,Cake Of The Day
+1580,1,Cake Of The Day
+1580,1,Plain Croisant
+1580,1,Latte Hot
+1581,1,Mochaccino Iced
+1581,1,Cake Of The Day
+1583,1,Americano Iced
+1585,1,Latte Iced
+1585,1,Latte Iced
+1585,1,Decaf Coffee
+1586,1,Flat White Hot
+1586,1,Almond Croisant
+1587,1,Cappucino Hot
+1587,1,Cappucino Iced
+1588,1,Latte Hot
+1588,1,Cake Of The Day
+1590,1,Latte Iced
+1591,1,Cappucino Iced
+1592,1,Latte Iced
+1593,1,V60
+1593,1,V60
+1594,1,Latte Hot
+1594,1,Cappucino Hot
+1594,1,Latte Iced
+1595,1,Latte Iced
+1595,1,Latte Hot
+1601,1,Latte Hot
+1606,1,Cappucino Hot
+1607,1,Pain Au Chocolat
+1608,3,Latte Hot
+1608,1,Longblack Iced
+1608,1,Plain Croisant
+1608,1,Almond Croisant
+1608,1,Pain Au Chocolat
+1609,1,Latte Iced
+1611,1,Plain Croisant
+1611,1,Cappucino Hot
+1611,1,Cappucino Iced
+1614,1,Mochaccino Hot
+1614,1,Americano Hot
+1614,1,Pain Au Chocolat
+1614,1,Almond Croisant
+1615,3,Cappucino Hot
+1615,1,Latte Iced
+1615,1,Pain Au Chocolat
+1617,1,Latte Iced
+1620,2,Latte Iced
+1621,1,Americano Hot
+1621,1,Americano Hot
+1622,1,Latte Iced
+1622,2,Almond Croisant
+1622,1,Pain Au Chocolat
+1622,1,Almond Croisant
+1622,1,Pain Au Chocolat
+1623,1,Flat White Iced
+1624,1,V60
+1624,1,Plain Croisant
+1627,1,Latte Iced
+1628,1,LatteHot
+1628,1,Cappucino Hot
+1629,1,Cappucino Iced
+1630,1,Latte Hot
+1631,1,Latte Iced
+1632,1,Americano Hot
+1632,1,Cappucino Hot
+1632,1,Decaf Coffee
+1632,1,Americano Hot
+1633,1,Flat White Hot
+1637,1,V60
+1638,1,Latte Hot
+1638,1,Cappucino Iced
+1638,1,Americano Iced
+1638,1,Cappucino Hot
+1640,1,Cappucino Iced
+1640,1,Decaf Coffee
+1640,1,Americano Hot
+1641,1,Latte Iced
+1643,2,Cappucino Hot
+1643,1,EspressoHot
+1643,1,Cappucino Iced
+1643,1,Americano Iced
+1644,1,Latte Iced
+1644,1,Latte Iced
+1644,1,Pain Au Chocolat
+1644,1,Latte Iced
+1644,1,Latte Iced
+1646,1,V60
+1646,1,Latte Hot
+1647,1,Cappucino Hot
+1650,1,Mochaccino Iced
+1652,1,Cappucino Hot
+1652,1,PiccoloHot
+1652,1,PiccoloHot
+1652,1,PiccoloHot
+1654,1,Cappucino Hot
+1654,1,Latte Iced
+1656,1,Cappucino Iced
+1656,1,Americano Hot
+1656,1,Plain Croisant
+1657,1,Latte Iced
+1659,1,Latte Iced
+1661,1,Latte Iced
+1662,1,Latte Iced
+1663,1,Latte Iced
+1665,1,Flat White Iced
+1665,1,Flat White Hot
+1665,1,V60
+1665,1,LatteHot
+1666,1,Latte Iced
+1669,1,Cappucino Hot
+1669,1,Almond Croisant
+1670,1,Latte Iced
+1670,1,Plain Croisant
+1670,1,Pain Au Chocolat
+1671,1,Mochaccino Hot
+1671,1,Almond Croisant
+1672,1,Latte Iced
+1672,1,Latte Iced
+1673,1,Americano Iced
+1673,1,Latte Iced
+1673,1,Plain Croisant
+1675,1,LatteHot
+1675,1,Decaf Coffee
+1677,1,V60
+1677,1,V60
+1679,1,Flat White Hot
+1680,1,Latte Iced
+1680,1,Latte Iced
+1680,1,Coffee Croissant
+1681,1,Americano Iced
+1681,1,Latte Iced
+1682,1,Flat White Iced
+1682,1,Pain Au Chocolat
+1683,1,Almond Croisant
+1683,1,Pain Au Chocolat
+1683,2,EspressoHot
+1683,1,Americano Iced
+1683,1,Longblack Hot
+1683,1,Cappucino Hot
+1685,1,Latte Hot
+1685,1,Cappucino Iced
+1685,1,Almond Croisant
+1686,1,Cappucino Hot
+1688,1,Latte Iced
+1689,1,Americano Iced
+1689,1,Cappucino Iced
+1691,1,Cappucino Iced
+1691,1,Latte Hot
+1692,1,Latte Iced
+1692,1,Plain Croisant
+1693,1,Cappucino Hot
+1693,1,V60
+1693,1,Cappucino Hot
+1694,2,Latte Hot
+1695,1,Cappucino Iced
+1695,1,Americano Iced
+1695,1,Pain Au Chocolat
+1695,1,LatteHot
+1696,1,Latte Iced
+1698,1,V60
+1699,1,Latte Iced
+1700,1,Americano Iced
+1702,1,Latte Iced
+1703,1,Cappucino Hot
+1703,1,V60
+1704,2,Longblack Hot
+1705,1,Cappucino Iced
+1705,1,V60
+1705,1,V60
+1706,1,Latte Iced
+1706,1,Americano Iced
+1708,1,Cappucino Hot
+1709,1,Cappucino Hot
+1710,1,Cappucino Hot
+1711,1,Cake Of The Day
+1714,1,Flat White Hot
+1714,1,Cappucino Hot
+1714,1,Almond Croisant
+1714,1,Plain Croisant
+1716,1,Latte Iced
+1717,1,Latte Iced
+1718,1,Latte Iced
+1719,2,Americano Iced
+1719,1,Cappucino Hot
+1720,1,V60
+1720,1,Almond Croisant
+1720,1,Pain Au Chocolat
+1721,3,PiccoloHot
+1722,1,V60
+1722,1,V60
+1723,2,Latte Iced
+1724,1,Latte Iced
+1724,1,Almond Croisant
+1725,1,Latte Iced
+1725,1,Latte Iced
+1725,1,Decaf Coffee
+1727,1,Mochaccino Iced
+1732,1,Latte Iced
+1733,1,Americano Iced
+1733,1,Latte Iced
+1735,1,Cappucino Hot
+1735,1,Almond Croisant
+1735,1,Cake Of The Day
+1736,2,Cappucino Hot
+1736,1,Longblack Iced
+1736,1,Latte Iced
+1736,1,Brownies
+1736,2,Latte Iced
+1738,1,Latte Iced
+1739,1,Cappucino Iced
+1740,2,Latte Iced
+1741,1,Pistachio Croissant
+1742,1,Americano Iced
+1742,1,Pistachio Croissant
+1742,1,Americano Iced
+1744,1,Cappucino Iced
+1745,1,Latte Iced
+1747,1,Cake Of The Day
+1748,1,Latte Iced
+1748,1,Flat White Iced
+1748,1,Almond Croisant
+1751,1,Latte Iced
+1751,1,Latte Iced
+1751,1,Americano Iced
+1752,2,Latte Iced
+1753,1,Almond Croisant
+1754,1,Latte Iced
+1755,1,Cappucino Iced
+1755,1,Pain Au Chocolat
+1755,1,Americano Iced
+1756,1,Cappucino Iced
+1756,1,Latte Iced
+1756,1,Latte Iced
+1757,1,Latte Iced
+1757,1,Latte Iced
+1757,1,V60
+1757,1,LatteHot
+1758,1,PiccoloHot
+1758,1,Latte Iced
+1758,1,PiccoloHot
+1759,1,Cappucino Hot
+1759,1,Almond Croisant
+1760,1,Latte Iced
+1760,1,Pistachio Croissant
+1761,1,Americano Iced
+1761,1,Pistachio Croissant
+1761,1,Cake Of The Day
+1762,1,PiccoloIced
+1764,1,Latte Iced
+1764,1,Latte Iced
+1767,1,Latte Hot
+1767,1,Latte Hot
+1767,1,Cake Of The Day
+1774,1,Latte Hot
+1776,1,Almond Croisant
+1776,1,Pistachio Croissant
+1777,1,Almond Croisant
+1777,1,Plain Croisant
+1777,1,Brownies
+1779,1,Cappucino Hot
+1779,1,Latte Iced
+1780,1,Flat White Hot
+1780,1,Flat White Hot
+1780,1,Latte Iced
+1780,1,Cookies
+1781,1,PiccoloHot
+1781,1,PiccoloHot
+1781,1,Brownies
+1782,1,Americano Iced
+1784,1,Latte Iced
+1784,1,Flat White Hot
+1785,1,Cappucino Hot
+1786,1,Latte Hot
+1786,1,Cappucino Iced
+1787,1,Cappucino Hot
+1788,1,Cappucino Hot
+1788,1,Pain Au Chocolat
+1789,1,EspressoHot
+1789,1,Flat White Hot
+1789,1,Latte Iced
+1790,2,Latte Iced
+1790,1,Latte Iced
+1791,2,Latte Hot
+1791,1,Latte Iced
+1791,1,Cappucino Hot
+1791,1,Almond Croisant
+1791,1,Pain Au Chocolat
+1791,1,Pistachio Croissant
+1792,1,Cappucino Hot
+1792,1,Cappucino Hot
+1793,1,Cappucino Hot
+1793,1,Cappucino Hot
+1794,1,Latte Hot
+1797,1,Latte Iced
+1798,1,Mochaccino Hot
+1798,1,V60
+1798,1,Cappucino Hot
+1799,1,Americano Iced
+1799,1,V60
+1803,1,Latte Hot
+1803,1,Cappucino Hot
+1803,1,Decaf Coffee
+1803,1,Cake Of The Day
+1804,1,Latte Hot
+1807,1,Latte Iced
+1809,1,Magic Latte
+1809,1,Magic Latte
+1810,1,EspressoHot
+1814,1,Latte Iced
+1817,1,Cappucino Hot
+1819,1,EspressoHot
+1819,1,Americano Iced
+1819,1,V60
+1819,1,Pistachio Croissant
+1820,1,Latte Hot
+1821,1,Latte Hot
+1822,1,Cappucino Hot
+1822,1,Americano Hot
+1822,1,Decaf Coffee
+1823,1,Cappucino Hot
+1827,1,V60
+1827,1,Pain Au Chocolat
+1828,1,Cappucino Hot
+1828,1,Latte Hot
+1828,1,Cappucino Iced
+1829,1,Latte Iced
+1830,1,Cake Of The Day
+1831,1,Latte Iced
+1831,1,Almond Croisant
+1832,1,Americano Hot
+1834,1,Flat White Iced
+1834,1,Decaf Coffee
+1837,1,Latte Hot
+1837,1,Latte Iced
+1838,1,Americano Hot
+1838,1,EspressoHot
+1838,1,Latte Hot
+1842,1,Latte Iced
+1842,1,Cappucino Hot
+1842,1,Flat White Iced
+1842,1,Cappucino Hot
+1842,1,Pistachio Croissant
+1842,1,LatteHot
+1843,1,Almond Croisant
+1844,1,Latte Iced
+1844,1,Americano Iced
+1844,1,Latte Iced
+1845,1,Americano Iced
+1845,1,Cappucino Hot
+1845,1,Cookies
+1846,1,Latte Iced
+1846,1,Plain Croisant
+1846,1,Pain Au Chocolat
+1847,1,Longblack Iced
+1847,1,Latte Iced
+1848,1,Latte Iced
+1849,1,V60
+1849,1,Pistachio Croissant
+1850,1,V60
+1851,2,Flat White Hot
+1851,1,Flat White Hot
+1852,1,Flat White Iced
+1852,1,Flat White Iced
+1852,1,V60
+1852,1,Almond Croisant
+1853,1,LatteHot
+1853,1,Latte Hot
+1854,1,V60
+1854,1,Americano Iced
+1855,1,Cappucino Hot
+1858,1,Latte Hot
+1858,1,Plain Croisant
+1863,1,Cappucino Iced
+1863,1,Plain Croisant
+1864,1,Latte Iced
+1864,2,V60
+1864,1,V60
+1864,1,V60
+1864,1,EspressoHot
+1866,1,EspressoHot
+1866,1,EspressoHot
+1866,1,Pistachio Croissant
+1866,1,Cookies
+1869,1,Cake Of The Day
+1870,2,Cappucino Hot
+1872,1,Cappucino Iced
+1872,1,Mochaccino Iced
+1872,1,Cake Of The Day
+1874,1,Latte Iced
+1875,1,Latte Hot
+1875,1,Flat White Hot
+1875,1,Cake Of The Day
+1875,1,Pain Au Chocolat
+1875,1,Pistachio Croissant
+1877,1,EspressoHot
+1878,1,Latte Iced
+1879,1,Latte Iced
+1879,1,Latte Iced
+1879,1,Cake Of The Day
+1880,1,Latte Iced
+1881,1,Latte Iced
+1882,1,V60
+1882,1,Pain Au Chocolat
+1882,1,Cappucino Hot
+1883,2,Almond Croisant
+1884,1,Flat White Iced
+1885,1,Cappucino Hot
+1885,1,Cappucino Iced
+1885,1,Latte Iced
+1885,1,Latte Iced
+1887,1,Americano Hot
+1891,1,LatteHot
+1891,1,LatteHot
+1891,1,V60
+1891,1,EspressoHot
+1891,1,Latte Hot
+1891,1,Plain Croisant
+1891,1,LatteHot
+1892,1,Cake Of The Day
+1892,1,Cappucino Hot
+1892,1,Latte Iced
+1894,1,Latte Iced
+1895,1,Pistachio Croissant
+1896,1,Latte Iced
+1896,1,Latte Iced
+1896,1,Latte Iced
+1896,1,Pain Au Chocolat
+1897,1,Americano Iced
+1898,1,Americano Hot
+1898,1,Latte Hot
+1898,1,LatteHot
+1901,1,Americano Iced
+1901,1,Cappucino Iced
+1904,1,V60
+1907,1,Americano Iced
+1908,1,Americano Hot
+1908,1,Cappucino Iced
+1910,1,Latte Iced
+1912,1,Cappucino Iced
+1913,1,Americano Hot
+1913,1,Americano Iced
+1913,1,Plain Croisant
+1913,1,Pistachio Croissant
+1917,1,Almond Croisant
+1917,1,Blueberry Muffins
+1918,1,Coffee Shakereto
+1919,1,Almond Croisant
+1920,1,Plain Croisant
+1920,1,Cappucino Hot
+1921,1,Latte Hot
+1921,1,Latte Hot
+1921,1,Pain Au Chocolat
+1922,1,Almond Croisant
+1922,1,Latte Iced
+1922,1,Americano Iced
+1924,1,Latte Iced
+1924,1,Magic Latte
+1924,1,Almond Croisant
+1925,1,Pain Au Chocolat
+1926,1,Latte Iced
+1926,1,Latte Iced
+1927,1,Almond Croisant
+1927,1,PiccoloHot
+1931,1,Cappucino Hot
+1931,1,Pain Au Chocolat
+1931,1,Pistachio Croissant
+1934,1,Cake Of The Day
+1934,1,Longblack Iced
+1934,1,PiccoloHot
+1936,1,Pistachio Croissant
+1936,1,Cappucino Hot
+1937,1,V60
+1937,1,Cake Of The Day
+1938,1,V60
+1938,1,Pistachio Croissant
+1939,1,Cake Of The Day
+1940,1,Cake Of The Day
+1942,1,Longblack Iced
+1942,1,Latte Iced
+1942,1,Latte Iced
+1942,1,Almond Croisant
+1942,1,Latte Iced
+1942,1,Cake Of The Day
+1944,1,V60
+1944,1,Latte Iced
+1945,1,Pistachio Croissant
+1946,1,V60
+1946,1,Americano Iced
+1947,1,Cake Of The Day
+1948,1,Plain Croisant
+1949,1,Cappucino Iced
+1949,1,Brownies
+1950,3,Americano Iced
+1951,1,Cappucino Hot
+1951,2,Cappucino Hot
+1952,1,Latte Iced
+1953,1,Pain Au Chocolat
+1954,1,Latte Iced
+1955,1,Cake Of The Day
+1956,1,V60
+1956,1,Decaf Coffee
+1956,1,Latte Iced
+1956,1,Decaf Coffee
+1956,1,Latte Hot
+1956,1,Cake Of The Day
+1956,1,Latte Hot
+1957,1,Cookies
+1957,1,Plain Croisant
+1957,1,Cappucino Hot
+1958,1,V60
+1958,1,Cake Of The Day
+1959,1,Pistachio Croissant
+1964,1,Latte Iced
+1964,1,Pistachio Croissant
+1967,1,Latte Hot
+1968,1,Latte Iced
+1968,1,Pistachio Croissant
+1972,1,Cappucino Iced
+1972,1,Latte Hot
+1972,1,Decaf Coffee
+1973,1,Pistachio Croissant
+1973,1,Latte Iced
+1973,1,Cappucino Iced
+1976,1,Cappucino Hot
+1976,1,Latte Hot
+1976,1,Decaf Coffee
+1976,1,Cake Of The Day
+1980,1,Americano Iced
+1980,1,Pistachio Croissant
+1980,1,Cake Of The Day
+1981,1,Cappucino Hot
+1981,1,Latte Iced
+1981,2,Cake Of The Day
+1982,1,Longblack Hot
+1982,1,Latte Hot
+1983,1,Flat White Hot
+1983,1,Cappucino Iced
+1983,1,Decaf Coffee
+1983,1,Pistachio Croissant
+1984,1,Cappucino Hot
+1984,1,Cappucino Hot
+1987,1,Cappucino Hot
+1989,1,Almond Croisant
+1990,1,Cappucino Hot
+1993,1,Cappucino Iced
+1994,1,Latte Iced
+1999,1,Latte Iced
+2000,1,Latte Hot
+2000,1,Latte Hot
+2000,1,Cappucino Hot
+2000,1,Latte Iced
+2001,1,Cappucino Hot
+2001,1,Pistachio Croissant
+2002,2,Latte Hot
+2003,1,Brownies
+2004,1,Latte Iced
+2004,1,Pain Au Chocolat
+2004,1,PiccoloHot
+2004,1,Brownies
+2004,1,Americano Iced
+2004,1,Pistachio Croissant
+2007,1,Latte Iced
+2009,1,V60
+2009,1,V60
+2009,1,V60
+2011,1,Americano Iced
+2011,1,Cookies
+2015,1,Cappucino Iced
+2016,1,Cappucino Hot
+2016,1,Latte Hot
+2016,1,V60
+2017,2,Flat White Hot
+2019,1,Cappucino Iced
+2021,2,Americano Iced
+2022,1,Cappucino Hot
+2022,1,Latte Iced
+2024,2,Latte Hot
+2024,2,Decaf Coffee
+2024,1,Latte Iced
+2024,1,Decaf Coffee
+2026,1,PiccoloHot
+2026,1,Latte Hot
+2026,1,PiccoloHot
+2027,1,Americano Iced
+2028,1,Plain Croisant
+2029,1,V60
+2029,1,Americano Iced
+2029,1,Latte Iced
+2029,1,Longblack Iced
+2029,1,Decaf Coffee
+2029,1,Cake Of The Day
+2030,1,Latte Iced
+2030,1,Latte Hot
+2030,1,Americano Hot
+2030,1,Decaf Coffee
+2033,1,PiccoloHot
+2033,1,Plain Croisant
+2035,1,Cappucino Iced
+2035,1,Americano Hot
+2036,1,Latte Iced
+2037,2,Cappucino Hot
+2038,1,Americano Iced
+2039,1,Americano Hot
+2039,1,Latte Iced
+2039,1,Pistachio Croissant
+2039,1,Blueberry Muffins
+2039,1,Brownies
+2040,1,V60
+2043,1,LatteHot
+2043,1,Americano Iced
+2043,1,LatteHot
+2044,1,Latte Iced
+2044,1,Plain Croisant
+2045,1,Cappucino Hot
+2046,1,Almond Croisant
+2048,1,Latte Iced
+2050,1,Latte Iced
+2052,1,Americano Iced
+2055,1,Cappucino Iced
+2055,1,Cappucino Iced
+2055,1,PiccoloHot
+2057,1,Americano Iced
+2057,1,Latte Iced
+2058,1,Latte Iced
+2058,1,Latte Iced
+2058,1,Americano Iced
+2058,1,Latte Iced
+2059,1,V60
+2059,1,Latte Iced
+2060,1,Almond Croisant
+2060,1,Pain Au Chocolat
+2066,1,V60
+2069,1,LatteHot
+2073,1,Latte Iced
+2073,1,Brownies
+2075,1,Americano Iced
+2075,1,Decaf Coffee
+2079,2,Latte Iced
+2079,2,Brownies
+2083,1,Latte Iced
+2083,1,Latte Iced
+2083,1,Latte Iced
+2083,1,Americano Iced
+2083,1,Latte Hot
+2084,1,Almond Croisant
+2085,1,V60
+2087,1,Longblack Iced
+2087,1,Latte Hot
+2087,1,Brownies
+2089,1,Almond Croisant
+2089,1,Brownies
+2089,1,Cappucino Hot
+2089,1,Latte Hot
+2090,1,Flat White Iced
+2091,1,Latte Iced
+2091,1,Latte Iced
+2092,1,Cappucino Hot
+2092,1,Brownies
+2093,1,Macchiato Iced
+2094,1,Almond Croisant
+2094,1,Pain Au Chocolat
+2095,1,Americano Hot
+2096,1,Latte Hot
+2096,1,Latte Hot
+2097,1,Longblack Hot
+2097,1,Latte Hot
+2097,1,Cappucino Hot
+2097,1,Almond Croisant
+2099,1,Pistachio Croissant
+2099,1,Brownies
+2099,1,Latte Iced
+2099,1,LatteHot
+2101,1,V60
+2101,1,Americano Hot
+2102,1,Flat White Hot
+2102,1,V60
+2102,1,Decaf Coffee
+2104,1,Latte Iced
+2106,1,Americano Iced
+2106,1,Brownies
+2107,1,Cappucino Hot
+2107,1,Cake Of The Day
+2108,1,Brownies
+2108,1,Cookies
+2112,1,Latte Iced
+2112,1,V60
+2114,1,Latte Hot
+2114,1,Cappucino Hot
+2114,1,Cookies
+2115,1,Latte Iced
+2116,1,Latte Hot
+2116,1,V60
+2116,1,Brownies
+2116,1,Latte Iced
+2116,1,Almond Croisant
+2116,1,Cake Of The Day
+2118,2,Latte Iced
+2118,1,Pain Au Chocolat
+2118,1,Plain Croisant
+2119,1,Pain Au Chocolat
+2119,1,Cookies
+2119,1,Cake Of The Day
+2124,1,Cappucino Iced
+2124,1,Cappucino Hot
+2124,1,Cappucino Hot
+2124,1,Cappucino Hot
+2127,1,Pain Au Chocolat
+2127,1,Latte Iced
+2128,1,Cookies
+2128,1,Mochaccino Hot
+2130,1,Cappucino Hot
+2130,1,V60
+2130,1,Pain Au Chocolat
+2135,1,Almond Croisant
+2136,2,PiccoloHot
+2136,1,Pain Au Chocolat
+2137,1,Cappucino Iced
+2137,1,Pain Au Chocolat
+2141,1,Cappucino Hot
+2141,1,Pain Au Chocolat
+2141,1,Cake Of The Day
+2143,1,Latte Hot
+2143,1,Plain Croisant
+2145,1,Latte Iced
+2147,1,Longblack Iced
+2148,1,Flat White Iced
+2150,1,V60
+2150,1,Blueberry Muffins
+2150,1,Plain Croisant
+2150,1,Cappucino Hot
+2151,1,Pain Au Chocolat
+2151,1,Pistachio Croissant
+2151,1,Americano Iced
+2151,1,Latte Iced
+2151,1,LatteHot
+2152,1,V60
+2152,1,V60
+2152,1,Cappucino Hot
+2152,1,Cappucino Hot
+2152,1,Latte Iced
+2152,1,Americano Iced
+2153,1,Pain Au Chocolat
+2154,1,Flat White Hot
+2154,1,Brownies
+2155,1,Longblack Iced
+2158,1,Longblack Iced
+2158,1,Latte Hot
+2158,1,Cake Of The Day
+2159,1,Pain Au Chocolat
+2159,1,Latte Iced
+2160,1,Cappucino Hot
+2160,1,Cappucino Iced
+2161,1,Cappucino Iced
+2161,1,Cappucino Iced
+2161,1,Americano Iced
+2161,1,Cookies
+2161,1,V60
+2161,1,Cake Of The Day
+2162,1,Latte Iced
+2162,1,Cappucino Iced
+2163,1,Latte Iced
+2163,1,Mochaccino Iced
+2163,1,Cake Of The Day
+2164,1,Cake Of The Day
+2164,1,Cake Of The Day
+2166,1,Cappucino Iced
+2166,1,Blueberry Muffins
+2167,1,Cappucino Hot
+2168,1,Cake Of The Day
+2169,1,Cappucino Iced
+2169,1,Cappucino Hot
+2169,1,Pain Au Chocolat
+2169,1,Brownies
+2170,1,Cappucino Iced
+2170,1,Latte Hot
+2170,2,Latte Iced
+2171,1,Almond Croisant
+2171,1,Latte Iced
+2171,1,Latte Iced
+2171,1,Latte Iced
+2187,1,Latte Hot
+2187,1,Flat White Hot
+2187,1,Latte Hot
+2190,1,Americano Hot
+2190,1,Latte Hot
+2190,1,Magic Latte
+2190,1,Magic Latte
+2191,1,Latte Hot
+2191,1,Latte Iced
+2192,1,Cappucino Iced
+2193,1,Cappucino Hot
+2195,1,Cappucino Hot
+2195,1,Decaf Coffee
+2195,1,EspressoHot
+2195,1,EspressoHot
+2196,1,Cappucino Hot
+2196,1,Latte Hot
+2196,1,Cappucino Hot
+2196,1,Cappucino Iced
+2196,1,Plain Croisant
+2201,1,Cappucino Hot
+2202,1,Cappucino Hot
+2202,1,Latte Hot
+2203,1,Magic Latte
+2203,1,Brownies
+2203,1,Cappucino Hot
+2204,1,Cappucino Iced
+2205,1,Latte Hot
+2205,1,Americano Hot
+2205,1,Decaf Coffee
+2205,1,Blueberry Muffins
+2205,1,Brownies
+2205,1,Pistachio Croissant
+2205,1,V60
+2205,1,V60
+2206,1,Latte Iced
+2206,1,Latte Iced
+2207,1,LatteHot
+2207,1,Cappucino Hot
+2207,1,Mochaccino Iced
+2208,1,V60
+2208,1,Almond Croisant
+2210,1,Latte Iced
+2211,1,Latte Hot
+2213,1,Cappucino Iced
+2215,1,Cappucino Hot
+2217,1,Americano Hot
+2217,1,Latte Iced
+2221,1,Americano Iced
+2223,1,Cappucino Hot
+2223,1,Cappucino Iced
+2223,1,Brownies
+2224,1,Americano Iced
+2224,1,Almond Croisant
+2224,1,Pain Au Chocolat
+2225,3,Cappucino Iced
+2229,1,Americano Iced
+2229,1,Latte Hot
+2230,1,Americano Iced
+2230,1,Americano Hot
+2231,1,Cappucino Iced
+2231,1,Americano Iced
+2233,1,Cappucino Hot
+2233,1,Latte Iced
+2233,1,Latte Iced
+2234,1,Pistachio Croissant
+2234,1,Americano Iced
+2237,1,Longblack Iced
+2238,1,Cappucino Hot
+2239,1,Cappucino Hot
+2239,1,Pistachio Croissant
+2239,1,Mochaccino Iced
+2239,1,Cappucino Iced
+2239,1,Americano Hot
+2239,1,Latte Iced
+2239,1,Cappucino Hot
+2240,1,Latte Iced
+2240,1,Latte Iced
+2242,1,Latte Iced
+2243,1,Magic Latte
+2243,1,Mochaccino Hot
+2244,1,Cappucino Hot
+2244,1,Latte Iced
+2245,1,Latte Iced
+2245,1,Pain Au Chocolat
+2245,1,Almond Croisant
+2247,1,Americano Hot
+2247,1,PiccoloHot
+2247,1,Latte Hot
+2248,1,Cappucino Iced
+2248,1,Cappucino Iced
+2249,1,Latte Iced
+2249,1,Americano Iced
+2251,2,Latte Iced
+2253,1,LatteIce
+2253,1,LatteIce
+2253,1,Americano Iced
+2256,1,V60
+2256,1,Latte Hot
+2258,1,Latte Iced
+2258,1,Almond Croisant
+2258,1,Pain Au Chocolat
+2261,1,V60
+2262,1,V60
+2263,2,Latte Hot
+2263,1,Latte Iced
+2264,1,Latte Hot
+2264,1,Cappucino Hot
+2265,1,Cappucino Hot
+2267,2,Cappucino Iced
+2267,1,Cappucino Hot
+2267,1,Cappucino Iced
+2267,1,Coffee Croissant
+2267,1,Pistachio Croissant
+2267,1,Almond Croisant
+2268,1,Latte Iced
+2268,1,Flat White Iced
+2269,1,Latte Iced
+2269,1,Cappucino Iced
+2272,1,Americano Iced
+2272,1,Latte Iced
+2272,1,Almond Croisant
+2274,1,Brownies
+2274,1,Cookies
+2274,1,Latte Iced
+2274,1,Longblack Hot
+2277,1,Latte Hot
+2277,1,Pistachio Croissant
+2277,1,Flat White Iced
+2279,1,Latte Iced
+2280,1,Pistachio Croissant
+2280,1,Latte Iced
+2280,1,Cappucino Iced
+2281,1,Cappucino Hot
+2281,1,Cappucino Hot
+2281,1,Mochaccino Iced
+2281,1,Americano Hot
+2285,1,Almond Croisant
+2286,1,Pistachio Croissant
+2286,1,Latte Iced
+2287,1,Latte Iced
+2287,1,Pain Au Chocolat
+2288,1,Americano Iced
+2291,1,Latte Hot
+2291,1,Latte Hot
+2291,1,Coffee Croissant
+2292,1,Cappucino Hot
+2292,1,Cappucino Hot
+2292,1,Decaf Coffee
+2292,1,Almond Croisant
+2293,1,Latte Hot
+2293,1,V60
+2293,1,Brownies
+2295,1,Coffee Croissant
+2295,1,Cappucino Hot
+2296,2,Latte Hot
+2296,1,Latte Iced
+2296,1,Latte Hot
+2296,1,Latte Iced
+2296,1,Latte Iced
+2296,2,Latte Iced
+2298,2,Americano Hot
+2298,1,Pistachio Croissant
+2301,1,Flat White Iced
+2303,1,Cappucino Iced
+2303,1,Latte Iced
+2303,1,V60
+2305,1,Latte Hot
+2305,1,Mochaccino Hot
+2306,1,Coffee Jelly
+2306,1,Latte Iced
+2306,1,V60
+2306,1,Brownies
+2307,1,Americano Iced
+2308,1,Pain Au Chocolat
+2308,1,Latte Iced
+2310,1,Latte Iced
+2311,1,V60
+2311,1,Latte Hot
+2312,1,Latte Hot
+2312,1,Americano Iced
+2312,1,Pain Au Chocolat
+2313,1,EspressoHot
+2313,1,Latte Hot
+2313,1,V60
+2313,1,Latte Iced
+2314,1,Pain Au Chocolat
+2314,1,Latte Hot
+2319,1,Latte Iced
+2319,1,Decaf Coffee
+2322,1,Flat White Hot
+2323,1,Longblack Hot
+2323,1,Plain Croisant
+2325,1,Pain Au Chocolat
+2325,1,Cookies
+2327,1,Americano Hot
+2327,1,Latte Hot
+2328,1,Flat White Iced
+2328,1,Coffee Croissant
+2329,1,Cappucino Hot
+2329,1,Latte Iced
+2330,1,Latte Iced
+2330,1,Pain Au Chocolat
+2331,1,Americano Hot
+2331,1,Latte Iced
+2333,1,Latte Hot
+2333,1,Cappucino Iced
+2333,1,Cappucino Hot
+2334,2,Cappucino Hot
+2334,2,Latte Iced
+2334,1,Pain Au Chocolat
+2334,1,Latte Hot
+2334,1,Latte Hot
+2336,1,Latte Iced
+2336,1,Cappucino Hot
+2337,1,Americano Iced
+2338,1,V60
+2340,1,Cappucino Iced
+2340,1,Cappucino Hot
+2340,1,Latte Iced
+2340,1,Cappucino Hot
+2341,2,Latte Hot
+2341,1,Latte Iced
+2341,1,Almond Croisant
+2341,1,Almond Croisant
+2342,1,Latte Iced
+2342,1,Latte Iced
+2342,1,Cappucino Iced
+2349,1,Cappucino Iced
+2349,1,Cappucino Iced
+2349,1,Americano Iced
+2351,2,Americano Iced
+2351,1,Latte Iced
+2351,1,Latte Iced
+2351,1,Americano Iced
+2352,1,Cappucino Iced
+2352,1,Latte Iced
+2352,1,Cappucino Iced
+2352,1,Latte Hot
+2354,1,Cappucino Hot
+2354,1,Mochaccino Iced
+2354,1,Latte Iced
+2356,1,Latte Iced
+2357,1,V60
+2358,2,Latte Iced
+2359,1,Latte Iced
+2359,1,Decaf Coffee
+2360,1,Latte Iced
+2360,1,Latte Iced
+2361,1,Latte Iced
+2361,1,Americano Iced
+2361,1,Decaf Coffee
+2361,1,Mochaccino Hot
+2362,1,Latte Iced
+2362,1,Cappucino Hot
+2362,1,Latte Iced
+2362,1,Almond Croisant
+2363,1,Flat White Hot
+2364,1,Latte Iced
+2364,1,Latte Iced
+2366,1,Latte Iced
+2366,1,Almond Croisant
+2366,1,Coffee Croissant
+2367,1,Latte Iced
+2368,1,Latte Iced
+2368,1,Latte Iced
+2368,1,Americano Iced
+2368,1,EspressoHot
+2371,1,Latte Iced
+2373,1,Latte Iced
+2376,1,Americano Hot
+2376,1,Latte Hot
+2376,1,Latte Iced
+2377,1,Cappucino Hot
+2377,1,Almond Croisant
+2378,1,V60
+2378,1,Latte Iced
+2378,1,Cappucino Iced
+2378,1,Coffee Croissant
+2378,1,Cappucino Iced
+2378,1,Latte Iced
+2380,1,Latte Iced
+2380,1,Latte Iced
+2382,1,Latte Iced
+2382,1,V60
+2383,1,Cappucino Hot
+2383,1,Flat White Hot
+2384,1,Pain Au Chocolat
+2384,1,Coffee Croissant
+2384,1,Cappucino Hot
+2384,1,Latte Iced
+2385,1,Latte Iced
+2387,1,Americano Iced
+2387,1,Decaf Coffee
+2388,1,Latte Iced
+2388,1,Americano Iced
+2389,1,Americano Iced
+2389,1,Flat White Iced
+2391,1,Cappucino Hot
+2392,1,Latte Hot
+2392,1,Latte Iced
+2392,1,Cake Of The Day
+2393,1,Pain Au Chocolat
+2393,1,Cappucino Hot
+2400,1,Latte Iced
+2400,1,LatteIce
+2402,2,Latte Hot
+2402,1,V60
+2402,1,Almond Croisant
+2402,1,Plain Croisant
+2403,1,Almond Croisant
+2405,1,Latte Iced
+2407,1,Coffee Croissant
+2407,1,Almond Croisant
+2407,1,Flat White Iced
+2407,1,Latte Iced
+2407,1,Pain Au Chocolat
+2409,1,Latte Iced
+2409,1,Latte Iced
+2412,1,Cappucino Iced
+2412,1,Decaf Coffee
+2412,1,Cappucino Iced
+2412,1,Cappucino Iced
+2412,1,Cappucino Iced
+2413,1,Americano Iced
+2414,1,Cappucino Hot
+2414,1,Cappucino Hot
+2414,1,Cake Of The Day
+2414,1,Plain Croisant
+2415,1,V60
+2415,1,V60
+2416,2,Mochaccino Iced
+2416,1,V60
+2416,1,Blueberry Muffins
+2417,1,Blueberry Muffins
+2417,1,Plain Croisant
+2417,1,Cappucino Hot
+2417,1,Almond Croisant
+2417,1,Latte Hot
+2418,1,Almond Croisant
+2420,1,Latte Hot
+2421,1,Latte Iced
+2421,1,Latte Hot
+2422,1,Pain Au Chocolat
+2423,1,Latte Iced
+2426,1,Americano Iced
+2427,1,Plain Croisant
+2427,1,Almond Croisant
+2427,1,Pistachio Croissant
+2427,3,Cappucino Hot
+2427,1,Cappucino Hot
+2428,1,Latte Iced
+2428,1,Cappucino Iced
+2429,1,Mochaccino Iced
+2429,1,Americano Iced
+2430,5,PiccoloHot
+2430,2,Plain Croisant
+2430,5,Cappucino Iced
+2431,1,V60
+2431,1,Cappucino Iced
+2431,1,Latte Iced
+2432,2,Americano Iced
+2433,2,Cappucino Iced
+2434,1,Latte Iced
+2435,1,Americano Hot
+2435,1,Latte Iced
+2435,1,Latte Iced
+2436,1,Cappucino Hot
+2437,1,LatteIce
+2437,1,V60
+2437,1,Pistachio Croissant
+2438,1,Cappucino Hot
+2438,1,Americano Iced
+2439,1,Latte Iced
+2442,1,Latte Iced
+2443,1,Latte Iced
+2444,1,Cappucino Hot
+2444,1,Pistachio Croissant
+2445,1,Cake Of The Day
+2446,1,Americano Hot
+2447,1,LatteIce
+2447,1,V60
+2447,1,Pain Au Suisse
+2448,2,Latte Iced
+2448,1,Latte Iced
+2448,1,Latte Iced
+2450,2,Cappucino Iced
+2450,1,Cappucino Iced
+2450,1,Flat White Iced
+2450,1,Latte Iced
+2451,1,Latte Iced
+2452,1,V60
+2452,1,Cappucino Hot
+2452,1,V60
+2453,1,Americano Hot
+2454,1,Coffee Croissant
+2454,1,Americano Hot
+2454,1,Americano Hot
+2455,2,Latte Iced
+2455,1,Latte Hot
+2455,1,Almond Croisant
+2456,1,Cappucino Hot
+2457,1,Cappucino Hot
+2457,1,Pistachio Croissant
+2457,1,Cappucino Hot
+2458,1,Cappucino Hot
+2458,1,EspressoHot
+2458,1,Americano Iced
+2459,2,Flat White Hot
+2459,1,Longblack Hot
+2459,1,Latte Hot
+2462,1,Cappucino Hot
+2462,1,Longblack Hot
+2462,2,Cookies
+2462,1,Cappucino Iced
+2464,1,Almond Croisant
+2464,1,Americano Hot
+2464,1,Cappucino Hot
+2467,1,Americano Iced
+2467,1,Latte Iced
+2470,1,Cappucino Hot
+2470,1,Americano Iced
+2471,1,Cappucino Iced
+2472,1,Americano Iced
+2472,1,Americano Hot
+2474,1,Americano Iced
+2474,1,Pistachio Croissant
+2475,1,Latte Iced
+2475,1,Longblack Hot
+2477,1,Flat White Iced
+2477,1,Cappucino Hot
+2477,1,Magic Latte
+2478,1,Cappucino Hot
+2478,1,Cappucino Hot
+2478,1,Decaf Coffee
+2478,1,Cappucino Hot
+2478,1,Almond Croisant
+2482,1,Flat White Hot
+2482,1,Pain Au Chocolat
+2482,1,Mochaccino Iced
+2482,1,Pain Au Chocolat
+2482,1,Blueberry Muffins
+2483,1,Americano Iced
+2484,1,Americano Iced
+2484,1,Latte Iced
+2484,1,Pain Au Suisse
+2485,1,Cappucino Hot
+2486,1,Latte Hot
+2486,1,Latte Hot
+2488,1,Latte Iced
+2489,1,Almond Croisant
+2489,1,Cappucino Iced
+2489,1,Cappucino Hot
+2490,1,Latte Hot
+2490,1,V60
+2490,1,Plain Croisant
+2491,1,Latte Hot
+2491,1,Cappucino Iced
+2491,1,Cappucino Iced
+2491,1,Cake Of The Day
+2492,1,Almond Croisant
+2492,1,Cappucino Iced
+2495,1,Latte Iced
+2496,2,Latte Iced
+2496,1,Almond Croisant
+2496,1,Pistachio Croissant
+2497,1,Pain Au Suisse
+2497,1,Pistachio Croissant
+2497,1,Latte Iced
+2498,1,Latte Hot
+2498,1,Cappucino Iced
+2499,1,Latte Iced
+2499,1,Latte Hot
+2499,1,Latte Iced
+2499,1,Cake Of The Day
+2499,1,Pain Au Suisse
+2499,1,Latte Iced
+2500,1,Latte Iced
+2501,1,Americano Hot
+2501,1,Decaf Coffee
+2502,1,Americano Hot
+2502,1,Cappucino Hot
+2504,1,Cappucino Hot
+2504,1,Almond Croisant
+2506,1,Flat White Hot
+2506,1,Pistachio Croissant
+2506,1,Pistachio Croissant
+2507,1,Blueberry Muffins
+2508,1,Brownies
+2509,1,V60
+2510,1,Almond Croisant
+2510,1,Cake Of The Day
+2510,1,Plain Croisant
+2510,1,Pain Au Chocolat
+2510,1,Brownies
+2511,1,Pain Au Suisse
+2511,1,Latte Iced
+2512,4,Latte Iced
+2513,1,Brownies
+2513,1,Latte Iced
+2513,1,Latte Iced
+2513,1,Blueberry Muffins
+2514,1,Americano Hot
+2514,1,V60
+2514,1,Cappucino Hot
+2514,1,Pain Au Chocolat
+2514,1,Pain Au Suisse
+2516,1,Mochaccino Iced
+2516,1,Cappucino Iced
+2517,2,Latte Iced
+2517,1,Blueberry Muffins
+2517,1,Pistachio Croissant
+2517,1,Latte Iced
+2521,1,Mochaccino Iced
+2524,1,Magic Latte
+2525,1,Cappucino Hot
+2526,1,Americano Iced
+2527,1,Americano Hot
+2527,1,Flat White Hot
+2527,1,Cookies
+2528,1,Americano Hot
+2528,1,Americano Hot
+2528,1,Latte Iced
+2530,1,Latte Iced
+2531,1,Mochaccino Iced
+2532,1,V60
+2533,1,Magic Latte
+2533,1,Magic Latte
+2533,1,Mochaccino Iced
+2533,1,Cappucino Iced
+2533,2,Americano Iced
+2533,2,Magic Latte
+2534,1,Pain Au Suisse
+2534,1,Pistachio Croissant
+2534,1,Pain Au Chocolat
+2534,1,Americano Iced
+2534,1,Latte Iced
+2534,1,Pain Au Suisse
+2535,1,Latte Iced
+2535,1,Latte Iced
+2535,1,Cappucino Hot
+2535,1,Americano Hot
+2535,1,Latte Iced
+2536,1,V60
+2536,1,Brownies
+2537,1,Cappucino Iced
+2537,1,Latte Hot
+2538,1,Cappucino Iced
+2539,1,Magic Latte
+2540,1,Cappucino Iced
+2540,1,V60
+2544,1,Latte Iced
+2544,1,Mochaccino Iced
+2544,1,V60
+2544,1,Latte Iced
+2545,1,Latte Iced
+2549,1,Latte Iced
+2549,1,Americano Iced
+2550,1,V60
+2551,1,Cappucino Hot
+2551,1,Latte Hot
+2552,1,Americano Iced
+2553,1,Cappucino Hot
+2554,2,Americano Iced
+2554,1,Americano Hot
+2554,1,V60
+2555,1,Americano Iced
+2556,1,Latte Iced
+2558,1,Cappucino Iced
+2559,1,Cappucino Hot
+2559,1,Almond Croisant
+2559,1,Latte Hot
+2561,1,Kuign-amann
+2561,1,Americano Iced
+2562,1,Pain Au Suisse
+2562,1,Blueberry Muffins
+2562,1,Pain Au Chocolat
+2562,1,Kuign-amann
+2562,1,Almond Croisant
+2562,1,Plain Croisant
+2562,1,EspressoHot
+2562,2,PiccoloHot
+2562,1,Latte Hot
+2563,1,Americano Iced
+2563,1,Latte Hot
+2563,1,Decaf Coffee
+2564,1,Cappucino Iced
+2565,1,Americano Hot
+2565,1,Latte Hot
+2565,1,Latte Iced
+2565,1,Plain Croisant
+2565,1,Blueberry Muffins
+2566,1,V60
+2567,1,Latte Hot
+2567,1,Almond Croisant
+2568,1,Latte Iced
+2568,1,V60
+2569,1,Latte Iced
+2569,1,Pain Au Suisse
+2569,1,Kuign-amann
+2569,1,Almond Croisant
+2569,1,Latte Iced
+2569,1,Cake Of The Day
+2570,2,Latte Iced
+2570,1,Latte Iced
+2570,1,Latte Iced
+2571,1,Cake Of The Day
+2571,1,Almond Croisant
+2572,1,Pain Au Suisse
+2575,1,Cappucino Hot
+2575,1,Cappucino Iced
+2575,1,Latte Hot
+2575,1,Americano Hot
+2577,2,Cappucino Iced
+2578,1,V60
+2579,1,Latte Hot
+2579,1,Latte Iced
+2579,1,Pain Au Suisse
+2579,1,Cake Of The Day
+2580,1,Magic Latte
+2580,1,Cappucino Hot
+2581,1,Latte Iced
+2581,1,Latte Iced
+2582,1,Cookies
+2582,1,Latte Iced
+2582,1,Cappucino Iced
+2583,1,Pain Au Suisse
+2585,1,Latte Iced
+2586,1,Latte Hot
+2586,2,Latte Hot
+2586,2,Pain Au Chocolat
+2587,1,Latte Iced
+2588,1,Latte Iced
+2588,1,Americano Hot
+2589,1,Cappucino Hot
+2589,1,Cappucino Iced
+2589,1,Latte Hot
+2589,1,Latte Hot
+2589,1,Kuign-amann
+2591,1,Latte Iced
+2592,2,Latte Iced
+2593,1,Latte Iced
+2594,1,Cappucino Hot
+2594,1,Pain Au Chocolat
+2596,1,Almond Croisant
+2596,1,Latte Hot
+2596,1,PiccoloHot
+2597,1,Latte Iced
+2597,1,Cappucino Hot
+2598,1,Latte Iced
+2598,1,Latte Iced
+2599,1,Plain Croisant
+2600,1,Cappucino Iced
+2600,1,Americano Iced
+2600,1,Mochaccino Iced
+2600,1,Cake Of The Day
+2600,1,Cappucino Iced
+2601,1,Latte Iced
+2601,1,Latte Iced
+2606,1,Americano Hot
+2606,1,Pistachio Croissant
+2608,1,Blueberry Muffins
+2608,1,Pistachio Croissant
+2608,1,V60
+2608,1,Flat White Hot
+2611,1,Kuign-amann
+2611,1,Almond Croisant
+2611,1,Pain Au Suisse
+2611,1,Pistachio Croissant
+2612,2,Latte Iced
+2615,1,Cappucino Hot
+2615,1,Latte Iced
+2617,1,Cappucino Hot
+2617,1,Decaf Coffee
+2618,2,Americano Iced
+2619,1,Cappucino Hot
+2619,1,Latte Hot
+2619,1,Cake Of The Day
+2620,1,Americano Hot
+2620,3,Cappucino Hot
+2620,2,Cappucino Hot
+2620,1,Cake Of The Day
+2621,1,Cappucino Hot
+2621,1,Americano Iced
+2621,1,Latte Hot
+2621,1,Latte Iced
+2621,1,Flat White Hot
+2621,1,Cake Of The Day
+2623,1,Flat White Hot
+2623,1,Latte Hot
+2623,1,Plain Croisant
+2624,1,PiccoloHot
+2624,1,Pistachio Croissant
+2626,1,Americano Iced
+2626,1,Flat White Hot
+2627,1,Cappucino Hot
+2630,1,Latte Iced
+2632,1,Latte Iced
+2632,1,Cappucino Hot
+2632,1,Flat White Hot
+2632,1,Americano Iced
+2632,1,Pistachio Croissant
+2632,1,Longblack Iced
+2635,1,Cappucino Hot
+2635,1,Latte Iced
+2635,1,PiccoloHot
+2635,1,Americano Iced
+2637,1,Latte Hot
+2637,1,Cappucino Hot
+2637,1,Americano Hot
+2637,1,Pain Au Chocolat
+2637,1,Cappucino Hot
+2637,1,Longblack Hot
+2637,1,Pain Au Chocolat
+2638,1,Flat White Hot
+2640,1,Latte Hot
+2640,1,Latte Iced
+2640,1,Decaf Coffee
+2640,1,Latte Iced
+2642,1,Americano Iced
+2643,1,Latte Iced
+2649,2,Americano Hot
+2649,1,Americano Hot
+2649,1,Cake Of The Day
+2650,2,Latte Iced
+2650,1,Latte Iced
+2650,1,Latte Iced
+2650,1,Latte Hot
+2650,1,Cake Of The Day
+2650,1,Latte Iced
+2650,1,Latte Iced
+2650,1,Americano Iced
+2650,1,Decaf Coffee
+2653,1,Cappucino Hot
+2657,1,Cappucino Hot
+2657,1,Americano Hot
+2657,1,Americano Iced
+2659,2,Cappucino Hot
+2659,1,Cappucino Iced
+2667,1,Latte Iced
+2667,1,Pain Au Chocolat
+2667,1,Flat White Iced
+2668,1,Flat White Hot
+2668,1,Flat White Hot
+2668,1,Blueberry Muffins
+2669,1,Cappucino Hot
+2669,1,Cappucino Hot
+2669,1,Cake Of The Day
+2671,1,Latte Hot
+2671,1,Cake Of The Day
+2672,1,V60
+2673,1,Longblack Iced
+2673,1,V60
+2675,1,Brownies
+2676,1,Cappucino Hot
+2677,1,Mochaccino Iced
+2677,1,Cappucino Hot
+2677,1,Latte Iced
+2677,1,Decaf Coffee
+2677,1,Cappucino Iced
+2678,1,Cappucino Iced
+2679,1,Latte Iced
+2679,1,Cappucino Iced
+2680,1,Americano Iced
+2683,1,Cappucino Hot
+2683,1,Cappucino Hot
+2683,1,Cappucino Iced
+2683,1,Latte Hot
+2683,1,Cake Of The Day
+2683,1,Cake Of The Day
+2684,1,Latte Iced
+2684,1,Decaf Coffee
+2685,1,Cappucino Hot
+2687,1,Flat White Iced
+2687,1,Cappucino Iced
+2688,1,Cappucino Hot
+2690,1,V60
+2690,1,Latte Iced
+2690,1,Cake Of The Day
+2692,3,Cappucino Hot
+2693,1,Americano Iced
+2693,1,Americano Hot
+2693,1,Cappucino Hot
+2693,1,Latte Iced
+2693,1,Americano Iced
+2694,1,Cappucino Hot
+2694,1,V60
+2694,1,Kuign-amann
+2694,1,Plain Croisant
+2695,1,V60
+2697,1,Flat White Iced
+2697,1,Cappucino Iced
+2697,1,Americano Iced
+2697,1,Cappucino Hot
+2697,1,Pistachio Croissant
+2697,1,Plain Croisant
+2697,1,Plain Croisant
+2697,1,Pistachio Croissant
+2699,1,V60
+2699,1,Almond Croisant
+2699,1,Pain Au Suisse
+2700,1,Cappucino Hot
+2700,1,Latte Iced
+2700,1,Latte Hot
+2700,1,Cappucino Hot
+2700,1,Latte Hot
+2701,1,Latte Iced
+2701,1,Flat White Iced
+2702,1,Latte Iced
+2705,1,Blueberry Muffins
+2706,1,Cappucino Hot
+2707,1,V60
+2708,1,Cappucino Iced
+2708,1,Cake Of The Day
+2710,1,Latte Iced
+2711,1,Cake Of The Day
+2712,1,Latte Iced
+2712,1,Latte Iced
+2712,1,Latte Iced
+2715,1,Latte Hot
+2715,1,Flat White Hot
+2715,1,Cake Of The Day
+2716,1,Cappucino Iced
+2716,1,Plain Croisant
+2719,1,Latte Hot
+2722,1,Cookies
+2722,1,Americano Hot
+2724,1,Cappucino Hot
+2724,1,LatteIce
+2725,1,Cake Of The Day
+2727,1,Latte Iced
+2727,1,Pain Au Suisse
+2727,1,Brownies
+2729,1,Latte Iced
+2730,1,Magic Latte
+2731,1,Pain Au Suisse
+2731,1,Americano Iced
+2732,1,Latte Iced
+2734,1,Almond Croisant
+2735,1,Latte Iced
+2735,1,Latte Hot
+2736,1,Americano Iced
+2736,1,Americano Hot
+2737,1,Blueberry Muffins
+2737,1,Decaf Coffee
+2738,1,Latte Iced
+2738,1,Latte Iced
+2740,1,Pain Au Chocolat
+2741,1,Americano Iced
+2746,1,Americano Iced
+2747,1,Longblack Hot
+2747,1,Flat White Hot
+2747,1,Almond Croisant
+2747,1,Cappucino Iced
+2749,1,Americano Iced
+2749,1,Latte Iced
+2750,1,Latte Iced
+2751,1,Latte Hot
+2751,1,Latte Iced
+2753,1,Latte Iced
+2753,1,Cappucino Iced
+2754,1,LatteIce
+2756,1,Blueberry Muffins
+2756,1,Latte Iced
+2756,1,Kuign-amann
+2757,1,Latte Iced
+2757,1,Americano Hot
+2758,1,Latte Hot
+2758,1,Mochaccino Iced
+2758,1,Pain Au Suisse
+2761,1,Flat White Iced
+2761,1,Pain Au Suisse
+2762,1,Latte Iced
+2762,1,Latte Iced
+2763,1,Cappucino Iced
+2765,1,Cake Of The Day
+2766,1,Brownies
+2766,1,Latte Hot
+2766,1,Flat White Hot
+2766,1,Blueberry Muffins
+2766,1,Latte Iced
+2767,1,Flat White Iced
+2767,1,Flat White Hot
+2768,1,Cappucino Iced
+2768,1,Cappucino Hot
+2769,2,Latte Iced
+2769,1,Latte Iced
+2771,1,Almond Croisant
+2773,1,Pain Au Suisse
+2777,2,Latte Hot
+2777,1,Plain Croisant
+2778,1,Americano Hot
+2778,1,Plain Croisant
+2780,1,V60
+2780,1,Flat White Hot
+2780,1,Pain Au Suisse
+2780,1,Almond Croisant
+2781,1,Pain Au Suisse
+2781,1,Mochaccino Iced
+2782,1,Latte Iced
+2782,1,Cappucino Iced
+2782,1,V60
+2783,1,Latte Iced
+2784,1,Cappucino Hot
+2784,2,Americano Hot
+2784,1,Mochaccino Hot
+2784,1,Pain Au Suisse
+2785,2,Cappucino Iced
+2785,1,Flat White Hot
+2785,1,Americano Iced
+2786,1,Cappucino Hot
+2787,1,Cappucino Iced
+2789,1,Flat White Hot
+2791,1,Almond Croisant
+2793,1,Almond Croisant
+2794,1,Cappucino Hot
+2794,2,Latte Hot
+2795,1,Cappucino Hot
+2795,1,Latte Iced
+2795,1,Americano Hot
+2795,1,Plain Croisant
+2796,1,Americano Hot
+2796,2,Americano Iced
+2796,1,Cappucino Hot
+2796,2,PiccoloHot
+2796,1,PiccoloHot
+2801,1,Latte Iced
+2801,1,Latte Hot
+2802,1,V60
+2802,1,Latte Hot
+2805,1,Americano Hot
+2805,1,Americano Iced
+2806,1,Latte Iced
+2806,1,Americano Iced
+2807,1,Americano Hot
+2807,1,Latte Hot
+2807,1,Brownies
+2807,1,V60
+2808,1,V60
+2808,1,Americano Iced
+2808,1,Almond Croisant
+2810,1,Latte Iced
+2814,1,Pain Au Suisse
+2814,1,Plain Croisant
+2815,1,Flat White Hot
+2815,1,Latte Iced
+2815,1,Plain Croisant
+2816,1,Plain Croisant
+2817,1,Latte Iced
+2817,1,Cake Of The Day
+2819,1,Flat White Hot
+2820,1,Cappucino Iced
+2820,1,Plain Croisant
+2821,1,Cappucino Hot
+2821,1,Latte Iced
+2821,1,Cake Of The Day
+2822,1,PiccoloHot
+2822,1,Latte Iced
+2823,1,Latte Iced
+2823,1,Pain Au Chocolat
+2823,1,Pain Au Suisse
+2825,1,Latte Hot
+2825,1,Pain Au Chocolat
+2830,1,Cappucino Hot
+2830,1,Almond Croisant
+2831,1,Cappucino Hot
+2834,1,Almond Croisant
+2834,1,Pain Au Chocolat
+2835,1,Almond Croisant
+2835,1,Pain Au Chocolat
+2836,1,Almond Croisant
+2839,1,Latte Iced
+2839,1,Latte Iced
+2839,1,Cappucino Iced
+2840,1,Latte Iced
+2841,1,Americano Iced
+2843,1,Latte Iced
+2843,1,Latte Iced
+2843,1,Decaf Coffee
+2847,1,Cappucino Hot
+2847,1,Almond Croisant
+2847,2,Plain Croisant
+2847,1,Pain Au Chocolat
+2847,1,Americano Iced
+2851,1,Latte Iced
+2852,1,Latte Hot
+2852,1,Americano Iced
+2852,1,Latte Iced
+2854,1,Almond Croisant
+2855,1,Latte Iced
+2856,1,PiccoloHot
+2856,1,Latte Hot
+2857,1,Longblack Iced
+2857,1,Cake Of The Day
+2859,1,Latte Iced
+2860,1,Latte Iced
+2861,1,V60
+2862,1,Americano Iced
+2863,1,Cappucino Hot
+2863,1,Cappucino Hot
+2863,1,Brownies
+2864,1,Latte Hot
+2864,1,Latte Iced
+2864,1,Kuign-amann
+2865,1,V60
+2865,1,Latte Iced
+2865,1,Almond Croisant
+2867,1,Almond Croisant
+2868,1,Flat White Hot
+2868,1,Mochaccino Hot
+2868,1,Flat White Hot
+2869,1,V60
+2869,1,EspressoHot
+2870,1,Almond Croisant
+2870,1,Latte Iced
+2871,1,Americano Iced
+2871,1,Latte Hot
+2871,1,Decaf Coffee
+2871,1,Latte Iced
+2871,1,Latte Hot
+2871,1,Americano Iced
+2873,1,V60
+2873,1,V60
+2877,1,Latte Iced
+2877,1,Cappucino Hot
+2880,1,Latte Iced
+2880,1,Latte Iced
+2882,1,Cappucino Hot
+2883,1,Americano Iced
+2883,1,Decaf Coffee
+2884,1,Latte Iced
+2884,1,Latte Iced
+2884,1,Decaf Coffee
+2885,1,Latte Iced
+2887,1,Latte Iced
+2887,1,V60
+2887,1,V60
+2887,1,Cake Of The Day
+2889,1,Cappucino Hot
+2889,1,V60
+2890,1,Cappucino Hot
+2891,1,Latte Iced
+2892,1,Americano Iced
+2894,1,Plain Croisant
+2894,1,Brownies
+2895,1,Cappucino Hot
+2896,1,Mochaccino Iced
+2897,1,Cappucino Hot
+2897,1,Brownies
+2897,1,Kuign-amann
+2897,1,Almond Croisant
+2898,1,Longblack Hot
+2898,1,V60
+2900,1,Longblack Hot
+2900,1,Plain Croisant
+2902,1,Flat White Iced
+2903,1,Almond Croisant
+2904,1,Longblack Iced
+2905,1,Latte Iced
+2905,1,Latte Iced
+2906,1,Almond Croisant
+2906,1,Americano Iced
+2908,1,Almond Croisant
+2908,1,Brownies
+2909,1,Pistachio Croissant
+2909,1,Latte Iced
+2910,1,Flat White Iced
+2910,1,Latte Iced
+2910,1,Brownies
+2910,1,Cookies
+2912,1,Pistachio Croissant
+2912,1,Cake Of The Day
+2913,2,Latte Iced
+2914,1,Cappucino Iced
+2916,1,Latte Iced
+2916,1,Americano Iced
+2917,1,Kuign-amann
+2918,1,Latte Iced
+2918,1,Latte Iced
+2919,1,Cappucino Hot
+2919,1,Longblack Iced
+2919,1,Americano Iced
+2920,1,Latte Hot
+2922,2,Latte Hot
+2922,2,Decaf Coffee
+2922,1,Pain Au Suisse
+2923,1,Cappucino Hot
+2923,1,Almond Croisant
+2923,1,Pain Au Suisse
+2923,1,Pistachio Croissant
+2925,1,Americano Hot
+2925,1,Flat White Hot
+2925,1,Flat White Hot
+2925,1,Latte Hot
+2925,1,Pistachio Croissant
+2926,1,Latte Hot
+2926,1,Magic Latte
+2927,1,Cappucino Hot
+2929,2,Americano Iced
+2929,1,Cappucino Hot
+2929,1,Almond Croisant
+2930,2,Latte Iced
+2932,2,Cappucino Hot
+2932,1,Cake Of The Day
+2932,1,Pain Au Suisse
+2932,1,Pain Au Suisse
+2933,1,Almond Croisant
+2933,1,Cappucino Iced
+2933,1,Cappucino Hot
+2936,1,Latte Hot
+2936,2,Almond Croisant
+2937,3,PiccoloHot
+2937,1,Cappucino Hot
+2937,1,EspressoHot
+2938,1,Americano Hot
+2938,1,Latte Iced
+2940,1,Latte Iced
+2940,1,Kuign-amann
+2942,1,Latte Iced
+2946,1,Mochaccino Iced
+2946,1,Mochaccino Hot
+2946,1,Flat White Hot
+2947,1,Pain Au Suisse
+2947,1,Latte Iced
+2949,1,Cappucino Hot
+2949,1,Cookies
+2949,1,Pain Au Suisse
+2949,1,Plain Croisant
+2949,1,Pistachio Croissant
+2950,1,Latte Iced
+2951,1,Latte Iced
+2951,1,Cappucino Hot
+2952,1,Plain Croisant
+2952,1,Cappucino Hot
+2952,1,V60
+2953,1,Longblack Hot
+2953,2,Cappucino Hot
+2954,1,Cappucino Hot
+2954,1,Latte Iced
+2957,1,Americano Hot
+2958,1,Americano Iced
+2958,1,Mochaccino Iced
+2959,1,Flat White Hot
+2959,1,Latte Iced
+2960,1,Pain Au Suisse
+2960,1,Latte Iced
+2960,1,Latte Iced
+2962,1,Cappucino Hot
+2962,1,Latte Iced
+2962,1,Americano Hot
+2962,1,Almond Croisant
+2962,2,Latte Iced
+2964,1,Americano Iced
+2965,2,Latte Hot
+2967,1,Americano Iced
+2967,1,Cappucino Iced
+2968,1,Cappucino Hot
+2968,1,Almond Croisant
+2969,1,Longblack Hot
+2971,1,Latte Hot
+2971,1,Pistachio Croissant
+2971,1,Cookies
+2972,2,Latte Iced
+2973,1,Longblack Iced
+2974,1,Americano Iced
+2974,1,Flat White Iced
+2975,1,Latte Iced
+2978,1,Cappucino Hot
+2979,1,Cookies
+2979,1,Latte Hot
+2979,1,Americano Iced
+2980,1,Longblack Iced
+2984,1,Cappucino Iced
+2984,1,Pain Au Suisse
+2985,1,Cappucino Hot
+2985,1,Plain Croisant
+2985,1,Americano Iced
+2985,1,Latte Iced
+2986,2,Latte Iced
+2987,1,Cappucino Hot
+2987,1,Cappucino Hot
+2987,1,PiccoloHot
+2987,1,Pistachio Croissant
+2987,1,Kuign-amann
+2987,1,Cappucino Hot
+2987,1,Cake Of The Day
+2988,1,Flat White Hot
+2990,1,Latte Iced
+2991,1,V60
+2993,1,Cappucino Hot
+2993,1,LatteIce
+2993,1,Cake Of The Day
+2993,1,Cappucino Hot
+2993,1,Cappucino Iced
+2994,2,Latte Iced
+2994,1,Pistachio Croissant
+2994,1,Latte Iced
+2994,1,Cake Of The Day
+2995,1,Cake Of The Day
+2999,1,Americano Iced
+3006,1,Latte Iced
+3006,1,Americano Iced
+3009,1,Cake Of The Day
+3010,1,Flat White Iced
+3010,1,Flat White Hot
+3010,1,Cappucino Iced
+3010,1,Cake Of The Day
+3010,1,Brownies
+3010,2,Cookies
+3010,1,Plain Croisant
+3011,1,Latte Iced
+3011,1,Cappucino Iced
+3011,1,Cake Of The Day
+3011,1,Latte Iced
+3012,1,Latte Iced
+3012,1,Cake Of The Day
+3013,1,Latte Iced
+3013,1,Cappucino Hot
+3013,1,V60
+3013,1,Americano Iced
+3014,1,Latte Iced
+3016,1,PiccoloHot
+3017,1,Pain Au Suisse
+3017,1,Latte Iced
+3019,1,Latte Iced
+3021,1,Almond Croisant
+3021,1,Pain Au Suisse
+3021,1,Mochaccino Iced
+3022,1,Americano Iced
+3025,1,Latte Iced
+3025,1,Cappucino Hot
+3026,1,Latte Iced
+3026,1,Decaf Coffee
+3026,1,Cookies
+3027,1,Cappucino Hot
+3027,1,Cake Of The Day
+3037,1,V60
+3039,1,Pain Au Chocolat
+3039,1,Longblack Hot
+3040,1,V60
+3041,1,Cappucino Iced
+3041,1,Pain Au Chocolat
+3042,1,Longblack Iced
+3043,1,Americano Iced
+3045,1,Americano Iced
+3045,1,Cake Of The Day
+3047,2,Latte Iced
+3047,1,Pain Au Suisse
+3050,1,Pain Au Chocolat
+3053,1,Pain Au Suisse
+3053,1,Cappucino Hot
+3055,1,Cake Of The Day
+3057,2,Latte Iced
+3057,1,Cake Of The Day
+3058,1,Almond Croisant
+3058,1,Almond Croisant
+3060,1,Flat White Iced
+3060,1,Latte Hot
+3061,1,V60
+3062,1,Cappucino Iced
+3063,1,Cappucino Iced
+3063,1,Americano Iced
+3063,1,Almond Croisant
+3066,2,Latte Iced
+3068,1,Latte Iced
+3068,1,Kuign-amann
+3068,1,Almond Croisant
+3070,1,Americano Hot
+3071,2,Latte Iced
+3072,1,Flat White Iced
+3072,1,Cake Of The Day
+3072,1,Latte Iced
+3075,1,Latte Iced
+3075,1,Cake Of The Day
+3076,1,Latte Iced
+3076,1,Decaf Coffee
+3076,1,Pistachio Croissant
+3077,1,Latte Iced
+3077,1,Cappucino Iced
+3077,1,Americano Iced
+3077,1,Mochaccino Iced
+3079,1,Pain Au Suisse
+3079,1,Plain Croisant
+3079,1,Latte Iced
+3081,1,Latte Hot
+3082,1,Almond Croisant
+3084,1,Pain Au Chocolat
+3084,1,Pain Au Suisse
+3085,1,Kuign-amann
+3085,1,EspressoHot
+3085,1,Cookies
+3087,3,Latte Iced
+3087,1,Latte Iced
+3091,1,Latte Iced
+3092,1,Cookies
+3093,1,Pain Au Suisse
+3093,1,Plain Croisant
+3093,1,Cappucino Hot
+3093,2,V60
+3093,1,Latte Iced
+3093,1,Pain Au Suisse
+3093,2,Brownies
+3093,1,Plain Croisant
+3093,1,Flat White Hot
+3095,1,Pain Au Chocolat
+3095,1,Pain Au Suisse
+3095,1,Cookies
+3096,1,Latte Iced
+3098,1,Cappucino Hot
+3098,1,Latte Hot
+3098,1,Mochaccino Iced
+3098,1,Pain Au Suisse
+3098,1,Kuign-amann
+3100,2,Latte Iced
+3101,1,Cappucino Iced
+3101,1,V60
+3101,1,V60
+3103,2,Latte Iced
+3103,1,Almond Croisant
+3105,1,Americano Iced
+3107,1,Cake Of The Day
+3108,1,Almond Croisant
+3109,1,Pain Au Suisse
+3110,1,Pain Au Chocolat
+3112,1,Almond Croisant
+3112,1,Pain Au Suisse
+3113,1,Cappucino Iced
+3113,1,Cappucino Hot
+3114,1,Pistachio Croissant
+3114,1,Pain Au Chocolat
+3117,1,Kuign-amann
+3117,1,Pistachio Croissant
+3118,1,Cappucino Hot
+3120,1,Latte Iced
+3120,1,Cake Of The Day
+3120,1,Cake Of The Day
+3121,1,Latte Iced
+3126,1,Cappucino Hot
+3128,1,Cappucino Hot
+3128,1,Blueberry Muffins
+3129,1,Mochaccino Hot
+3131,1,Cappucino Hot
+3133,1,Cappucino Hot
+3133,1,Decaf Coffee
+3137,1,Longblack Hot
+3137,1,Latte Hot
+3137,1,Decaf Coffee
+3138,1,LatteIce
+3139,1,Pistachio Croissant
+3141,2,Cappucino Hot
+3141,1,Pistachio Croissant
+3143,1,Americano Hot
+3144,1,Cappucino Hot
+3144,1,Latte Iced
+3146,1,Longblack Hot
+3146,1,V60
+3148,1,Flat White Hot
+3148,1,Americano Hot
+3148,1,Cappucino Hot
+3149,1,Latte Iced
+3150,2,Cappucino Hot
+3150,1,Plain Croisant
+3150,1,V60
+3153,1,Latte Iced
+3153,1,Cappucino Hot
+3153,1,Plain Croisant
+3153,1,Pain Au Chocolat
+3153,1,Pistachio Croissant
+3153,1,Cappucino Iced
+3153,1,Latte Iced
+3153,1,Latte Hot
+3153,1,V60
+3153,1,Americano Iced
+3153,3,Cake Of The Day
+3155,1,Americano Iced
+3157,2,Latte Hot
+3157,1,Latte Hot
+3157,1,Mochaccino Hot
+3157,1,Latte Hot
+3157,1,Latte Hot
+3157,1,Plain Croisant
+3158,1,V60
+3159,1,Americano Hot
+3159,1,Cake Of The Day
+3159,1,Americano Hot
+3161,1,Latte Hot
+3161,1,Latte Hot
+3161,1,Americano Iced
+3161,1,Cake Of The Day
+3161,1,Cake Of The Day
+3164,1,Cappucino Hot
+3168,1,Americano Hot
+3168,1,Cake Of The Day
+3171,2,Flat White Hot
+3173,1,Latte Iced
+3173,1,Cappucino Iced
+3176,1,Brownies
+3176,1,Cappucino Iced
+3177,1,Latte Iced
+3179,1,Plain Croisant
+3179,1,Cake Of The Day
+3180,1,Cake Of The Day
+3181,1,Americano Iced
+3181,1,Decaf Coffee
+3182,1,Americano Hot
+3183,1,Cappucino Iced
+3183,1,Cappucino Iced
+3183,1,Decaf Coffee
+3183,1,Americano Iced
+3184,1,Latte Hot
+3184,1,Flat White Hot
+3185,2,Latte Iced
+3187,1,Latte Iced
+3187,1,Americano Iced
+3189,1,Latte Hot
+3191,1,Latte Hot
+3194,2,Latte Iced
+3194,1,Cappucino Iced
+3194,1,Mochaccino Iced
+3194,1,Pain Au Suisse
+3195,1,Flat White Hot
+3198,1,Latte Hot
+3198,1,Blueberry Muffins
+3198,1,Brownies
+3198,1,Cookies
+3199,1,Latte Iced
+3199,1,Latte Iced
+3199,1,Pistachio Croissant
+3199,1,Pain Au Suisse
+3201,2,Americano Hot
+3201,1,Latte Iced
+3201,1,Decaf Coffee
+3201,1,Latte Hot
+3202,1,Cappucino Iced
+3203,1,Cake Of The Day
+3208,1,Latte Iced
+3208,1,Decaf Coffee
+3209,1,Americano Hot
+3209,1,Plain Croisant
+3211,1,Cake Of The Day
+3211,1,V60
+3211,1,Pain Au Suisse
+3212,1,Cappucino Hot
+3214,1,Flat White Hot
+3214,2,Latte Hot
+3214,1,V60
+3215,2,Pistachio Croissant
+3215,2,Pain Au Suisse
+3215,1,Coffee Croissant
+3216,1,Americano Hot
+3217,1,Almond Croisant
+3217,1,Pain Au Suisse
+3217,1,Cake Of The Day
+3220,1,Latte Iced
+3220,1,Americano Iced
+3221,1,Cappucino Iced
+3221,1,Americano Iced
+3222,1,Latte Iced
+3222,1,Cappucino Iced
+3222,1,V60
+3223,2,Latte Iced
+3223,1,Pistachio Croissant
+3224,1,Latte Iced
+3226,1,Latte Hot
+3226,1,Mochaccino Iced
+3227,1,Cappucino Hot
+3227,1,Cappucino Hot
+3227,1,EspressoHot
+3231,1,Americano Iced
+3231,1,Latte Iced
+3231,1,Americano Iced
+3232,1,Blueberry Muffins
+3235,1,Cappucino Iced
+3236,1,Cappucino Hot
+3236,1,Cappucino Hot
+3236,1,Pistachio Croissant
+3237,1,Latte Hot
+3238,1,Latte Hot
+3239,1,Pain Au Suisse
+3239,1,Americano Iced
+3239,1,Mochaccino Iced
+3241,1,EspressoHot
+3241,1,Latte Iced
+3241,1,Decaf Coffee
+3241,1,Brownies
+3241,1,Coffee Croissant
+3244,1,Latte Iced
+3244,1,Latte Iced
+3245,1,V60
+3248,1,Americano Hot
+3250,1,Latte Iced
+3250,1,Americano Iced
+3252,1,Americano Iced
+3252,1,Americano Iced
+3252,1,Latte Iced
+3252,1,Cappucino Iced
+3253,1,Americano Iced
+3253,1,Americano Hot
+3253,1,Pain Au Suisse
+3254,1,Latte Iced
+3254,1,V60
+3254,1,Pain Au Chocolat
+3255,1,V60
+3256,1,Cake Of The Day
+3258,1,Almond Croisant
+3258,1,Latte Hot
+3259,1,Latte Iced
+3261,1,Flat White Hot
+3261,1,LatteIce
+3262,1,Longblack Iced
+3264,1,Flat White Hot
+3266,1,Cappucino Hot
+3267,1,Latte Iced
+3269,1,Latte Hot
+3270,1,Flat White Hot
+3270,1,LatteIce
+3270,1,Cake Of The Day
+3272,1,Cappucino Hot
+3272,1,Cookies
+3273,1,Latte Iced
+3273,1,Latte Iced
+3274,1,PiccoloHot
+3279,1,V60
+3283,1,Kuign-amann
+3283,1,Cake Of The Day
+3284,1,Cake Of The Day
+3284,1,Cappucino Hot
+3284,1,Cappucino Iced
+3286,1,V60
+3286,1,V60
+3286,1,Pain Au Chocolat
+3289,1,Cake Of The Day
+3289,1,Latte Hot
+3289,1,V60
+3289,1,V60
+3290,1,Pistachio Croissant
+3290,1,Latte Iced
+3290,1,Pain Au Chocolat
+3291,1,Latte Hot
+3291,2,Latte Hot
+3292,1,Cake Of The Day
+3292,1,Americano Iced
+3292,1,V60
+3293,1,Cappucino Hot
+3293,1,Americano Iced
+3293,1,Decaf Coffee
+3293,1,Flat White Hot
+3293,1,Latte Iced
+3293,1,Latte Iced
+3295,1,V60
+3295,1,Flat White Hot
+3296,1,Cappucino Iced
+3296,1,Mochaccino Iced
+3299,1,V60
+3299,1,V60
+3299,1,Latte Hot
+3299,1,Plain Croisant
+3299,1,V60
+3300,1,Cake Of The Day
+3300,1,Brownies
+3300,1,Coffee Croissant
+3300,1,Cappucino Hot
+3300,1,Latte Hot
+3300,1,V60
+3301,1,V60
+3301,1,Almond Croisant
+3305,1,Latte Iced
+3305,1,Pistachio Croissant
+3307,1,Cake Of The Day
+3308,1,Pain Au Suisse
+3310,1,Almond Croisant
+3311,1,Latte Iced
+3315,1,Cappucino Iced
+3315,1,Latte Iced
+3321,1,Latte Iced
+3322,1,Cappucino Iced
+3322,1,Americano Hot
+3323,1,Latte Hot
+3324,1,Cake Of The Day
+3325,1,Americano Iced
+3325,1,Almond Croisant
+3325,1,Coffee Shakereto
+3325,1,Kuign-amann
+3326,1,V60
+3326,1,Latte Iced
+3326,1,V60
+3327,1,Latte Iced
+3327,1,Decaf Coffee
+3327,1,Americano Hot
+3328,1,Latte Iced
+3329,1,Pistachio Croissant
+3331,1,Latte Hot
+3332,1,Cappucino Hot
+3332,1,Plain Croisant
+3333,2,Flat White Iced
+3333,1,Almond Croisant
+3334,1,Cake Of The Day
+3335,2,Americano Iced
+3337,1,Latte Iced
+3337,1,Mochaccino Iced
+3338,1,Latte Hot
+3339,1,Pain Au Suisse
+3339,1,Latte Hot
+3339,1,Latte Hot
+3340,1,V60
+3340,1,Pistachio Croissant
+3341,1,Americano Iced
+3341,1,Plain Croisant
+3343,1,Latte Iced
+3343,1,Cake Of The Day
+3343,1,Pistachio Croissant
+3344,1,Coffee Croissant
+3344,1,Flat White Iced
+3344,1,Americano Iced
+3348,1,Plain Croisant
+3353,1,Cappucino Hot
+3353,1,Cappucino Hot
+3354,2,Latte Iced
+3356,1,Pain Au Chocolat
+3359,1,Americano Hot
+3362,1,Latte Hot
+3362,1,Latte Hot
+3362,1,Decaf Coffee
+3362,1,Blueberry Muffins
+3362,1,Coffee Croissant
+3363,1,Americano Iced
+3363,2,Americano Iced
+3363,1,Americano Iced
+3363,1,V60
+3366,1,Latte Iced
+3368,1,LatteIce
+3368,1,Latte Hot
+3368,1,Cappucino Hot
+3372,1,Latte Iced
+3373,1,Cappucino Hot
+3373,1,Pain Au Chocolat
+3379,1,Flat White Hot
+3380,1,V60
+3382,1,Latte Hot
+3383,1,Cappucino Hot
+3383,1,Cappucino Hot
+3384,1,Cappucino Hot
+3384,1,Latte Hot
+3385,1,PiccoloHot
+3385,1,Latte Hot
+3386,1,Americano Hot
+3386,1,Americano Hot
+3386,1,Latte Iced
+3386,1,Pistachio Croissant
+3386,1,Latte Iced
+3387,1,Latte Iced
+3387,1,Decaf Coffee
+3387,1,Plain Croisant
+3388,1,Latte Iced
+3388,1,Latte Iced
+3389,1,Latte Iced
+3392,1,Latte Iced
+3392,1,Decaf Coffee
+3393,1,Cappucino Iced
+3394,3,Cappucino Hot
+3394,1,Cappucino Hot
+3395,1,Latte Iced
+3396,1,Flat White Iced
+3396,1,V60
+3396,1,V60
+3396,1,Americano Hot
+3397,1,Latte Iced
+3399,1,Latte Iced
+3403,1,Almond Croisant
+3405,1,Cappucino Hot
+3405,1,Cappucino Iced
+3406,1,Plain Croisant
+3406,1,Cappucino Hot
+3406,1,EspressoHot
+3410,1,Mochaccino Hot
+3411,1,Latte Iced
+3411,1,Cappucino Hot
+3414,1,Plain Croisant
+3415,1,Cappucino Hot
+3417,1,Cappucino Hot
+3417,1,Americano Iced
+3419,1,V60
+3420,1,Latte Iced
+3420,1,V60
+3420,1,Plain Croisant
+3420,1,Coffee Croissant
+3423,1,V60
+3423,1,Latte Iced
+3424,2,Americano Hot
+3425,1,Pistachio Croissant
+3425,1,Latte Iced
+3426,1,Latte Hot
+3426,1,V60
+3426,1,Americano Iced
+3427,1,Cappucino Hot
+3428,1,Cake Of The Day
+3429,1,Latte Hot
+3430,1,Latte Iced
+3431,1,Latte Hot
+3431,1,Cappucino Iced
+3431,1,Cake Of The Day
+3431,1,Plain Croisant
+3433,1,Cappucino Hot
+3434,1,Latte Iced
+3434,1,Cappucino Iced
+3435,1,Latte Hot
+3435,1,Mochaccino Hot
+3435,1,Cappucino Hot
+3436,1,Blueberry Muffins
+3436,1,Pain Au Chocolat
+3438,1,Latte Iced
+3440,1,V60
+3440,1,Plain Croisant
+3441,1,Cappucino Iced
+3444,1,Latte Hot
+3444,1,Flat White Hot
+3446,1,Latte Iced
+3446,2,Latte Iced
+3446,1,Latte Iced
+3448,1,V60
+3448,1,V60
+3449,1,V60
+3449,1,Cappucino Iced
+3450,1,Americano Iced
+3450,1,Latte Iced
+3454,1,Americano Iced
+3455,1,Latte Iced
+3455,1,Latte Iced
+3455,1,Pain Au Chocolat
+3456,1,V60
+3458,1,Cappucino Iced
+3459,1,Cappucino Iced
+3459,1,Flat White Iced
+3461,1,Pistachio Croissant
+3462,1,Latte Iced
+3462,1,Cappucino Iced
+3463,1,Latte Iced
+3464,1,V60
+3464,1,Almond Croisant
+3464,1,Almond Croisant
+3465,1,Latte Iced
+3465,1,Decaf Coffee
+3469,1,Americano Hot
+3469,1,Cookies
+3474,1,Longblack Hot
+3474,1,Latte Hot
+3474,2,Almond Croisant
+3474,2,Pain Au Chocolat
+3474,1,Plain Croisant
+3474,1,Latte Hot
+3476,2,V60
+3477,1,Latte Hot
+3477,1,Plain Croisant
+3482,1,Latte Iced
+3483,1,V60
+3483,1,Pain Au Chocolat
+3483,1,Almond Croisant
+3483,1,Cookies
+3483,1,V60
+3483,1,Cappucino Hot
+3484,1,Flat White Hot
+3485,1,Latte Iced
+3486,1,Latte Hot
+3486,1,Decaf Coffee
+3487,1,Cake Of The Day
+3487,1,Almond Croisant
+3487,1,Almond Croisant
+3487,1,Latte Iced
+3491,1,Flat White Hot
+3495,1,Latte Iced
+3495,1,Decaf Coffee
+3499,1,Latte Hot
+3503,1,V60
+3503,1,Magic Latte
+3504,1,Cappucino Hot
+3507,1,Latte Iced
+3507,1,Cappucino Hot
+3509,4,V60
+3510,1,Americano Hot
+3510,2,Americano Iced
+3510,1,Cappucino Hot
+3510,1,Cappucino Hot
+3511,1,LatteIce
+3511,1,V60
+3511,1,Cake Of The Day
+3512,1,Latte Iced
+3512,1,Latte Hot
+3512,1,Latte Iced
+3512,1,Cappucino Hot
+3513,1,Americano Iced
+3513,1,Almond Croisant
+3513,1,Pain Au Chocolat
+3515,1,Latte Hot
+3516,1,Americano Iced
+3516,1,Latte Iced
+3516,1,Brownies
+3516,1,Cookies
+3516,1,Pistachio Croissant
+3517,1,V60
+3517,1,Cappucino Hot
+3518,1,Americano Hot
+3518,1,Latte Hot
+3518,1,Plain Croisant
+3520,1,Cake Of The Day
+3522,1,Americano Hot
+3522,1,Cappucino Hot
+3522,1,Blueberry Muffins
+3522,1,Pistachio Croissant
+3522,1,Cake Of The Day
+3522,1,Blueberry Muffins
+3523,1,Longblack Hot
+3523,1,Longblack Hot
+3523,1,Americano Hot
+3527,1,Latte Hot
+3527,1,Latte Iced
+3528,1,Latte Iced
+3528,1,Cake Of The Day
+3530,1,Latte Hot
+3532,1,EspressoHot
+3533,1,Latte Iced
+3533,1,Latte Iced
+3537,1,Americano Hot
+3537,1,Latte Iced
+3537,1,Almond Croisant
+3539,1,Almond Croisant
+3540,1,Cappucino Iced
+3540,1,Decaf Coffee
+3540,1,Cake Of The Day
+3545,1,Americano Hot
+3545,1,Latte Iced
+3545,1,Plain Croisant
+3548,2,Flat White Hot
+3548,1,PiccoloHot
+3549,1,Cappucino Iced
+3549,1,Pistachio Croissant
+3550,1,Latte Iced
+3551,1,Latte Iced
+3551,1,Latte Iced
+3552,1,V60
+3552,2,Latte Iced
+3552,1,Cake Of The Day
+3552,1,Latte Iced
+3555,2,Latte Iced
+3558,1,Cappucino Iced
+3558,1,Americano Hot
+3558,1,Almond Croisant
+3562,1,Cappucino Iced
+3564,1,Latte Iced
+3564,1,Cappucino Iced
+3564,1,Americano Iced
+3565,1,PiccoloHot
+3565,1,PiccoloHot
+3565,1,Latte Hot
+3565,1,PiccoloHot
+3566,1,Latte Iced
+3567,1,Cappucino Iced
+3567,1,Cake Of The Day
+3568,1,Pistachio Croissant
+3568,1,Cappucino Hot
+3568,1,Cappucino Iced
+3569,1,Cappucino Iced
+3569,1,Latte Iced
+3569,1,Latte Iced
+3572,1,Latte Iced
+3573,1,Americano Iced
+3573,1,Latte Iced
+3573,1,Cappucino Iced
+3573,1,Latte Iced
+3575,1,Cake Of The Day
+3575,1,Latte Iced
+3576,1,Cappucino Hot
+3576,1,Americano Iced
+3576,1,Cappucino Iced
+3576,1,Almond Croisant
+3576,1,Americano Iced
+3578,1,Pain Au Chocolat
+3578,1,Cake Of The Day
+3578,2,Latte Iced
+3579,1,Almond Croisant
+3579,1,Latte Hot
+3580,1,Latte Iced
+3581,1,Latte Iced
+3581,1,Latte Iced
+3581,1,Almond Croisant
+3582,1,Latte Iced
+3582,1,Cake Of The Day
+3585,1,Brownies
+3585,1,PiccoloHot
+3586,1,Cake Of The Day
+3586,1,Americano Hot
+3586,1,Latte Iced
+3587,1,Cake Of The Day
+3587,1,Latte Hot
+3589,1,Americano Iced
+3589,1,V60
+3592,1,Latte Iced
+3593,1,Cappucino Iced
+3594,1,Pistachio Croissant
+3594,1,Pain Au Chocolat
+3594,1,Latte Hot
+3594,1,Americano Hot
+3594,1,Decaf Coffee
+3595,1,Pistachio Croissant
+3596,1,Cappucino Hot
+3599,1,PiccoloHot
+3600,1,Cappucino Hot
+3602,1,Pain Au Chocolat
+3604,1,Cappucino Hot
+3605,1,Latte Hot
+3606,1,Cake Of The Day
+3607,1,Cappucino Hot
+3608,1,Latte Hot
+3608,1,Decaf Coffee
+3609,1,Cappucino Hot
+3609,1,Cake Of The Day
+3610,1,Latte Iced
+3610,1,Cappucino Hot
+3610,1,Coffee Croissant
+3611,1,Latte Hot
+3612,1,Americano Iced
+3612,1,Latte Iced
+3615,1,Mochaccino Iced
+3616,1,Latte Hot
+3616,2,Latte Hot
+3616,1,Cappucino Hot
+3618,2,Latte Iced
+3619,1,Pain Au Chocolat
+3619,1,V60
+3621,1,Latte Iced
+3621,1,Cappucino Iced
+3621,1,Cappucino Hot
+3623,1,Flat White Iced
+3623,1,Flat White Iced
+3623,1,Plain Croisant
+3625,1,Latte Hot
+3626,1,Almond Croisant
+3626,2,Cappucino Hot
+3627,1,Flat White Hot
+3627,1,Flat White Hot
+3628,1,Flat White Hot
+3629,1,Longblack Iced
+3629,1,Blueberry Muffins
+3631,1,Latte Iced
+3631,1,Cappucino Hot
+3633,1,Latte Iced
+3633,1,Pain Au Chocolat
+3634,1,Plain Croisant
+3636,1,Flat White Hot
+3636,1,Americano Iced
+3638,1,Americano Hot
+3638,1,Latte Iced
+3639,1,Pain Au Chocolat
+3640,1,V60
+3640,1,Flat White Hot
+3641,1,Cake Of The Day
+3641,1,Americano Iced
+3641,1,V60
+3641,1,V60
+3641,1,Cake Of The Day
+3641,1,Brownies
+3647,1,Mochaccino Hot
+3647,1,Mochaccino Iced
+3648,1,Mochaccino Iced
+3648,1,Flat White Iced
+3649,3,Latte Iced
+3651,1,Cappucino Hot
+3652,1,Latte Hot
+3652,1,Cake Of The Day
+3652,1,Cappucino Hot
+3652,1,Flat White Hot
+3652,1,Cake Of The Day
+3652,1,Latte Iced
+3657,1,Latte Iced
+3658,1,Latte Hot
+3658,1,Plain Croisant
+3658,1,Americano Hot
+3659,1,Latte Iced
+3659,1,Flat White Iced
+3661,1,Latte Iced
+3664,1,Longblack Iced
+3667,1,Latte Iced
+3667,1,Cappucino Iced
+3667,1,Americano Iced
+3668,1,Latte Iced
+3668,1,Decaf Coffee
+3669,1,V60
+3669,1,Latte Iced
+3670,1,Almond Croisant
+3672,1,Latte Iced
+3672,1,Cappucino Iced
+3677,1,Cookies
+3679,1,Latte Iced
+3679,1,Latte Hot
+3680,1,V60
+3681,1,Latte Iced
+3683,1,Pain Au Chocolat
+3684,1,V60
+3685,1,Cake Of The Day
+3690,1,V60
+3691,1,Americano Iced
+3692,1,Latte Iced
+3692,1,Latte Iced
+3693,1,Cappucino Hot
+3693,1,Cake Of The Day
+3695,1,Cake Of The Day
+3696,1,Cappucino Iced
+3696,1,Latte Iced
+3696,1,Coffee Croissant
+3697,1,Flat White Iced
+3699,1,Americano Iced
+3699,1,Latte Iced
+3699,1,Almond Croisant
+3699,1,Pistachio Croissant
+3699,1,Coffee Croissant
+3699,1,Pain Au Chocolat
+3699,1,PiccoloHot
+3700,1,Latte Iced
+3702,1,Americano Iced
+3703,1,V60
+3703,1,V60
+3704,1,Flat White Iced
+3705,2,Cappucino Hot
+3705,1,Americano Iced
+3705,1,V60
+3706,2,Flat White Hot
+3706,1,Mochaccino Iced
+3707,1,Pain Au Chocolat
+3708,1,Latte Iced
+3709,1,Cake Of The Day
+3709,1,Latte Iced
+3710,1,Americano Iced
+3710,1,Americano Iced
+3711,1,Cappucino Hot
+3712,1,V60
+3712,1,Latte Hot
+3712,1,Cake Of The Day
+3715,1,Mochaccino Iced
+3716,1,Cappucino Iced
+3717,1,Latte Iced
+3719,1,Almond Croisant
+3719,1,Plain Croisant
+3720,1,Latte Hot
+3720,1,Latte Hot
+3721,1,Latte Hot
+3723,1,Latte Hot
+3724,1,V60
+3725,1,Latte Hot
+3726,1,Cake Of The Day
+3728,1,Latte Iced
+3728,1,Cappucino Hot
+3729,1,Mochaccino Hot
+3729,1,Latte Iced
+3730,1,Americano Hot
+3731,2,Latte Iced
+3733,1,Latte Iced
+3733,1,Cappucino Hot
+3733,1,Latte Hot
+3733,1,Mochaccino Iced
+3733,1,Cappucino Hot
+3734,1,Cappucino Iced
+3734,1,Americano Iced
+3734,1,Almond Croisant
+3734,1,Latte Iced
+3734,1,Latte Iced
+3734,1,Latte Iced
+3734,1,Mochaccino Iced
+3735,1,Cake Of The Day
+3736,1,V60
+3737,1,Latte Iced
+3738,2,Cappucino Hot
+3738,1,Almond Croisant
+3739,1,Cake Of The Day
+3743,1,Latte Iced
+3744,2,Cake Of The Day
+3744,1,Latte Hot
+3744,1,Latte Hot
+3744,1,Latte Hot
+3747,1,Cappucino Hot
+3748,1,Latte Iced
+3748,1,PiccoloHot
+3749,1,Americano Iced
+3749,1,Latte Iced
+3749,1,Cappucino Hot
+3749,1,Cake Of The Day
+3751,1,Cappucino Hot
+3751,1,Cappucino Hot
+3753,1,V60
+3753,1,Flat White Hot
+3753,1,Cake Of The Day
+3754,1,Plain Croisant
+3754,1,Latte Iced
+3755,1,Cappucino Iced
+3755,1,Americano Iced
+3755,1,Cappucino Iced
+3755,1,Cappucino Iced
+3755,1,Cake Of The Day
+3757,1,Latte Iced
+3757,1,Cappucino Hot
+3757,1,Plain Croisant
+3758,1,Latte Iced
+3758,1,Latte Iced
+3758,1,Latte Iced
+3759,1,Longblack Iced
+3759,1,V60
+3759,1,Flat White Hot
+3759,1,Americano Iced
+3760,1,EspressoHot
+3760,1,Cake Of The Day
+3760,1,PiccoloHot
+3760,1,EspressoHot
+3763,1,Latte Hot
+3764,1,Latte Hot
+3765,1,Cappucino Hot
+3766,1,Latte Iced
+3766,1,V60
+3767,1,Latte Hot
+3769,1,Latte Iced
+3770,1,Cappucino Hot
+3770,1,Plain Croisant
+3771,1,Latte Iced
+3771,1,Latte Hot
+3771,1,Americano Hot
+3771,1,Latte Iced
+3771,1,Pain Au Chocolat
+3771,1,Latte Iced
+3771,1,Almond Croisant
+3773,1,Americano Iced
+3773,1,Latte Hot
+3773,1,Americano Iced
+3773,1,Flat White Iced
+3773,1,Latte Iced
+3776,1,Cake Of The Day
+3777,1,Americano Hot
+3777,1,Latte Hot
+3780,1,Pain Au Chocolat
+3781,1,Flat White Hot
+3783,1,Cake Of The Day
+3784,1,Cappucino Hot
+3785,1,Almond Croisant
+3785,1,Latte Hot
+3787,1,V60
+3787,1,Latte Iced
+3787,1,Latte Hot
+3788,1,Latte Iced
+3788,1,Cappucino Iced
+3788,1,Americano Iced
+3792,1,Americano Hot
+3792,1,Latte Iced
+3794,1,Latte Hot
+3795,1,Latte Iced
+3795,1,V60
+3796,1,PiccoloHot
+3796,1,Cake Of The Day
+3797,1,Americano Iced
+3798,1,V60
+3798,1,Cappucino Iced
+3799,1,Cappucino Hot
+3801,1,Cake Of The Day
+3801,1,PiccoloHot
+3801,1,Latte Iced
+3802,1,Cake Of The Day
+3802,1,Cappucino Iced
+3804,2,Cappucino Hot
+3804,1,Cake Of The Day
+3804,1,Latte Iced
+3806,1,Latte Hot
+3807,1,Latte Iced
+3807,1,Almond Croisant
+3807,1,Cake Of The Day
+3808,1,Americano Iced
+3808,1,Cake Of The Day
+3810,1,Americano Hot
+3810,1,Americano Hot
+3812,1,Americano Iced
+3812,1,Cake Of The Day
+3816,1,Latte Iced
+3816,1,Latte Iced
+3816,1,Pain Au Chocolat
+3816,1,Decaf Coffee
+3816,1,Brownies
+3816,1,Latte Iced
+3817,1,Cappucino Iced
+3818,1,Latte Iced
+3820,1,Latte Iced
+3820,1,Blueberry Muffins
+3821,1,Cappucino Hot
+3822,1,Cappucino Hot
+3823,1,Latte Hot
+3823,1,Latte Hot
+3823,1,Cappucino Hot
+3823,1,Pistachio Croissant
+3823,1,Plain Croisant
+3823,2,Pistachio Croissant
+3823,1,Blueberry Muffins
+3824,1,Latte Iced
+3824,1,Decaf Coffee
+3824,1,Latte Iced
+3825,1,Cappucino Hot
+3825,1,Pistachio Croissant
+3828,1,Cake Of The Day
+3831,1,Americano Iced
+3832,1,Brownies
+3834,1,Americano Iced
+3834,1,Americano Iced
+3836,1,Latte Iced
+3836,1,Blueberry Muffins
+3838,1,Latte Iced
+3839,1,Latte Hot
+3839,1,Almond Croisant
+3841,1,Latte Hot
+3842,1,Cappucino Hot
+3844,1,Latte Iced
+3845,1,V60
+3846,1,Latte Iced
+3846,1,Decaf Coffee
+3847,1,Latte Iced
+3847,1,Longblack Iced
+3847,1,Longblack Hot
+3851,1,V60
+3851,1,Cappucino Hot
+3851,1,EspressoHot
+3855,1,Kuign-amann
+3858,1,Americano Iced
+3859,1,Mochaccino Iced
+3859,1,Mochaccino Iced
+3859,1,Latte Iced
+3860,1,V60
+3860,1,V60
+3860,1,Latte Iced
+3860,2,LatteIce
+3860,2,Plain Croisant
+3860,1,Cappucino Iced
+3863,1,Latte Iced
+3865,1,Latte Iced
+3867,1,Latte Iced
+3868,1,Americano Hot
+3868,3,Latte Hot
+3868,1,Latte Hot
+3872,1,Cake Of The Day
+3880,1,Cappucino Hot
+3880,2,Americano Hot
+3882,1,Latte Hot
+3885,1,Americano Iced
+3885,1,Cappucino Hot
+3886,1,Pistachio Croissant
+3889,1,Latte Hot
+3889,1,Almond Croisant
+3890,1,Americano Hot
+3890,1,Americano Iced
+3891,1,Latte Hot
+3891,1,Latte Iced
+3891,1,Latte Hot
+3892,1,Latte Iced
+3892,1,Almond Croisant
+3893,1,Americano Hot
+3893,1,Cappucino Hot
+3894,1,Flat White Hot
+3894,2,Latte Hot
+3894,1,Latte Hot
+3894,1,Decaf Coffee
+3897,1,PiccoloHot
+3897,1,Cappucino Hot
+3898,1,Longblack Iced
+3900,1,Cappucino Hot
+3901,1,Blueberry Muffins
+3901,1,Latte Hot
+3901,1,Latte Iced
+3901,1,Pain Au Chocolat
+3903,1,Flat White Iced
+3903,1,Latte Iced
+3906,1,Flat White Hot
+3906,2,Cappucino Iced
+3907,1,Cappucino Hot
+3908,1,Latte Hot
+3909,1,Flat White Iced
+3910,1,Almond Croisant
+3910,2,Latte Iced
+3910,1,Latte Iced
+3911,1,Cappucino Hot
+3911,1,Latte Iced
+3911,1,Mochaccino Iced
+3913,1,V60
+3913,1,Latte Iced
+3913,1,PiccoloHot
+3913,1,Latte Iced
+3916,1,Cappucino Hot
+3918,1,Longblack Hot
+3918,2,PiccoloHot
+3918,2,Plain Croisant
+3918,1,Americano Iced
+3918,2,PiccoloHot
+3918,2,Latte Iced
+3919,1,Pain Au Suisse
+3920,1,Americano Iced
+3923,1,Cappucino Iced
+3923,1,Latte Iced
+3923,1,Decaf Coffee
+3924,1,Americano Iced
+3925,2,Latte Iced
+3925,1,Cappucino Hot
+3927,1,V60
+3928,1,PiccoloHot
+3932,1,Cappucino Iced
+3932,2,Cappucino Iced
+3932,1,Kuign-amann
+3933,1,Latte Iced
+3936,1,Americano Iced
+3937,1,Americano Hot
+3937,1,Latte Iced
+3938,2,Cappucino Hot
+3938,1,Latte Hot
+3938,1,Americano Iced
+3938,1,Cappucino Hot
+3939,1,Americano Hot
+3939,1,Latte Hot
+3940,1,Cappucino Hot
+3940,1,Latte Iced
+3941,1,Americano Iced
+3942,1,V60
+3943,1,Americano Iced
+3943,1,Latte Iced
+3944,1,Mochaccino Iced
+3944,1,Pistachio Croissant
+3946,1,Latte Hot
+3946,1,Latte Hot
+3947,1,Latte Iced
+3948,1,Flat White Hot
+3949,1,Cappucino Iced
+3952,1,Latte Iced
+3952,1,Decaf Coffee
+3952,1,Kuign-amann
+3952,1,Plain Croisant
+3953,1,Latte Iced
+3955,1,Latte Iced
+3960,1,Latte Iced
+3960,1,Latte Iced
+3966,1,Mochaccino Iced
+3966,1,Latte Iced
+3966,1,Mochaccino Iced
+3967,1,Cappucino Hot
+3969,1,Cappucino Iced
+3969,1,Cappucino Iced
+3970,1,Pistachio Croissant
+3970,1,Cake Of The Day
+3971,1,Americano Hot
+3971,2,Latte Iced
+3971,1,Latte Iced
+3971,2,Latte Hot
+3971,1,Cappucino Iced
+3972,1,Latte Iced
+3972,1,Latte Iced
+3973,1,Latte Iced
+3974,1,Cappucino Iced
+3974,1,Cappucino Hot
+3974,1,Decaf Coffee
+3974,1,V60
+3977,1,Latte Iced
+3979,1,Latte Iced
+3979,1,Latte Iced
+3979,1,Latte Iced
+3979,1,Mochaccino Iced
+3980,1,Latte Hot
+3980,1,Americano Iced
+3980,1,Latte Iced
+3980,3,Cookies
+3982,1,Cappucino Hot
+3983,1,Mochaccino Iced
+3983,1,Mochaccino Iced
+3985,1,Latte Iced
+3985,1,Cookies
+3985,1,Brownies
+3987,1,Cappucino Hot
+3990,1,Latte Iced
+3992,1,Latte Iced
+3993,1,Latte Hot
+3993,1,Blueberry Muffins
+3995,1,Cake Of The Day
+3996,1,Cake Of The Day
+3996,1,Latte Hot
+3999,1,V60
+3999,1,Longblack Iced
+3999,1,Latte Hot
+3999,1,Latte Iced
+3999,1,Pistachio Croissant
+4003,2,Latte Iced
+4005,1,Cappucino Iced
+4005,1,Cappucino Iced
+4005,1,Cake Of The Day
+4007,2,Latte Iced
+4007,2,Latte Hot
+4007,1,V60
+4009,1,Pain Au Chocolat
+4010,1,Pistachio Croissant
+4011,1,Cake Of The Day
+4011,1,Longblack Hot
+4012,1,Pain Au Chocolat
+4012,1,Brownies
+4012,2,Latte Iced
+4016,1,Almond Croisant
+4016,1,Cappucino Hot
+4016,1,Cappucino Hot
+4017,1,Almond Croisant
+4017,1,Americano Iced
+4018,2,Latte Iced
+4020,1,V60
+4020,1,Pistachio Croissant
+4022,1,Almond Croisant
+4024,1,PiccoloHot
+4025,1,V60
+4025,1,Decaf Coffee
+4025,1,Latte Hot
+4026,1,Mochaccino Hot
+4027,3,Americano Iced
+4027,1,Americano Hot
+4028,1,Cappucino Hot
+4028,1,Cappucino Hot
+4028,1,Americano Hot
+4028,1,Cappucino Iced
+4028,1,Flat White Hot
+4028,1,Latte Iced
+4028,1,Americano Iced
+4030,1,Latte Hot
+4030,1,Almond Croisant
+4031,1,Cappucino Hot
+4031,1,Latte Hot
+4031,1,Cappucino Iced
+4034,1,Latte Iced
+4035,2,V60
+4035,2,Latte Hot
+4035,1,Latte Hot
+4036,1,Latte Hot
+4038,1,Americano Iced
+4038,1,Decaf Coffee
+4039,1,Latte Hot
+4040,2,Latte Iced
+4040,1,Brownies
+4040,1,Pain Au Chocolat
+4042,1,Cappucino Iced
+4042,1,Cake Of The Day
+4042,1,Mochaccino Iced
+4043,1,Americano Iced
+4044,2,Americano Iced
+4045,1,Cappucino Hot
+4046,1,Latte Hot
+4046,1,Latte Hot
+4046,1,Cake Of The Day
+4047,1,Almond Croisant
+4048,2,Latte Iced
+4048,1,Decaf Coffee
+4048,1,Decaf Coffee
+4049,1,Flat White Iced
+4050,1,Flat White Hot
+4052,1,Cake Of The Day
+4054,1,Cappucino Hot
+4054,1,Kuign-amann
+4054,1,Cake Of The Day
+4055,1,Latte Iced
+4055,1,Decaf Coffee
+4055,1,Plain Croisant
+4058,1,Americano Iced
+4060,1,Cappucino Hot
+4060,1,Latte Iced
+4060,1,Decaf Coffee
+4060,1,Flat White Hot
+4060,1,Pain Au Chocolat
+4062,1,Cappucino Hot
+4062,1,Cake Of The Day
+4062,1,PiccoloHot
+4062,1,Cake Of The Day
+4063,1,Latte Iced
+4063,1,Cappucino Hot
+4063,1,Americano Iced
+4063,1,Cappucino Hot
+4067,1,Cake Of The Day
+4068,1,Latte Iced
+4069,1,EspressoHot
+4070,1,Cappucino Hot
+4070,1,Cake Of The Day
+4071,1,Pistachio Croissant
+4072,1,Latte Iced
+4074,1,Latte Iced
+4074,1,Decaf Coffee
+4074,1,Americano Iced
+4075,1,Americano Iced
+4075,1,Cake Of The Day
+4076,1,Latte Hot
+4076,1,Latte Iced
+4078,2,Latte Iced
+4078,1,Cake Of The Day
+4079,1,Almond Croisant
+4079,1,V60
+4079,1,Latte Hot
+4079,1,Latte Iced
+4080,1,Latte Iced
+4081,1,Cake Of The Day
+4082,1,Latte Iced
+4083,1,Latte Iced
+4086,2,Latte Iced
+4087,1,Cold Brew
+4087,1,Flat White Iced
+4087,1,Cake Of The Day
+4089,1,Cold Brew
+4090,1,Longblack Hot
+4091,1,Latte Iced
+4092,1,Cappucino Hot
+4092,1,Cake Of The Day
+4092,1,Pistachio Croissant
+4093,1,Pain Au Chocolat
+4093,1,Almond Croisant
+4093,1,Americano Iced
+4093,1,Cappucino Iced
+4094,1,Latte Iced
+4094,2,Cake Of The Day
+4095,1,Latte Hot
+4095,1,Latte Iced
+4096,1,Latte Hot
+4096,1,Cake Of The Day
+4097,1,V60
+4098,1,Cake Of The Day
+4098,1,Latte Iced
+4098,1,Latte Iced
+4099,1,Cappucino Hot
+4100,1,Latte Iced
+4100,1,Cappucino Iced
+4100,1,Americano Iced
+4100,1,Almond Croisant
+4101,1,Latte Iced
+4102,1,Latte Iced
+4103,1,Cappucino Hot
+4103,1,Decaf Coffee
+4104,1,Cappucino Hot
+4104,1,Brownies
+4108,1,Mochaccino Iced
+4110,3,Latte Iced
+4112,1,Latte Iced
+4113,1,Almond Croisant
+4116,1,Almond Croisant
+4116,1,Almond Croisant
+4116,3,Latte Iced
+4116,1,Mochaccino Iced
+4117,1,Americano Iced
+4117,1,Americano Iced
+4119,1,Americano Iced
+4122,1,EspressoHot
+4128,1,Cake Of The Day
+4129,1,Mochaccino Iced
+4130,1,Cappucino Iced
+4132,1,Latte Iced
+4134,3,Americano Iced
+4135,1,Americano Hot
+4135,1,Cappucino Iced
+4135,1,Cappucino Hot
+4135,1,Cold Brew
+4137,1,V60
+4137,1,V60
+4137,1,LatteIce
+4137,1,Cake Of The Day
+4138,1,V60
+4138,1,Latte Hot
+4139,1,Latte Iced
+4139,1,Cake Of The Day
+4139,1,Cake Of The Day
+4144,1,Latte Iced
+4146,1,Americano Iced
+4147,1,Brownies
+4149,1,Pistachio Croissant
+4149,1,Latte Iced
+4150,1,Latte Iced
+4151,1,V60
+4152,1,Cappucino Hot
+4153,1,Pistachio Croissant
+4153,1,Americano Iced
+4156,1,Cold Brew
+4156,1,Mochaccino Hot
+4156,1,Pistachio Croissant
+4157,1,Latte Iced
+4158,1,Longblack Iced
+4159,1,Flat White Iced
+4159,1,Cake Of The Day
+4161,1,Almond Croisant
+4161,1,Cappucino Iced
+4162,1,Cold Brew
+4162,1,Plain Croisant
+4163,1,Latte Iced
+4164,2,Latte Iced
+4164,1,Flat White Iced
+4165,1,Latte Iced
+4166,1,Latte Iced
+4167,1,Latte Iced
+4167,1,Mochaccino Iced
+4168,1,Mochaccino Hot
+4168,1,Americano Iced
+4168,1,Latte Iced
+4169,1,Latte Iced
+4169,1,Almond Croisant
+4170,1,Flat White Hot
+4172,1,V60
+4173,1,Latte Iced
+4174,1,Latte Hot
+4174,1,Pistachio Croissant
+4174,1,Plain Croisant
+4175,1,Cappucino Iced
+4175,1,Cookies
+4176,1,Latte Iced
+4176,1,Latte Hot
+4178,1,Cappucino Iced
+4178,1,Cake Of The Day
+4183,1,Latte Hot
+4184,1,Cappucino Iced
+4188,1,Almond Croisant
+4189,1,Pain Au Chocolat
+4190,1,Latte Iced
+4193,1,Latte Iced
+4193,1,Americano Iced
+4193,1,Latte Iced
+4194,2,Americano Iced
+4194,1,Pistachio Croissant
+4195,1,Latte Hot
+4195,1,Latte Hot
+4195,1,V60
+4195,1,Americano Hot
+4195,1,Latte Iced
+4195,1,Latte Iced
+4198,1,Latte Hot
+4200,1,Pain Au Chocolat
+4200,1,Latte Iced
+4200,1,Latte Iced
+4200,1,Pain Au Chocolat
+4202,1,Latte Iced
+4203,1,Americano Hot
+4204,1,Cake Of The Day
+4205,1,Latte Iced
+4206,1,Latte Iced
+4207,1,Cappucino Hot
+4207,2,Cold Brew
+4208,1,Cold Brew
+4209,1,V60
+4209,1,V60
+4210,1,Pistachio Croissant
+4210,1,Latte Iced
+4211,1,Latte Hot
+4213,1,Almond Croisant
+4213,1,Latte Iced
+4214,1,Pistachio Croissant
+4214,1,Latte Iced
+4214,1,V60
+4214,1,Longblack Iced
+4215,1,Latte Iced
+4215,1,Cold Brew
+4216,1,Cappucino Hot
+4216,1,V60
+4219,1,Latte Iced
+4219,1,Almond Croisant
+4220,1,V60
+4220,1,Cappucino Hot
+4220,1,Almond Croisant
+4220,1,Brownies
+4223,1,Latte Iced
+4223,1,Almond Croisant
+4223,1,Cookies
+4223,1,Pistachio Croissant
+4223,1,Americano Iced
+4225,1,Americano Iced
+4226,1,Pain Au Chocolat
+4226,1,V60
+4226,1,Cappucino Hot
+4227,1,Americano Iced
+4229,1,Cappucino Hot
+4229,1,Cappucino Hot
+4231,1,Americano Iced
+4231,1,Pistachio Croissant
+4231,1,Pain Au Chocolat
+4231,1,Plain Croisant
+4232,1,Cold Brew
+4233,2,Latte Iced
+4234,1,Latte Hot
+4234,1,Americano Hot
+4234,1,Plain Croisant
+4235,1,Cappucino Hot
+4237,1,Cold Brew
+4237,2,Latte Hot
+4237,1,Kuign-amann
+4239,1,Americano Hot
+4239,1,Latte Hot
+4239,1,Latte Hot
+4240,1,Pain Au Chocolat
+4243,1,Cappucino Hot
+4243,1,Plain Croisant
+4244,1,Latte Hot
+4245,1,Latte Iced
+4245,1,Latte Hot
+4245,1,PiccoloHot
+4246,1,Almond Croisant
+4248,1,Kuign-amann
+4251,1,Cappucino Hot
+4251,1,Plain Croisant
+4252,1,Cappucino Hot
+4252,1,Cappucino Hot
+4253,1,Latte Iced
+4254,1,PiccoloHot
+4254,1,Latte Hot
+4254,1,Cake Of The Day
+4255,1,Cappucino Hot
+4255,1,Cake Of The Day
+4255,1,Cake Of The Day
+4257,1,Cappucino Hot
+4258,2,Latte Iced
+4258,1,Americano Iced
+4258,1,Americano Hot
+4258,1,Almond Croisant
+4258,1,Pistachio Croissant
+4258,1,Cake Of The Day
+4258,1,Cake Of The Day
+4259,1,Pistachio Croissant
+4261,2,Latte Iced
+4262,2,Americano Iced
+4262,1,Americano Hot
+4262,1,Plain Croisant
+4262,1,Kuign-amann
+4262,1,Cake Of The Day
+4263,1,Americano Hot
+4264,1,Cake Of The Day
+4264,1,Latte Iced
+4265,3,Cake Of The Day
+4265,1,LatteIce
+4266,1,Plain Croisant
+4266,1,Flat White Hot
+4267,1,Americano Hot
+4267,1,Cappucino Hot
+4267,1,Cake Of The Day
+4268,1,PiccoloHot
+4268,1,Cappucino Hot
+4269,1,Cappucino Hot
+4269,1,Cappucino Iced
+4270,1,Cappucino Hot
+4270,1,V60
+4271,1,Longblack Iced
+4271,1,Cake Of The Day
+4271,1,Almond Croisant
+4273,1,Cappucino Hot
+4274,1,Cappucino Hot
+4275,1,Latte Iced
+4275,1,Latte Iced
+4275,1,Brownies
+4276,1,Cappucino Iced
+4276,1,Cake Of The Day
+4277,1,Cold Brew
+4280,1,PiccoloHot
+4280,1,Flat White Iced
+4281,1,Latte Iced
+4285,1,Americano Iced
+4285,1,Americano Iced
+4285,1,Cake Of The Day
+4285,1,Latte Iced
+4286,2,Latte Iced
+4286,1,Latte Iced
+4286,1,Cake Of The Day
+4288,1,V60
+4290,2,Flat White Hot
+4292,1,Cappucino Iced
+4293,1,Cappucino Iced
+4294,1,Cappucino Hot
+4294,1,Plain Croisant
+4295,1,Latte Iced
+4295,1,Cake Of The Day
+4299,1,Latte Iced
+4299,1,Cookies
+4299,1,Cookies
+4302,1,Latte Hot
+4303,1,Cappucino Hot
+4304,1,Latte Iced
+4305,1,Mochaccino Iced
+4308,1,Latte Hot
+4308,1,Americano Hot
+4308,1,Latte Hot
+4309,1,Latte Iced
+4310,1,Pistachio Croissant
+4310,1,Cappucino Iced
+4311,1,V60
+4311,2,Cappucino Hot
+4313,1,Latte Iced
+4313,1,Longblack Iced
+4313,1,Cake Of The Day
+4316,1,V60
+4318,1,Cappucino Hot
+4319,1,Flat White Hot
+4323,1,V60
+4323,1,Latte Iced
+4326,1,Cake Of The Day
+4326,1,Cake Of The Day
+4326,1,Longblack Iced
+4327,1,Cappucino Hot
+4329,1,Americano Hot
+4329,1,Almond Croisant
+4329,1,Pistachio Croissant
+4329,1,Cake Of The Day
+4330,1,Latte Iced
+4330,1,Latte Iced
+4330,1,V60
+4332,1,Latte Hot
+4333,1,Cappucino Hot
+4333,1,Cappucino Iced
+4335,1,Longblack Iced
+4338,1,Americano Iced
+4339,1,Americano Iced
+4339,1,Latte Iced
+4342,1,Latte Iced
+4342,1,Almond Croisant
+4343,1,Americano Iced
+4344,1,Americano Iced
+4344,1,Americano Iced
+4345,1,Cappucino Iced
+4345,1,Americano Iced
+4346,1,Almond Croisant
+4349,1,Longblack Iced
+4349,1,Decaf Coffee
+4351,1,Latte Hot
+4353,1,Brownies
+4353,1,Americano Hot
+4353,1,Latte Iced
+4353,1,Cake Of The Day
+4358,1,Pistachio Croissant
+4358,1,Cappucino Iced
+4360,1,Almond Croisant
+4362,1,Americano Iced
+4363,1,Latte Hot
+4364,1,Almond Croisant
+4367,1,Latte Iced
+4367,1,Latte Iced
+4370,1,Americano Iced
+4370,2,Plain Croisant
+4371,1,Latte Iced
+4373,1,Latte Hot
+4373,1,Latte Hot
+4373,1,Latte Hot
+4373,1,V60
+4373,1,Latte Hot
+4377,1,Cake Of The Day
+4378,1,LatteIce
+4379,1,Mochaccino Iced
+4379,1,Mochaccino Iced
+4379,1,LatteIce
+4379,1,Flat White Iced
+4379,1,Latte Iced
+4379,1,Latte Iced
+4379,1,Decaf Coffee
+4379,1,Americano Iced
+4381,1,Latte Iced
+4381,1,Cake Of The Day
+4382,1,Latte Iced
+4382,1,Pistachio Croissant
+4383,1,Almond Croisant
+4383,1,Pain Au Chocolat
+4384,1,V60
+4384,2,Americano Iced
+4384,1,Americano Iced
+4386,1,Latte Iced
+4386,1,LatteIce
+4387,1,Mochaccino Iced
+4387,1,Brownies
+4387,1,Cookies
+4388,1,Americano Iced
+4388,1,Americano Iced
+4388,1,Pistachio Croissant
+4389,1,Cake Of The Day
+4390,1,V60
+4391,1,Latte Iced
+4391,1,Cold Brew
+4393,1,Decaf Coffee
+4394,1,Kuign-amann
+4394,1,Cake Of The Day
+4394,1,Latte Hot
+4394,1,LatteIce
+4395,1,Brownies
+4395,1,Almond Croisant
+4395,1,Flat White Iced
+4396,1,Cappucino Iced
+4397,1,Latte Iced
+4398,1,V60
+4398,1,Cake Of The Day
+4401,1,Latte Iced
+4401,1,Americano Iced
+4402,1,Pain Au Chocolat
+4402,1,Cappucino Hot
+4403,1,Americano Hot
+4403,1,Cappucino Iced
+4403,1,Latte Iced
+4403,1,Cappucino Hot
+4403,1,Longblack Hot
+4404,1,Almond Croisant
+4405,1,Latte Iced
+4405,1,Latte Hot
+4405,2,Pain Au Chocolat
+4406,1,Americano Iced
+4408,2,Cold Brew
+4409,1,V60
+4413,1,V60
+4414,1,Cappucino Iced
+4414,1,Pain Au Chocolat
+4414,1,Brownies
+4414,1,Latte Iced
+4414,1,Cookies
+4415,1,LatteIce
+4415,1,Latte Iced
+4417,1,Almond Croisant
+4419,1,Flat White Hot
+4419,1,Mochaccino Iced
+4419,1,Pain Au Chocolat
+4420,1,Cappucino Hot
+4420,1,Pain Au Chocolat
+4421,1,Cappucino Hot
+4421,1,Latte Hot
+4422,1,Cappucino Hot
+4424,1,Cappucino Iced
+4427,1,Cappucino Iced
+4429,1,V60
+4429,1,Latte Iced
+4430,1,Almond Croisant
+4431,1,Cake Of The Day
+4431,1,Latte Hot
+4433,2,Cappucino Hot
+4434,1,Latte Hot
+4435,1,Cappucino Hot
+4435,1,V60
+4435,1,V60
+4435,1,Pain Au Chocolat
+4436,1,Americano Hot
+4436,1,Kuign-amann
+4436,1,Plain Croisant
+4436,1,Plain Croisant
+4438,1,V60
+4438,1,Pain Au Chocolat
+4438,1,Brownies
+4439,1,Americano Hot
+4439,1,Latte Iced
+4439,1,Plain Croisant
+4446,1,Flat White Hot
+4448,1,Americano Iced
+4448,1,Decaf Coffee
+4448,1,Plain Croisant
+4449,1,Latte Hot
+4449,1,Latte Hot
+4450,2,Latte Hot
+4450,1,Latte Hot
+4450,1,Latte Iced
+4450,1,Latte Hot
+4453,1,LatteIce
+4453,1,Longblack Hot
+4456,1,V60
+4457,1,Plain Croisant
+4457,1,Pistachio Croissant
+4457,1,Flat White Hot
+4457,1,Americano Hot
+4459,1,Latte Iced
+4459,1,Cappucino Hot
+4459,1,Latte Hot
+4461,1,Latte Iced
+4464,2,Cappucino Hot
+4464,1,Latte Hot
+4464,1,Longblack Hot
+4464,1,Latte Iced
+4467,1,Latte Hot
+4469,1,Latte Iced
+4470,2,Latte Hot
+4472,1,Latte Hot
+4476,2,Americano Hot
+4476,1,Almond Croisant
+4477,1,Cappucino Hot
+4477,1,Pain Au Chocolat
+4477,1,Plain Croisant
+4478,1,Plain Croisant
+4480,1,Cold Brew
+4483,1,Latte Hot
+4483,1,Pistachio Croissant
+4485,1,V60
+4487,1,Latte Hot
+4487,1,Latte Hot
+4488,1,Cappucino Hot
+4491,1,Pistachio Croissant
+4491,1,Pain Au Chocolat
+4493,1,Mochaccino Iced
+4495,1,V60
+4495,1,V60
+4495,1,Longblack Iced
+4496,1,Latte Iced
+4497,1,Latte Iced
+4497,1,Cappucino Hot
+4497,1,Latte Hot
+4498,1,Almond Croisant
+4498,1,Flat White Hot
+4499,1,LatteIce
+4500,1,Latte Iced
+4503,1,Cappucino Hot
+4503,1,Latte Iced
+4504,1,Americano Iced
+4504,1,Plain Croisant
+4508,1,Cold Brew
+4509,1,Cappucino Hot
+4509,1,EspressoHot
+4513,1,Flat White Hot
+4514,1,Latte Iced
+4514,1,Decaf Coffee
+4515,1,Latte Iced
+4516,1,Cappucino Iced
+4516,1,Almond Croisant
+4518,1,Latte Iced
+4518,1,Americano Iced
+4519,1,Almond Croisant
+4519,1,Plain Croisant
+4519,1,Americano Iced
+4520,1,Pain Au Chocolat
+4523,1,Latte Hot
+4524,1,Americano Iced
+4524,1,V60
+4529,1,Latte Iced
+4529,1,Americano Hot
+4530,1,V60
+4532,1,Americano Iced
+4532,1,V60
+4532,1,Cold Brew
+4533,1,Latte Iced
+4533,1,Latte Iced
+4533,1,Longblack Iced
+4535,1,Latte Hot
+4535,1,Latte Hot
+4536,1,Plain Croisant
+4537,1,Latte Iced
+4538,1,Latte Iced
+4538,1,Latte Iced
+4538,1,Almond Croisant
+4539,1,Americano Iced
+4541,1,Americano Iced
+4541,1,Longblack Iced
+4541,1,V60
+4541,1,V60
+4541,1,Latte Iced
+4541,2,Cappucino Iced
+4541,1,V60
+4542,1,Latte Iced
+4543,1,Cold Brew
+4543,1,Latte Hot
+4544,1,Americano Iced
+4546,1,Cappucino Hot
+4546,1,Cake Of The Day
+4549,3,Latte Iced
+4549,1,Longblack Hot
+4555,1,V60
+4555,1,V60
+4557,1,Plain Croisant
+4558,1,Latte Iced
+4559,1,Latte Iced
+4561,1,Cappucino Hot
+4563,1,Flat White Hot
+4564,1,Almond Croisant
+4564,1,Cake Of The Day
+4564,1,Latte Iced
+4565,1,Latte Iced
+4566,1,Americano Iced
+4566,1,Cappucino Iced
+4568,1,Flat White Hot
+4569,1,Cappucino Iced
+4569,1,Mochaccino Iced
+4570,1,Latte Hot
+4571,1,V60
+4571,1,Longblack Iced
+4572,1,V60
+4573,1,Cappucino Hot
+4573,1,V60
+4574,1,Americano Iced
+4574,1,Mochaccino Hot
+4574,1,Almond Croisant
+4576,1,Flat White Hot
+4576,1,Cappucino Hot
+4578,1,Latte Iced
+4578,2,Cappucino Hot
+4578,1,Americano Hot
+4578,2,Almond Croisant
+4578,1,Plain Croisant
+4578,1,Pain Au Chocolat
+4580,1,V60
+4580,1,Almond Croisant
+4581,1,Plain Croisant
+4581,1,Americano Iced
+4584,2,Latte Hot
+4584,1,V60
+4584,1,Almond Croisant
+4584,1,Almond Croisant
+4588,1,Cappucino Hot
+4588,1,Latte Hot
+4588,1,Almond Croisant
+4589,1,Cappucino Hot
+4590,1,Americano Hot
+4590,1,Cappucino Hot
+4590,1,Almond Croisant
+4593,1,Cappucino Hot
+4593,1,Plain Croisant
+4594,1,Latte Iced
+4595,1,Latte Hot
+4596,1,Cake Of The Day
+4596,1,Latte Hot
+4597,1,Cake Of The Day
+4599,1,Americano Hot
+4600,1,Flat White Hot
+4600,1,Flat White Hot
+4600,1,Cappucino Hot
+4600,1,Plain Croisant
+4600,1,Almond Croisant
+4600,1,Flat White Hot
+4600,1,Flat White Hot
+4602,1,Flat White Hot
+4602,1,Latte Hot
+4602,1,Pain Au Chocolat
+4603,1,Plain Croisant
+4603,1,Latte Iced
+4603,1,Latte Iced
+4603,1,Longblack Iced
+4604,1,PiccoloHot
+4604,1,Cake Of The Day
+4607,1,Flat White Hot
+4607,1,Flat White Hot
+4609,1,Cappucino Hot
+4609,1,Cappucino Iced
+4610,1,Cold Brew
+4613,1,Cappucino Hot
+4614,1,Latte Iced
+4614,1,V60
+4617,1,Latte Iced
+4617,1,Mochaccino Iced
+4617,1,Cappucino Hot
+4617,1,Americano Hot
+4617,1,Cappucino Hot
+4617,1,Almond Croisant
+4620,1,Flat White Iced
+4620,1,Cappucino Iced
+4620,1,PiccoloHot
+4621,1,Flat White Hot
+4621,1,Flat White Hot
+4621,1,Flat White Hot
+4621,1,Cappucino Hot
+4622,1,Cappucino Hot
+4622,1,Cappucino Iced
+4625,1,Flat White Hot
+4626,1,Latte Hot
+4627,1,Cappucino Hot
+4631,1,V60
+4633,1,Cappucino Iced
+4634,1,Cappucino Hot
+4634,2,Almond Croisant
+4638,1,Cappucino Hot
+4638,2,Cappucino Iced
+4638,1,Cold Brew
+4639,1,Americano Iced
+4640,1,Cappucino Hot
+4641,1,Americano Iced
+4642,1,Cappucino Hot
+4642,1,Cappucino Iced
+4643,1,Pain Au Chocolat
+4646,1,PiccoloHot
+4647,1,Americano Iced
+4650,1,Americano Hot
+4650,1,Cappucino Iced
+4650,1,Latte Iced
+4651,1,Latte Iced
+4651,2,Americano Iced
+4652,1,Flat White Hot
+4652,1,Cake Of The Day
+4652,1,Flat White Iced
+4654,1,Americano Iced
+4654,1,Cappucino Iced
+4655,1,Longblack Hot
+4656,1,Latte Iced
+4657,1,Latte Iced
+4657,1,Plain Croisant
+4661,1,Cake Of The Day
+4663,1,V60
+4663,1,Latte Iced
+4664,2,Latte Hot
+4664,1,Americano Hot
+4665,1,Americano Iced
+4665,1,Pistachio Croissant
+4665,1,Cake Of The Day
+4665,1,Latte Iced
+4667,1,Almond Croisant
+4668,1,Cappucino Iced
+4669,1,Latte Iced
+4670,1,Latte Iced
+4671,1,V60
+4674,1,Latte Iced
+4675,1,Latte Hot
+4676,1,V60
+4677,2,Latte Iced
+4677,1,Latte Iced
+4677,1,Latte Iced
+4677,1,V60
+4677,1,Cake Of The Day
+4678,1,Latte Iced
+4679,1,V60
+4680,1,Latte Iced
+4680,1,V60
+4681,1,Cake Of The Day
+4681,1,Flat White Hot
+4681,1,Latte Iced
+4682,1,Cappucino Hot
+4682,1,Cappucino Iced
+4684,1,Cake Of The Day
+4686,1,Latte Hot
+4686,2,Latte Iced
+4686,1,Cappucino Iced
+4686,1,Latte Iced
+4687,1,Cappucino Hot
+4687,1,Cappucino Iced
+4690,1,Latte Iced
+4690,1,Cake Of The Day
+4691,1,V60
+4691,2,LatteIce
+4691,1,Longblack Hot
+4691,1,Cold Brew
+4694,2,Cake Of The Day
+4697,1,Latte Iced
+4697,1,Latte Iced
+4697,1,Decaf Coffee
+4697,1,Pistachio Croissant
+4698,1,Cake Of The Day
+4698,1,Cake Of The Day
+4698,1,Plain Croisant
+4698,1,Cappucino Hot
+4698,1,PiccoloHot
+4699,1,Longblack Hot
+4701,1,Latte Hot
+4701,1,Latte Iced
+4703,1,Americano Iced
+4703,1,Latte Iced
+4705,1,V60
+4705,1,Cappucino Hot
+4705,1,Pistachio Croissant
+4708,1,Americano Hot
+4708,1,Latte Iced
+4708,1,Almond Croisant
+4708,4,Almond Croisant
+4708,4,Pistachio Croissant
+4708,1,Brownies
+4708,1,Cookies
+4711,1,Cappucino Hot
+4711,1,V60
+4711,1,Cake Of The Day
+4711,2,Cappucino Hot
+4712,1,Latte Hot
+4713,1,V60
+4717,1,Cappucino Iced
+4718,1,Latte Hot
+4718,1,Pain Au Chocolat
+4719,1,Pistachio Croissant
+4722,1,EspressoHot
+4722,1,LatteIce
+4724,1,Cappucino Hot
+4724,1,V60
+4727,1,Almond Croisant
+4727,1,Mochaccino Iced
+4727,1,Latte Iced
+4727,1,Latte Hot
+4727,1,Almond Croisant
+4728,1,Almond Croisant
+4729,1,Latte Hot
+4730,1,Cappucino Hot
+4730,1,Cappucino Iced
+4730,1,Americano Hot
+4731,1,Pistachio Croissant
+4733,1,Cappucino Hot
+4734,1,Cappucino Iced
+4734,1,V60
+4736,2,Latte Iced
+4736,1,Cake Of The Day
+4737,1,Latte Hot
+4737,1,Cappucino Hot
+4737,1,Plain Croisant
+4737,1,Cake Of The Day
+4738,1,Longblack Iced
+4738,1,Decaf Coffee
+4738,1,Brownies
+4739,1,Cappucino Hot
+4740,2,Latte Iced
+4741,1,Cappucino Hot
+4741,1,Latte Iced
+4745,1,Cappucino Hot
+4746,1,Latte Iced
+4748,2,Latte Iced
+4752,1,Cappucino Hot
+4756,1,Latte Hot
+4756,1,Almond Croisant
+4757,1,Cappucino Hot
+4758,1,EspressoHot
+4758,1,Decaf Coffee
+4758,1,Cappucino Hot
+4759,1,Latte Iced
+4759,1,Flat White Iced
+4760,1,V60
+4762,2,Cappucino Iced
+4765,1,Cappucino Hot
+4767,1,Latte Iced
+4769,1,Cappucino Iced
+4770,1,Cappucino Hot
+4770,1,Plain Croisant
+4770,1,Pain Au Chocolat
+4771,1,Cookies
+4772,1,Latte Iced
+4772,2,Cake Of The Day
+4774,1,Cookies
+4774,1,Cappucino Iced
+4775,1,Americano Iced
+4775,1,Decaf Coffee
+4778,2,Cake Of The Day
+4778,1,Americano Iced
+4778,1,Latte Iced
+4778,1,Latte Iced
+4778,1,Latte Iced
+4781,2,LatteIce
+4782,1,Cake Of The Day
+4783,1,Latte Iced
+4784,1,Latte Iced
+4785,1,Cappucino Hot
+4785,1,Americano Iced
+4786,1,Cappucino Hot
+4786,1,Latte Hot
+4786,1,Pain Au Chocolat
+4788,1,Pistachio Croissant
+4789,1,Flat White Hot
+4789,1,Flat White Iced
+4789,1,Americano Iced
+4790,1,Cappucino Hot
+4790,1,Latte Hot
+4790,1,Latte Iced
+4790,1,Mochaccino Iced
+4791,1,Latte Hot
+4791,1,Decaf Coffee
+4791,1,Latte Iced
+4792,2,Latte Iced
+4792,1,Cappucino Hot
+4797,2,Latte Iced
+4797,1,Brownies
+4798,2,Americano Iced
+4798,1,Cake Of The Day
+4798,1,Cake Of The Day
+4799,1,Cake Of The Day
+4800,1,Latte Iced
+4802,1,Cake Of The Day
+4802,4,Latte Iced
+4802,1,Pain Au Chocolat
+4802,1,Cappucino Hot
+4804,1,Cappucino Hot
+4805,2,Latte Iced
+4805,1,V60
+4805,1,Pistachio Croissant
+4805,1,Pain Au Chocolat
+4806,1,Latte Iced
+4807,1,Americano Iced
+4808,1,Latte Iced
+4808,1,Cappucino Hot
+4809,1,Latte Hot
+4811,1,Cappucino Hot
+4811,1,Pistachio Croissant
+4812,1,Latte Iced
+4814,1,Americano Hot
+4814,1,Americano Iced
+4815,1,Americano Iced
+4815,1,Cookies
+4816,1,Latte Iced
+4818,1,Latte Hot
+4821,1,Americano Iced
+4822,1,Latte Iced
+4823,1,Latte Iced
+4823,1,Latte Iced
+4824,1,Latte Iced
+4824,1,Decaf Coffee
+4825,1,Cappucino Hot
+4825,1,PiccoloHot
+4825,1,Latte Hot
+4825,1,Cookies
+4826,1,Latte Iced
+4829,1,Latte Hot
+4829,2,Latte Hot
+4829,1,Latte Hot
+4829,1,Plain Croisant
+4829,1,Pistachio Croissant
+4829,1,Brownies
+4829,1,Pain Au Chocolat
+4833,1,Americano Hot
+4833,1,Cappucino Hot
+4833,1,Pistachio Croissant
+4835,2,PiccoloHot
+4835,1,Cappucino Hot
+4835,1,Pistachio Croissant
+4840,1,Pistachio Croissant
+4841,1,Latte Iced
+4841,1,Pain Au Suisse
+4842,1,Latte Iced
+4843,1,Brownies
+4844,1,Latte Iced
+4845,1,Plain Croisant
+4846,1,Americano Iced
+4846,1,Americano Iced
+4847,1,Brownies
+4850,1,Cake Of The Day
+4850,1,Americano Iced
+4853,1,Latte Iced
+4854,1,Cake Of The Day
+4854,1,Cappucino Iced
+4854,1,Americano Iced
+4856,1,Cappucino Iced
+4856,1,Cappucino Iced
+4858,1,Cappucino Hot
+4858,1,Plain Croisant
+4860,1,Americano Iced
+4861,1,Latte Hot
+4861,1,Decaf Coffee
+4861,1,Latte Iced
+4861,1,Decaf Coffee
+4862,3,Cappucino Iced
+4862,1,Latte Iced
+4862,1,Mochaccino Iced
+4862,1,Cake Of The Day
+4863,1,EspressoHot
+4863,1,Cappucino Hot
+4863,1,EspressoHot
+4863,1,EspressoHot
+4863,1,EspressoHot
+4864,1,V60
+4865,1,Cake Of The Day
+4866,1,Latte Iced
+4866,1,Flat White Hot
+4866,2,Latte Hot
+4866,1,Latte Iced
+4866,1,Americano Iced
+4867,1,Americano Hot
+4867,1,Latte Iced
+4869,1,Cappucino Iced
+4869,1,Latte Iced
+4870,2,Americano Hot
+4870,1,Cappucino Hot
+4870,1,Pistachio Croissant
+4871,1,V60
+4872,2,Americano Iced
+4872,1,Americano Iced
+4872,1,Decaf Coffee
+4874,1,Latte Iced
+4874,1,Cappucino Iced
+4875,1,Americano Iced
+4877,1,Americano Iced
+4878,1,Latte Iced
+4880,2,Cappucino Iced
+4880,1,Cookies
+4881,1,Cake Of The Day
+4881,1,Americano Iced
+4882,1,Flat White Hot
+4882,1,Pain Au Suisse
+4885,1,EspressoHot
+4885,1,Cappucino Hot
+4885,1,Plain Croisant
+4886,1,Americano Iced
+4887,1,Plain Croisant
+4887,1,V60
+4887,1,Brownies
+4887,1,Flat White Hot
+4888,1,Cake Of The Day
+4889,1,Latte Iced
+4890,1,Americano Iced
+4891,1,Latte Iced
+4892,1,Latte Hot
+4893,1,Cappucino Hot
+4893,1,Latte Iced
+4894,1,Americano Iced
+4894,1,Americano Iced
+4894,1,Decaf Coffee
+4895,1,Latte Iced
+4895,1,Pistachio Croissant
+4896,1,Cake Of The Day
+4898,1,Latte Iced
+4900,1,Cappucino Iced
+4901,1,Latte Iced
+4904,1,Cappucino Hot
+4904,1,Americano Hot
+4905,1,Latte Iced
+4905,1,Cappucino Iced
+4907,1,V60
+4907,1,Cappucino Hot
+4907,1,Pistachio Croissant
+4908,1,Pain Au Chocolat
+4908,1,Latte Iced
+4908,1,Latte Iced
+4909,1,Flat White Hot
+4909,1,Cake Of The Day
+4909,1,Pistachio Croissant
+4910,1,EspressoIced
+4912,1,Cappucino Iced
+4913,1,Latte Iced
+4914,1,Cappucino Iced
+4916,1,Cappucino Iced
+4917,1,Pistachio Croissant
+4919,1,Latte Iced
+4919,1,Pain Au Chocolat
+4920,1,Latte Iced
+4921,2,Americano Iced
+4922,1,Cappucino Hot
+4922,1,Latte Iced
+4922,1,Decaf Coffee
+4923,1,Latte Iced
+4923,1,Latte Iced
+4924,1,EspressoHot
+4924,1,Decaf Coffee
+4925,1,Flat White Hot
+4925,1,Latte Iced
+4927,1,Latte Iced
+4927,1,Cappucino Iced
+4928,2,Latte Hot
+4931,1,V60
+4933,1,Pain Au Chocolat
+4933,1,Plain Croisant
+4935,1,Cappucino Iced
+4935,1,Latte Iced
+4935,1,Cappucino Iced
+4936,1,Almond Croisant
+4936,1,Pistachio Croissant
+4938,1,Americano Iced
+4938,1,Cappucino Iced
+4938,1,Americano Iced
+4940,1,Flat White Hot
+4940,1,Latte Iced
+4940,1,Flat White Hot
+4942,1,Cappucino Hot
+4943,1,Kuign-amann
+4943,1,Pain Au Suisse
+4943,1,Cake Of The Day
+4943,1,Pistachio Croissant
+4944,1,Pistachio Croissant
+4944,1,Pain Au Suisse
+4944,1,Cake Of The Day
+4946,1,Pain Au Chocolat
+4946,1,Pistachio Croissant
+4946,1,Brownies
+4946,1,Plain Croisant
+4947,1,V60
+4947,1,V60
+4951,1,V60
+4952,1,Latte Iced
+4953,1,V60
+4956,1,Cappucino Hot
+4957,1,Pain Au Chocolat
+4957,1,Almond Croisant
+4958,1,V60
+4958,1,V60
+4958,2,Brownies
+4958,1,Cappucino Hot
+4958,1,V60
+4959,1,PiccoloHot
+4959,1,EspressoHot
+4959,1,Pain Au Chocolat
+4962,1,V60
+4962,1,Pistachio Croissant
+4962,1,Pistachio Croissant
+4962,1,Cappucino Hot
+4963,1,Flat White Hot
+4964,1,Americano Iced
+4966,1,Cappucino Hot
+4966,1,PiccoloHot
+4966,1,Plain Croisant
+4969,1,Latte Hot
+4972,1,Latte Hot
+4972,1,Plain Croisant
+4973,1,Latte Hot
+4973,1,Flat White Hot
+4973,1,Almond Croisant
+4974,1,V60
+4974,1,Cake Of The Day
+4975,1,Americano Hot
+4975,1,Latte Iced
+4976,1,Cappucino Hot
+4976,1,Americano Hot
+4977,1,Americano Iced
+4977,1,Cake Of The Day
+4980,1,Almond Croisant
+4981,1,Magic Latte
+4981,1,Flat White Hot
+4981,1,EspressoHot
+4982,1,Latte Hot
+4982,1,Decaf Coffee
+4982,1,Americano Hot
+4982,1,Americano Iced
+4983,1,Latte Iced
+4987,1,Latte Iced
+4988,1,V60
+4988,1,Cake Of The Day
+4989,1,Cappucino Hot
+4989,1,Americano Iced
+4989,1,Latte Hot
+4990,1,Magic Latte
+4992,1,PiccoloHot
+4993,1,Latte Iced
+4994,1,Americano Iced
+4995,1,Cappucino Iced
+4995,1,Cappucino Iced
+4996,1,Cake Of The Day
+4997,1,Cappucino Hot
+4998,1,Latte Hot
+4998,1,Longblack Hot
+5005,2,Latte Iced
+5005,1,Cake Of The Day
+5005,1,Macchiato 4ozHot
+5006,1,Americano Hot
+5006,1,Latte Hot
+5007,1,Latte Hot
+5007,1,Pistachio Croissant
+5010,1,Latte Iced
+5010,1,Latte Iced
+5011,1,Flat White Iced
+5011,1,Americano Iced
+5011,1,Decaf Coffee
+5012,2,Americano Iced
+5013,1,V60
+5014,1,Latte Hot
+5015,1,Americano Iced
+5018,1,Latte Iced
+5019,1,Flat White Hot
+5019,1,Latte Iced
+5021,1,Cappucino Iced
+5021,1,Cake Of The Day
+5023,1,Latte Iced
+5024,1,V60
+5026,1,Latte Hot
+5026,1,Latte Hot
+5027,1,Cappucino Hot
+5028,1,Longblack Hot
+5028,1,Cake Of The Day
+5028,1,PiccoloHot
+5029,1,Cake Of The Day
+5029,1,Pain Au Chocolat
+5031,1,Latte Iced
+5031,1,Cappucino Iced
+5031,1,Decaf Coffee
+5032,1,Cappucino Iced
+5032,1,Almond Croisant
+5033,2,Americano Iced
+5034,1,Cake Of The Day
+5036,1,Cappucino Hot
+5038,1,Cappucino Hot
+5038,1,Cake Of The Day
+5040,1,Cappucino Iced
+5040,1,Almond Croisant
+5041,1,Latte Hot
+5041,1,Cake Of The Day
+5043,2,Almond Croisant
+5044,1,Cake Of The Day
+5046,1,Latte Iced
+5047,2,Latte Iced
+5047,1,Longblack Iced
+5047,1,V60
+5048,1,Latte Iced
+5048,1,Americano Hot
+5050,1,Latte Hot
+5052,1,Cake Of The Day
+5052,1,Pistachio Croissant
+5052,1,Kuign-amann
+5052,1,Latte Iced
+5054,1,Latte Hot
+5055,1,Pain Au Chocolat
+5055,1,Latte Iced
+5055,1,Cake Of The Day
+5057,1,Cake Of The Day
+5057,1,V60
+5058,1,Cake Of The Day
+5058,1,Latte Iced
+5058,1,Americano Hot
+5059,1,V60
+5059,1,V60
+5059,1,Americano Hot
+5059,1,Latte Iced
+5060,1,Mochaccino Iced
+5060,1,Almond Croisant
+5060,1,Latte Iced
+5062,1,Latte Iced
+5062,1,Cake Of The Day
+5062,1,Cake Of The Day
+5062,1,Latte Iced
+5062,1,Magic Latte
+5063,1,Mochaccino Hot
+5065,1,Cake Of The Day
+5066,1,Almond Croisant
+5067,1,V60
+5067,1,Latte Hot
+5068,1,Cappucino Hot
+5068,1,Cake Of The Day
+5069,1,Cake Of The Day
+5070,1,Americano Iced
+5070,1,Latte Hot
+5072,1,Cappucino Hot
+5074,1,Cake Of The Day
+5074,1,Latte Hot
+5074,1,Almond Croisant
+5074,1,Plain Croisant
+5075,1,Pain Au Chocolat
+5076,1,V60
+5078,2,Americano Hot
+5078,1,Latte Iced
+5079,1,V60
+5079,1,Pain Au Chocolat
+5079,1,Latte Hot
+5080,1,Kuign-amann
+5080,1,Cake Of The Day
+5080,1,Americano Hot
+5080,1,Latte Iced
+5084,1,Almond Croisant
+5084,1,Cake Of The Day
+5084,1,Cappucino Iced
+5086,1,Latte Iced
+5086,1,Plain Croisant
+5087,2,LatteIce
+5087,1,Cappucino Hot
+5087,1,Cold Brew
+5087,1,Americano Hot
+5087,1,Kuign-amann
+5087,2,Cold Brew
+5088,1,Plain Croisant
+5088,1,Cappucino Hot
+5088,1,Cappucino Iced
+5089,1,EspressoHot
+5089,1,Decaf Coffee
+5089,1,Longblack Hot
+5090,1,Americano Hot
+5090,1,Americano Iced
+5090,1,Pain Au Chocolat
+5091,1,Latte Iced
+5092,1,Latte Iced
+5092,1,Pain Au Chocolat
+5092,1,Latte Iced
+5093,1,Cappucino Hot
+5093,1,Cappucino Iced
+5096,1,Cappucino Hot
+5097,1,Cappucino Hot
+5097,1,Matcha cake
+5098,1,Latte Iced
+5098,1,Latte Hot
+5099,1,Latte Hot
+5101,1,Tiramisu
+5104,1,Americano Hot
+5104,2,Americano Iced
+5104,1,Plain Croisant
+5106,1,Latte Hot
+5107,1,Matcha tiramisu
+5108,1,Longblack Iced
+5110,1,Longblack Hot
+5110,1,Pain Au Chocolat
+5110,1,Matcha tiramisu
+5111,1,Cappucino Hot
+5111,1,Almond Croisant
+5112,1,Latte Iced
+5112,1,Americano Iced
+5114,1,Cappucino Hot
+5114,1,Almond Croisant
+5114,1,Pain Au Chocolat
+5115,1,Carrot cake
+5115,1,Cappucino Iced
+5116,1,V60
+5116,1,Tiramisu
+5117,1,Latte Iced
+5118,1,Latte Hot
+5118,1,Decaf Coffee
+5119,1,Almond Croisant
+5119,1,Matcha cake
+5119,1,Cappucino Iced
+5121,1,Cappucino Iced
+5126,2,Latte Hot
+5126,1,Americano Hot
+5126,1,V60
+5128,1,Tiramisu
+5131,1,Flat White Hot
+5132,1,Flat White Iced
+5133,1,Cappucino Hot
+5134,1,Cappucino Hot
+5134,1,Tiramisu
+5135,1,Latte Iced
+5138,2,Americano Iced
+5139,2,Flat White Hot
+5139,1,Flat White Hot
+5139,1,Latte Iced
+5140,2,Latte Iced
+5140,1,Almond Croisant
+5140,1,Pain Au Chocolat
+5141,1,Plain Croisant
+5142,1,Latte Hot
+5142,1,Flat White Iced
+5142,1,Tiramisu
+5143,1,Latte Hot
+5144,1,Americano Iced
+5145,1,Latte Iced
+5146,1,Cappucino Hot
+5147,1,V60
+5147,1,V60
+5148,1,Latte Iced
+5149,1,Latte Iced
+5149,2,Almond Croisant
+5149,1,Pain Au Chocolat
+5153,1,Americano Iced
+5155,1,Latte Iced
+5157,1,Plain Croisant
+5157,1,Mochaccino Hot
+5158,1,Cappucino Hot
+5158,1,Cappucino Hot
+5160,1,Latte Iced
+5160,1,Cappucino Iced
+5160,1,Latte Iced
+5160,1,Latte Iced
+5160,1,Plain Croisant
+5160,1,Cappucino Iced
+5161,1,Cold Brew
+5161,1,Latte Iced
+5163,1,Cappucino Iced
+5163,1,Plain Croisant
+5165,1,Almond Croisant
+5165,1,Plain Croisant
+5165,1,Matcha tiramisu
+5166,1,Americano Iced
+5166,1,Americano Iced
+5166,1,Pain Au Chocolat
+5166,1,Tiramisu
+5172,1,Cappucino Hot
+5173,1,Cappucino Iced
+5174,1,Tiramisu
+5182,1,Latte Iced
+5183,1,Latte Iced
+5183,1,Tiramisu
+5185,1,Flat White Hot
+5185,1,Flat White Iced
+5186,1,Flat White Iced
+5187,1,Latte Iced
+5188,1,V60
+5189,1,V60
+5189,2,Americano Iced
+5189,1,Latte Iced
+5190,1,Cookies
+5191,1,Latte Iced
+5192,1,Coffee choux
+5197,1,V60
+5198,1,Cappucino Iced
+5198,1,Cappucino Hot
+5201,1,Latte Iced
+5205,2,Latte Iced
+5207,3,Latte Iced
+5211,1,Latte Iced
+5212,1,Latte Hot
+5212,1,Latte Hot
+5212,1,Americano Iced
+5213,1,Almond Croisant
+5214,1,Magic Latte
+5214,1,Americano Iced
+5215,1,V60
+5216,1,Cappucino Hot
+5216,1,Matcha cake
+5216,1,Pain Au Chocolat
+5217,2,Latte Iced
+5217,1,Cappucino Iced
+5218,1,Americano Hot
+5218,1,Cookies
+5219,1,Latte Iced
+5220,2,Cappucino Hot
+5220,1,Cappucino Iced
+5220,1,Plain Croisant
+5220,1,Cappucino Iced
+5220,1,Americano Iced
+5221,1,Latte Iced
+5221,1,Plain Croisant
+5223,1,V60
+5225,2,V60
+5225,1,V60
+5226,1,Americano Iced
+5226,1,Mochaccino Iced
+5226,1,Almond Croisant
+5227,1,V60
+5228,1,Flat White Hot
+5231,1,Almond Croisant
+5232,1,V60
+5232,1,Latte Iced
+5233,1,Latte Hot
+5233,1,Matcha tiramisu
+5234,1,Matcha cake
+5235,1,Cappucino Iced
+5237,1,Mochaccino Iced
+5238,1,Matcha cake
+5238,1,Coffee choux
+5238,1,Latte Hot
+5238,1,Plain Croisant
+5240,1,Cookies
+5242,1,Latte Iced
+5242,1,Almond Croisant
+5244,1,Latte Iced
+5246,1,Latte Iced
+5246,1,Matcha tiramisu
+5249,1,Americano Iced
+5250,1,Latte Iced
+5251,1,Americano Hot
+5251,1,Latte Iced
+5254,1,Cappucino Iced
+5255,1,Latte Iced
+5256,1,Cappucino Hot
+5257,1,Pain Au Chocolat
+5257,1,V60
+5258,1,Longblack Iced
+5259,1,Latte Iced
+5260,1,Latte Iced
+5260,1,Flat White Iced
+5261,1,Latte Iced
+5261,1,Coffee choux
+5262,1,Latte Iced
+5263,1,Cappucino Iced
+5263,1,Latte Iced
+5263,1,Latte Iced
+5263,1,Cappucino Hot
+5264,1,V60
+5266,1,Americano Hot
+5267,1,Latte Iced
+5267,1,Cappucino Hot
+5267,1,Almond Croisant
+5267,1,Plain Croisant
+5268,1,Latte Iced
+5269,1,Americano Iced
+5270,1,Tiramisu cake
+5272,1,Almond Croisant
+5272,1,Pain Au Chocolat
+5274,1,Americano Hot
+5274,1,Latte Hot
+5274,1,Kuign-amann
+5274,1,Flat White Hot
+5275,2,Cappucino Hot
+5275,1,Latte Iced
+5275,1,Plain Croisant
+5275,1,Coffee choux
+5276,1,Almond Croisant
+5276,1,Pain Au Chocolat
+5276,1,V60
+5276,1,V60
+5277,2,Almond Croisant
+5277,2,Pain Au Chocolat
+5279,3,Latte Hot
+5281,1,Plain Croisant
+5281,2,Pain Au Chocolat
+5281,1,Coffee choux
+5281,2,Americano Hot
+5281,1,Americano Hot
+5282,1,Americano Hot
+5283,1,Latte Hot
+5283,1,Latte Iced
+5284,1,Latte Iced
+5284,1,Cappucino Hot
+5285,1,Cappucino Hot
+5286,1,Cappucino Hot
+5286,1,Americano Hot
+5286,1,Plain Croisant
+5286,1,Pain Au Chocolat
+5288,1,Cappucino Iced
+5288,1,Decaf Coffee
+5288,1,EspressoHot
+5290,1,Cappucino Hot
+5291,2,Cappucino Hot
+5292,1,Latte Hot
+5292,4,Cookies
+5292,1,Latte Hot
+5293,1,Americano Hot
+5293,1,Americano Hot
+5293,1,Cookies
+5294,1,Longblack Hot
+5294,1,Almond Croisant
+5296,1,Latte Hot
+5296,1,Latte Hot
+5296,1,Latte Hot
+5297,1,V60
+5297,1,Matcha tiramisu
+5298,1,Latte Iced
+5298,1,Latte Iced
+5298,1,Cappucino Hot
+5298,1,Flat White Hot
+5298,1,Pain Au Chocolat
+5298,1,Tiramisu
+5299,1,Almond Croisant
+5302,1,V60
+5302,1,Americano Iced
+5303,1,Latte Iced
+5303,1,Cappucino Hot
+5304,1,Latte Hot
+5305,1,V60
+5309,1,Flat White Hot
+5313,1,Cappucino Hot
+5315,2,Latte Hot
+5315,1,Cappucino Hot
+5317,1,Latte Iced
+5317,1,V60
+5318,1,Latte Hot
+5318,1,Plain Croisant
+5319,1,V60
+5320,1,Cappucino Hot
+5322,1,Americano Hot
+5323,1,Cappucino Hot
+5324,1,EspressoHot
+5324,1,Coffee choux
+5324,1,Coffee choux
+5324,1,V60
+5324,2,Coffee choux
+5326,1,V60
+5327,1,Cappucino Hot
+5327,1,Kuign-amann
+5328,1,Flat White Hot
+5328,1,Latte Iced
+5328,1,Pain Au Chocolat
+5329,1,Latte Iced
+5329,1,Latte Iced
+5330,1,V60
+5330,1,V60
+5330,1,Latte Iced
+5330,1,Latte Hot
+5331,1,EspressoHot
+5331,1,Longblack Hot
+5331,1,Almond Croisant
+5331,1,Plain Croisant
+5332,1,Pain Au Chocolat
+5334,1,Americano Iced
+5334,2,Americano Iced
+5338,1,Cappucino Iced
+5338,1,Mochaccino Iced
+5340,1,Latte Iced
+5348,1,Flat White Iced
+5349,1,Almond Croisant
+5351,1,Flat White Hot
+5351,1,Latte Iced
+5351,2,Pain Au Chocolat
+5351,1,Plain Croisant
+5352,1,Tiramisu
+5355,2,Cappucino Hot
+5355,1,Americano Iced
+5356,1,Pain Au Suisse
+5356,1,Almond Croisant
+5356,1,Coffee Croissant
+5356,1,Pain Au Chocolat
+5356,1,Americano Hot
+5356,1,Latte Iced
+5357,1,Almond Croisant
+5358,2,V60
+5359,1,Flat White Iced
+5359,1,V60
+5362,1,Cappucino Iced
+5364,1,Almond Croisant
+5366,1,Latte Iced
+5366,1,V60
+5367,1,Latte Iced
+5367,1,Matcha tiramisu
+5367,1,Carrot cake
+5368,1,Matcha tiramisu
+5369,1,Latte Iced
+5369,1,Americano Iced
+5370,1,Latte Iced
+5370,1,Flat White Iced
+5373,1,EspressoHot
+5375,1,Longblack Iced
+5377,1,Cappucino Hot
+5382,1,Cappucino Hot
+5382,1,Latte Iced
+5382,1,V60
+5385,1,Americano Iced
+5385,1,Almond Croisant
+5385,1,Pain Au Chocolat
+5388,1,Longblack Hot
+5389,1,Cappucino Hot
+5389,1,Cappucino Hot
+5391,1,Almond Croisant
+5391,1,Americano Iced
+5391,1,Americano Hot
+5391,1,Plain Croisant
+5393,1,Americano Iced
+5393,1,Cappucino Iced
+5393,1,Almond Croisant
+5396,1,Longblack Iced
+5396,1,Americano Iced
+5396,1,V60
+5396,1,V60
+5397,1,Latte Iced
+5397,1,Pain Au Suisse
+5398,1,Latte Iced
+5398,1,Decaf Coffee
+5398,1,Tiramisu
+5399,1,Latte Iced
+5400,1,Latte Hot
+5401,1,Tiramisu
+5402,1,Latte Iced
+5404,1,Longblack Iced
+5406,1,Flat White Iced
+5406,1,Cappucino Hot
+5406,1,Almond Croisant
+5406,1,Matcha tiramisu
+5408,1,Tiramisu
+5408,1,V60
+5409,1,Carrot cake
+5410,1,Latte Iced
+5410,1,Latte Iced
+5410,1,Carrot cake
+5410,1,Latte Iced
+5411,1,Brownies
+5412,1,Cappucino Hot
+5412,1,V60
+5414,1,Latte Iced
+5416,1,Latte Iced
+5416,1,Latte Iced
+5416,1,Latte Iced
+5416,1,Latte Iced
+5417,1,Americano Iced
+5418,1,V60
+5419,1,Americano Iced
+5419,1,Cappucino Iced
+5419,1,Flat White Hot
+5419,1,Cappucino Iced
+5419,1,V60
+5420,1,Pain Au Chocolat
+5420,1,Cappucino Hot
+5422,1,Pain Au Suisse
+5422,2,Latte Hot
+5423,1,Cappucino Hot
+5423,1,Cappucino Iced
+5423,1,Brownies
+5424,1,Latte Iced
+5425,1,Latte Iced
+5426,1,Latte Hot
+5426,1,Coffee Croissant
+5427,1,Latte Hot
+5427,1,Carrot cake
+5427,1,Almond Croisant
+5428,1,Almond Croisant
+5431,1,Matcha tiramisu
+5432,2,Latte Iced
+5432,2,V60
+5435,1,Longblack Iced
+5435,1,Cappucino Iced
+5435,1,Carrot cake
+5436,1,Latte Iced
+5436,1,Almond Croisant
+5436,1,Plain Croisant
+5437,1,Americano Iced
+5437,1,Carrot cake
+5438,1,Latte Iced
+5439,1,V60
+5440,1,Latte Iced
+5441,1,Latte Iced
+5442,1,Latte Iced
+5442,1,Cappucino Iced
+5442,1,Cappucino Iced
+5442,1,Latte Iced
+5442,1,Coffee Croissant
+5442,1,Matcha tiramisu
+5442,1,Latte Iced
+5444,1,Plain Croisant
+5444,1,Pain Au Chocolat
+5445,1,LatteIce
+5445,1,Pain Au Suisse
+5446,1,Almond Croisant
+5449,1,Latte Iced
+5449,1,Decaf Coffee
+5450,1,Coffee Croissant
+5450,1,Latte Iced
+5451,2,Cappucino Hot
+5452,1,Cappucino Iced
+5452,1,Cappucino Iced
+5452,1,Cappucino Iced
+5452,1,Cappucino Hot
+5454,1,Flat White Iced
+5455,1,Latte Iced
+5455,1,Latte Hot
+5455,1,Pain Au Suisse
+5455,1,Latte Iced
+5457,1,V60
+5457,1,V60
+5458,1,V60
+5459,1,Flat White Iced
+5459,1,Latte Iced
+5459,2,Plain Croisant
+5461,1,Latte Iced
+5462,1,Longblack Hot
+5463,1,Cappucino Hot
+5463,1,V60
+5468,1,Almond Croisant
+5468,2,Americano Hot
+5468,1,Longblack Hot
+5468,1,Cappucino Hot
+5469,1,Cappucino Hot
+5469,1,Plain Croisant
+5472,1,Latte Iced
+5473,1,Latte Iced
+5473,1,Coffee Croissant
+5474,1,V60
+5475,1,Latte Iced
+5477,1,Cappucino Hot
+5478,1,Cappucino Hot
+5478,1,Cappucino Iced
+5478,1,Kuign-amann
+5478,1,Pain Au Chocolat
+5479,1,Latte Hot
+5479,1,Cappucino Hot
+5479,1,Latte Hot
+5479,1,Cappucino Iced
+5482,1,Latte Hot
+5483,1,Latte Hot
+5485,1,Flat White Hot
+5485,1,Flat White Hot
+5486,1,Latte Iced
+5486,1,PiccoloHot
+5486,1,Latte Hot
+5488,1,Magic Latte
+5490,1,Flat White Hot
+5490,1,Flat White Hot
+5491,1,Cappucino Hot
+5493,1,Coffee Croissant
+5493,1,V60
+5493,1,V60
+5495,1,Latte Hot
+5496,1,Latte Hot
+5496,1,Coffee Croissant
+5496,1,Longblack Iced
+5496,1,Kuign-amann
+5497,1,Tiramisu
+5497,1,Coffee Croissant
+5498,1,Latte Iced
+5498,1,EspressoHot
+5498,1,Cappucino Hot
+5508,1,Americano Hot
+5509,1,Cappucino Iced
+5511,1,Latte Hot
+5512,1,Almond Croisant
+5512,1,Tiramisu
+5514,1,Cappucino Hot
+5515,1,EspressoIced
+5515,1,V60
+5515,1,Americano Iced
+5516,2,Latte Iced
+5516,1,Latte Iced
+5516,1,Latte Iced
+5516,1,Cappucino Hot
+5517,1,Longblack Iced
+5517,1,Decaf Coffee
+5520,1,V60
+5521,1,Latte Iced
+5521,1,Cappucino Iced
+5521,1,Almond Croisant
+5521,1,Pain Au Chocolat
+5526,1,Latte Iced
+5527,1,Latte Iced
+5527,1,Cappucino Iced
+5529,1,V60
+5529,1,V60
+5530,1,Longblack Iced
+5530,1,Latte Iced
+5531,1,Tiramisu
+5532,1,Cappucino Iced
+5532,1,Latte Iced
+5532,1,Mochaccino Hot
+5532,1,Coffee Croissant
+5532,2,Cappucino Iced
+5533,2,Latte Iced
+5535,1,Americano Iced
+5537,1,V60
+5537,1,V60
+5538,1,Cappucino Iced
+5538,1,Latte Hot
+5538,1,Plain Croisant
+5538,1,Coffee Croissant
+5541,1,Latte Hot
+5541,1,Cappucino Hot
+5543,1,Latte Iced
+5543,1,Almond Croisant
+5544,1,Cappucino Iced
+5545,1,Mochaccino Iced
+5545,1,Almond Croisant
+5545,1,Almond Croisant
+5547,1,Latte Iced
+5548,2,Latte Iced
+5548,1,V60
+5550,1,PiccoloHot
+5550,1,Cappucino Hot
+5551,1,Cappucino Iced
+5552,1,Latte Hot
+5553,1,Pain Au Suisse
+5554,1,Latte Iced
+5554,1,Decaf Coffee
+5555,1,Cappucino Hot
+5555,1,Latte Iced
+5555,2,Cappucino Hot
+5556,1,Cappucino Iced
+5557,1,Americano Iced
+5558,1,Cappucino Hot
+5559,1,Mochaccino Hot
+5559,1,Americano Hot
+5560,1,Latte Iced
+5561,1,Pain Au Chocolat
+5561,1,Almond Croisant
+5562,1,Carrot cake
+5562,1,Cappucino Iced
+5564,1,Cappucino Hot
+5568,1,Cappucino Iced
+5569,1,Latte Hot
+5569,1,V60
+5569,1,Carrot cake
+5569,1,Cappucino Hot
+5570,1,Tiramisu
+5570,1,Cappucino Iced
+5571,1,V60
+5572,1,Americano Iced
+5572,1,Tiramisu
+5573,1,Cappucino Hot
+5576,1,Almond Croisant
+5577,1,Tiramisu
+5577,1,Latte Iced
+5577,1,Latte Iced
+5577,1,Carrot cake
+5578,1,Americano Iced
+5580,6,Plain Croisant
+5583,1,Plain Croisant
+5583,1,Plain Croisant
+5583,1,Pain Au Suisse
+5584,1,Carrot cake
+5586,2,Cappucino Hot
+5586,1,Carrot cake
+5587,1,Longblack Hot
+5589,1,Latte Iced
+5589,1,Pain Au Chocolat
+5589,1,Plain Croisant
+5590,1,V60
+5590,1,Latte Hot
+5590,1,Plain Croisant
+5591,1,Latte Hot
+5591,1,Latte Iced
+5592,1,Flat White Hot
+5592,1,Latte Iced
+5592,1,Cappucino Hot
+5592,1,Magic Latte
+5592,1,Carrot cake
+5593,1,Cappucino Hot
+5593,1,Matcha cake
+5595,1,Latte Iced
+5598,1,Latte Iced
+5599,1,Latte Hot
+5599,1,Latte Hot
+5602,1,Americano Iced
+5602,1,V60
+5604,2,Latte Iced
+5604,1,Plain Croisant
+5605,1,Pain Au Chocolat
+5605,1,Latte Hot
+5605,1,Americano Hot
+5605,1,Latte Iced
+5606,1,Latte Iced
+5606,1,Latte Iced
+5607,1,Cold Brew
+5609,1,Americano Iced
+5611,1,Latte Hot
+5611,1,Latte Iced
+5612,1,Americano Iced
+5612,1,Coffee Croissant
+5613,1,Flat White Hot
+5613,1,Flat White Hot
+5613,1,Americano Hot
+5615,2,Americano Hot
+5615,1,Almond Croisant
+5616,1,Latte Hot
+5616,1,Cappucino Iced
+5617,2,Latte Hot
+5617,1,Latte Hot
+5617,1,Latte Iced
+5617,1,Carrot cake
+5617,1,Matcha tiramisu
+5619,1,Americano Hot
+5619,1,Magic Latte
+5619,1,Americano Hot
+5620,1,Americano Hot
+5620,1,Cappucino Hot
+5621,1,Almond Croisant
+5621,2,Americano Iced
+5621,1,Almond Croisant
+5622,1,Longblack Iced
+5624,1,Americano Iced
+5624,1,Americano Iced
+5625,1,Cappucino Hot
+5625,1,Americano Hot
+5629,1,Cappucino Iced
+5631,1,Latte Iced
+5632,2,Americano Iced
+5634,1,PiccoloHot
+5634,1,Pistachio Croissant
+5634,1,Coffee Croissant
+5634,1,Longblack Iced
+5637,1,Cappucino Hot
+5637,1,Americano Iced
+5640,1,Cappucino Iced
+5641,1,Moca nougat
+5641,1,Carrot cake
+5642,1,Flat White Hot
+5642,1,V60
+5642,1,V60
+5643,1,Mochaccino Iced
+5644,1,Matcha tiramisu
+5645,1,Latte Iced
+5645,1,Cappucino Iced
+5646,1,Cappucino Iced
+5647,1,Latte Hot
+5649,1,V60
+5649,1,Latte Iced
+5650,1,Latte Iced
+5653,1,Cappucino Iced
+5655,1,Americano Iced
+5655,1,Americano Hot
+5657,1,Latte Iced
+5658,2,Cappucino Iced
+5658,2,Latte Iced
+5658,1,Cappucino Hot
+5658,1,Latte Iced
+5660,1,Americano Hot
+5660,1,Latte Hot
+5662,1,Carrot cake
+5662,1,Matcha cake
+5662,1,Matcha tiramisu
+5662,1,Mochaccino Iced
+5662,1,Cappucino Iced
+5663,1,Cappucino Hot
+5663,1,Americano Hot
+5664,1,Mochaccino Hot
+5664,1,Latte Hot
+5665,1,Latte Iced
+5665,1,Latte Iced
+5666,1,Americano Hot
+5666,1,Cappucino Hot
+5666,3,Pain Au Chocolat
+5666,1,Kuign-amann
+5666,1,Matcha tiramisu
+5666,1,Carrot cake
+5666,2,Pain Au Chocolat
+5668,1,Americano Hot
+5668,1,Latte Iced
+5670,1,V60
+5670,1,Cold Brew
+5670,1,Pistachio Croissant
+5671,1,Flat White Iced
+5672,1,Matcha tiramisu
+5672,1,Cappucino Hot
+5672,1,Latte Hot
+5673,1,V60
+5673,1,Americano Iced
+5674,1,Latte Hot
+5675,1,Latte Hot
+5675,1,Americano Iced
+5675,1,Latte Iced
+5676,1,V60
+5676,1,V60
+5677,1,Cappucino Iced
+5678,1,Latte Hot
+5678,1,Decaf Coffee
+5678,1,Longblack Iced
+5678,1,Latte Hot
+5678,1,Decaf Coffee
+5678,1,Mochaccino Hot
+5680,1,Matcha tiramisu
+5680,1,Pistachio Croissant
+5681,1,Latte Iced
+5682,1,Latte Iced
+5682,1,Americano Iced
+5682,1,Pistachio Croissant
+5682,1,Latte Iced
+5684,1,Latte Iced
+5684,1,Latte Iced
+5686,1,Cappucino Hot
+5686,1,Mochaccino Iced
+5687,1,V60
+5688,2,Matcha cake
+5689,1,Latte Iced
+5690,1,V60
+5690,1,Cappucino Hot
+5690,1,Cappucino Iced
+5691,1,Cappucino Iced
+5691,1,Cappucino Iced
+5695,1,Latte Iced
+5696,1,Mochaccino Hot
+5696,1,V60
+5697,1,Latte Hot
+5697,1,Plain Croisant
+5697,1,Latte Hot
+5701,1,Latte Iced
+5701,1,Plain Croisant
+5702,1,Pistachio Croissant
+5702,1,Matcha tiramisu
+5702,1,Cappucino Hot
+5702,1,Cappucino Hot
+5702,1,Latte Hot
+5703,1,Almond Croisant
+5703,1,Pistachio Croissant
+5704,1,Latte Iced
+5704,1,Cappucino Hot
+5705,1,Latte Hot
+5705,1,V60
+5705,1,Latte Hot
+5705,1,V60
+5706,1,Latte Hot
+5708,1,Flat White Hot
+5709,1,V60
+5711,1,Americano Hot
+5711,1,Longblack Hot
+5711,1,Brownies
+5712,1,V60
+5713,1,Latte Iced
+5713,1,Cappucino Iced
+5713,1,Plain Croisant
+5713,1,Tiramisu
+5717,3,Latte Iced
+5717,1,Almond Croisant
+5718,2,Americano Hot
+5718,1,Latte Iced
+5718,1,Latte Hot
+5718,1,Plain Croisant
+5719,1,Cappucino Iced
+5719,1,Almond Croisant
+5720,1,Mochaccino Hot
+5720,1,Latte Iced
+5723,1,Latte Iced
+5723,1,Flat White Hot
+5723,1,Pain Au Chocolat
+5723,2,Americano Hot
+5727,1,V60
+5728,1,Latte Iced
+5728,1,Longblack Iced
+5728,1,Matcha tiramisu
+5729,1,Flat White Hot
+5729,1,Flat White Hot
+5729,1,Latte Iced
+5730,1,Cold Brew
+5731,1,EspressoHot
+5732,1,Carrot cake
+5732,1,Matcha tiramisu
+5733,1,Decaf Coffee
+5733,1,Carrot cake
+5735,1,Carrot cake
+5736,1,Latte Iced
+5739,1,PiccoloHot
+5739,1,Pain Au Chocolat
+5740,1,Matcha tiramisu
+5741,1,Cappucino Iced
+5742,1,V60
+5742,1,Carrot cake
+5744,2,Flat White Hot
+5745,1,Matcha tiramisu
+5749,1,Latte Iced
+5750,2,Americano Iced
+5751,1,V60
+5751,1,V60
+5751,1,Tiramisu
+5753,1,Cappucino Hot
+5760,1,Latte Iced
+5762,1,Latte Iced
+5762,1,Cold Brew
+5762,1,Carrot cake
+5763,1,Latte Hot
+5764,1,Tiramisu
+5764,1,Latte Iced
+5768,1,Carrot cake
+5769,1,Cappucino Iced
+5770,1,Americano Iced
+5770,1,Latte Iced
+5770,1,Americano Iced
+5770,1,Tiramisu
+5770,2,Almond Croisant
+5772,1,Latte Iced
+5772,1,Flat White Hot
+5772,1,Tiramisu
+5772,1,Matcha tiramisu
+5773,1,Latte Iced
+5775,1,PiccoloHot
+5776,1,Cold Brew
+5777,1,Latte Iced
+5778,1,Matcha tiramisu
+5779,1,Latte Iced
+5781,1,Latte Iced
+5781,1,Tiramisu
+5781,1,Latte Hot
+5782,1,Almond Croisant
+5783,1,Latte Iced
+5784,1,V60
+5784,1,Matcha cake
+5785,1,LatteIce
+5785,1,Flat White Hot
+5785,1,EspressoHot
+5785,1,EspressoHot
+5788,1,Latte Iced
+5788,1,Decaf Coffee
+5788,1,Latte Iced
+5790,2,Latte Iced
+5791,1,Latte Iced
+5791,1,Latte Iced
+5792,1,Cappucino Hot
+5793,1,Tiramisu
+5793,1,Flat White Iced
+5794,1,Cappucino Hot
+5794,1,Mochaccino Hot
+5794,1,Pistachio Croissant
+5796,1,LatteIce
+5796,1,V60
+5798,1,Cappucino Iced
+5801,2,Latte Iced
+5801,1,Tiramisu
+5802,1,PiccoloHot
+5804,1,Flat White Hot
+5804,1,Almond Croisant
+5806,1,Latte Iced
+5806,1,Matcha tiramisu
+5806,1,Almond Croisant
