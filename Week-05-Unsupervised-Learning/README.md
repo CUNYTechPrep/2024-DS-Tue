@@ -23,7 +23,7 @@ git push
     * Review exemplary LinkedIn 
     * Best Slack message. 
 
-0. Unsupervised Learning / Clustering [Google Slides Lecture](https://docs.google.com/presentation/d/1lp_L98ETxK6hIYa_jp3__JRl1nJ8U2ZbClwAYz8e5ZA/edit?usp=sharing)
+0. Unsupervised Learning / Clustering [Google Slides Lecture](https://docs.google.com/presentation/d/1h_SIuiRLayySgDHewUT5YwF5gMbX8KccvqHQHNPXx2A/edit#slide=id.g2fdba9c0d52_0_399)
 0. BREAK
 0. Lecture.ipynb Live Coding
 0. TEAM BREAKOUT ROOMS / meet your advisor. 
