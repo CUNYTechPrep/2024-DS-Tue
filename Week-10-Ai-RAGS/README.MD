@@ -42,6 +42,9 @@ Week XX [Dec  11]: DEMO NIGHT!!!
 
 ## HW
 
+#### Slack Post
+* Post in Slack on thing you were confused about during todays lecture. 
+
 #### PRECLASS HW
 0. [How to Build Your First Data Science Web App in Python - Streamlit Tutorial #1](https://www.youtube.com/watch?v=ZZ4B0QUHuNc&list=PLgkF0qak9G4-TC9_tKW1V4GRcJ9cdmnlx&index=13&ab_channel=DataProfessor) [10min]
 0. [Build A Beautiful Machine Learning Web App With Streamlit And Scikit-learn | Python Tutorial](https://www.youtube.com/watch?v=Klqn--Mu2pE&ab_channel=PatrickLoeber) [40min]
